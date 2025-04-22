@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Leer archivo 1: URLs y deducción
-df1 = pd.read_csv("data/lista_categorizada_ref/lista_global_categorizada.csv")
+df1 = pd.read_csv("data/lista_categorizada_tags/lista_global_categorizada.csv")
 df1.columns = df1.columns.str.strip()
 
 # Leer archivo 2: Estado DNS (Dominio, Status, Bloqueado)
