@@ -1,21 +1,28 @@
 import csv
-from utils.query import Query
-from utils.query_metadata import QueryMetadata
-from utils.csv_utils import create_file_and_path
-from utils.fetch_data import fetch_data
+import requests
 
-def cetegory(query: Query, archivo_entrada: str) -> None:
+
+def execute_query(query: str) -> dict:
+    response = requests.get(query)
+    if response.status_code == 200:
+        return response.json()
+    else:
+        print(f"Error: {response.status_code}")
+        return {}
+
+
+def categorias_ooni(archivo_entrada: str):
+    query = "https://api.ooni.io/api/v1/measurement_meta"
     with open(archivo_entrada, mode='r', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for row in reader:
             measurement_uid = row.get('measurement_uid', None)
             try:
-                query_Metadata = QueryMetadata(query)
-                query_Metadata = query_Metadata.QueryMetadata(measurement_uid)
-                data = fetch_data(query_Metadata)
+                data = f"{query}?measurement_uid={measurement_uid}"
+                data = execute_query(data)
                 if not data:
                     print(f"No se pudieron obtener datos")
-                    return
+                    continue
 
                 row = {
                     "measurement_uid": measurement_uid or "None",
@@ -23,9 +30,7 @@ def cetegory(query: Query, archivo_entrada: str) -> None:
                     "category_code": data.get("category_code", "None")
                 }
                 
-                """ escribir un un archivo salida csv con las columnas de row"""
-                output_file = create_file_and_path("data/lista_categorizada_ooni", "categorias_ooni.csv")
-                with open(output_file, mode='a', newline='', encoding='utf-8') as output_csv:
+                with open("csv_output/categorizated_ooni.csv", mode='a', newline='', encoding='utf-8') as output_csv:
                     fieldnames = ["measurement_uid", "input", "category_code"]
                     writer = csv.DictWriter(output_csv, fieldnames=fieldnames)
                     if output_csv.tell() == 0: 
@@ -34,3 +39,7 @@ def cetegory(query: Query, archivo_entrada: str) -> None:
                     
             except Exception as e:
                 print(f"Error al obtener datos: {e}")
+    
+
+        
+categorias_ooni("csv_output/global_list_to_clasification_ooni.csv")
