@@ -78,16 +78,16 @@ def get_data(since: int = 2023, until: int = 2025) -> None:
                 
                 data = execute_query(queryEx)   
                 filtered_data = remove_duplicates(filter_dns(data))    
-                save_to_csv(filtered_data, f"historical_data")
+                save_to_csv(filtered_data, f"historical_data", output_folder="csv_output/historical_data")
                        
             since += 1
         since = 2023
         
 
 def delete_duplicates():
-    df = pd.read_csv("csv_output/historical_data.csv")
+    df = pd.read_csv("csv_output/historical_data/historical_data.csv")
     df_limpio = df.drop_duplicates(subset="input")
-    df_limpio.to_csv("csv_output/historical_data.csv", index=False)
+    df_limpio.to_csv("csv_output/historical_data/historical_data.csv", index=False)
 
 get_data()
 delete_duplicates()

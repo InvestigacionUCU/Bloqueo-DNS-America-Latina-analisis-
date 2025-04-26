@@ -83,4 +83,4 @@ def lock_type(archivo_entrada: str):
                 path = f"csv_output/lists/{value}.csv"
                 escribir_tipo_de_bloqueo_csv(path, [row], "a")
                 
-lock_type("csv_output/result_executated.csv")
+lock_type("csv_output/ooni_executation_result/ooni_executation_result.csv")

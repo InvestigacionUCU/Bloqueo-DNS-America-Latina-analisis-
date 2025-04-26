@@ -12,21 +12,15 @@ df2.columns = df2.columns.str.strip()
 df3 = pd.read_csv("csv_output/lists/uruguay.csv")
 df3.columns = df3.columns.str.strip()
 
-# Leer archivo 4: Categorías OONI
-df4 = pd.read_csv("csv_output/categorizated_ooni.csv", encoding="latin1")
-df4.columns = df4.columns.str.strip()
-
 # Normalizar dominios
 df1["dominio"] = df1["url"].str.replace("https://", "").str.replace("http://", "").str.strip().str.lower().str.rstrip("/")
 df2["Dominio"] = df2["Dominio"].str.replace("https://", "").str.replace("http://", "").str.strip().str.lower().str.rstrip("/")
 df3["input_normalizada"] = df3["input"].str.replace("https://", "").str.replace("http://", "").str.strip().str.lower().str.rstrip("/")
-df4["dominio"] = df4["input"].str.replace("https://", "").str.replace("http://", "").str.strip().str.lower().str.rstrip("/")
 
 # Eliminar duplicados
 df1 = df1.drop_duplicates(subset=["dominio"])
 df2 = df2.drop_duplicates(subset=["Dominio"])
 df3 = df3.drop_duplicates(subset=["input_normalizada"])
-df4 = df4.drop_duplicates(subset=["dominio"])
 
 # Mapas de fallas y estado
 df3_grouped = df3.groupby("input_normalizada").first()
@@ -62,11 +56,6 @@ df1["deduccion"] = df1["deduccion"].fillna("").replace("", "SIN DEDUCCION")
 # Limpiar URLs
 df1["url"] = df1["url"].str.replace("https://", "").str.replace("http://", "").str.strip().str.lower().str.rstrip("/")
 
-# ➕ Agregar columna de categoría desde df4
-df4_grouped = df4.groupby("dominio")["category_code"].first().reset_index()
-df4_grouped.rename(columns={"category_code": "categorias(OONI)"}, inplace=True)
-df1 = df1.merge(df4_grouped, on="dominio", how="left")
-df1["categorias(OONI)"] = df1["categorias(OONI)"].fillna("SIN CATEGORIA")
 
 # Exportar con columnas renombradas y en orden deseado
 df1[[
@@ -76,6 +65,5 @@ df1[[
     "dns_experiment_failure(OONI)",
     "http_experiment_failure(OONI)",
     "Status(DIG)",
-    "categorias(OONI)",
     "deduccion"
 ]].to_csv("resultado.csv", index=False)
