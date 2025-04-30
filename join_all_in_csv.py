@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Leer archivo 1: URLs y deducción ooni
-df1 = pd.read_csv("csv_output/categorizated_manual_list.csv")
+df1 = pd.read_csv("csv_output/clasification/categorizated_manual_list.csv")
 df1.columns = df1.columns.str.strip()
 
 # Leer archivo 2: Estado DNS (Dominio, Status, Bloqueado)
@@ -9,7 +9,7 @@ df2 = pd.read_csv("csv_output/digs/Uruguay.csv")
 df2.columns = df2.columns.str.strip()
 
 # Leer archivo 3: Fallos DNS/HTTP/accessible
-df3 = pd.read_csv("csv_output/lists/uruguay.csv")
+df3 = pd.read_csv("csv_output/lists/uruguay_movistar.csv")
 df3.columns = df3.columns.str.strip()
 
 # Normalizar dominios
@@ -66,4 +66,4 @@ df1[[
     "http_experiment_failure(OONI)",
     "Status(DIG)",
     "deduccion"
-]].to_csv("resultado.csv", index=False)
+]].to_csv("uruguay_movistar.csv", index=False)

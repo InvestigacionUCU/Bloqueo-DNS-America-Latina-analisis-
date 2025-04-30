@@ -1,2 +1,0 @@
-measurement_uid,input,dns_experiment_failure,http_experiment_failure,dns_consistency,accessible,resolver_asn,resolver_ip,status_code
-20250419210951.623607_UY_webconnectivity_2aa79845dc8b49a5,http://www.eurogrand.com/,android_dns_cache_no_data,None,inconsistent,False,AS60068,169.150.220.198,-1
