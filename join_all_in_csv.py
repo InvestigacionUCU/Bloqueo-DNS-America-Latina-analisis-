@@ -24,7 +24,13 @@ df3 = df3.drop_duplicates(subset=["input_normalizada"])
 
 # Mapas de fallas y estado
 df3_grouped = df3.groupby("input_normalizada").first()
-mapa_fallas = df3_grouped[["dns_experiment_failure", "http_experiment_failure", "accessible"]].to_dict(orient="index")
+mapa_fallas = df3_grouped[[
+    "dns_experiment_failure",
+    "http_experiment_failure",
+    "accessible",
+    "resolver_asn",
+    "resolver_ip"
+]].to_dict(orient="index")
 mapa_estado = df2.set_index("Dominio")[["Status", "Bloqueado"]].to_dict(orient="index")
 
 # Agregar columnas al df1
@@ -44,6 +50,9 @@ df1["accessible(OONI)"] = df1["accessible(OONI)"].astype(str).str.strip().replac
     {"": "SI", "False": "NO", "false": "NO", "True": "SI", "true": "SI"}
 )
 
+df1["resolver_asn(OONI)"] = df1["dominio"].map(lambda x: mapa_fallas.get(x, {}).get("resolver_asn", ""))
+df1["resolver_ip(OONI)"] = df1["dominio"].map(lambda x: mapa_fallas.get(x, {}).get("resolver_ip", ""))
+
 df1["Status(DIG)"] = df1["dominio"].map(lambda x: mapa_estado.get(x, {}).get("Status", ""))
 df1["accessible(DIG)"] = df1["dominio"].map(lambda x: mapa_estado.get(x, {}).get("Bloqueado", ""))
 
@@ -58,12 +67,14 @@ df1["url"] = df1["url"].str.replace("https://", "").str.replace("http://", "").s
 
 
 # Exportar con columnas renombradas y en orden deseado
-df1[[
+df1[[  
     "url",
     "accessible(OONI)",
     "accessible(DIG)",
     "dns_experiment_failure(OONI)",
     "http_experiment_failure(OONI)",
     "Status(DIG)",
+    "resolver_asn(OONI)",
+    "resolver_ip(OONI)",
     "deduccion"
 ]].to_csv("uruguay_movistar.csv", index=False)
