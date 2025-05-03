@@ -59,8 +59,8 @@ df1["accessible(DIG)"] = df1["dominio"].map(lambda x: mapa_estado.get(x, {}).get
 df1["accessible(DIG)"] = df1["accessible(DIG)"].astype(str).str.strip().replace(
     {"SI": "NO", "Si": "NO", "Sí": "NO", "NO": "SI", "No": "SI"}
 )
-df1["deduccion"] = df1["deduccion"].fillna("").replace("", "SIN DEDUCCION")
-
+df1["deduccion primaria"] = df1["deduccion primaria"].fillna("").replace("", "SIN DEDUCCION")
+df1["deduccion secundaria"] = df1["deduccion secundaria"].fillna("").replace("", "SIN DEDUCCION")
 
 # Limpiar URLs
 df1["url"] = df1["url"].str.replace("https://", "").str.replace("http://", "").str.strip().str.lower().str.rstrip("/")
@@ -76,5 +76,6 @@ df1[[
     "Status(DIG)",
     "resolver_asn(OONI)",
     "resolver_ip(OONI)",
-    "deduccion"
+    "deduccion primaria",
+    "deduccion secundaria"
 ]].to_csv("uruguay_movistar.csv", index=False)
