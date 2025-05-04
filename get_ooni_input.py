@@ -53,12 +53,13 @@ def save_to_csv(data: list, label: str, output_folder: str = "csv_output") -> No
 
     os.makedirs(output_folder, exist_ok=True)
     file_name = f"{output_folder}/{label}.csv"
-
     headers = list(data[0].keys())
+    write_header = not os.path.exists(file_name)
 
     with open(file_name, mode="a", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=headers)
-        writer.writeheader()
+        if write_header:
+            writer.writeheader()
         for row in data:
             writer.writerow(row)
 
