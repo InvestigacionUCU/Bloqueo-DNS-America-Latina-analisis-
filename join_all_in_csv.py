@@ -79,3 +79,7 @@ df1[[
     "deduccion primaria",
     "deduccion secundaria"
 ]].to_csv("uruguay_movistar.csv", index=False)
+
+
+df = pd.read_csv('argentina.csv')
+df.to_excel('argentina.xlsx', index=False)
