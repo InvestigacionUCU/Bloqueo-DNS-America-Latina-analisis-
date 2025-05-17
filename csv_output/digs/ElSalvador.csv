@@ -4,7 +4,7 @@ rojadirecta.me,NOERROR,No,52.223.39.56
 www.goldenpalace.com,NOERROR,No,188.166.140.34
 www.gambling.com,NOERROR,No,"104.18.26.235, 104.18.27.235"
 www.europacasino.com,NOERROR,No,"172.66.44.186, 172.66.47.70"
-www.eurogrand.com,NOERROR,No,N/A
+www.eurogrand.com,NOERROR,No,
 www.casino.com,NOERROR,No,151.101.19.52
 www.casinotropez.com,NOERROR,No,"104.21.16.1, 104.21.112.1, 104.21.48.1, 104.21.32.1, 104.21.80.1, 104.21.96.1, 104.21.64.1"
 www.betfair.com,NOERROR,No,"104.19.153.16, 104.19.154.16"
@@ -14,7 +14,6 @@ www.sportingbet.com,NOERROR,No,"104.16.100.49, 104.16.99.49"
 www.spinpalace.com,NOERROR,No,"104.18.179.110, 104.18.178.110"
 www.pokerstars.com,NOERROR,No,"23.61.251.93, 23.61.251.82"
 www.onlinegambling.com,NOERROR,No,"104.19.185.101, 104.19.186.101"
-www.gstatic.com/robots.txt,NXDOMAIN,Sí,N/A
 www.wetplace.com,NOERROR,No,74.63.241.28
 ilga.org,NOERROR,No,"104.26.2.128, 172.67.69.48, 104.26.3.128"
 8kun.top,NOERROR,No,"77.73.69.98, 135.148.43.6, 77.73.68.181"
@@ -26,13 +25,12 @@ www.imf.org,NOERROR,No,"23.223.194.144, 23.223.194.146"
 www.dailysabah.com,NOERROR,No,"13.32.87.103, 13.32.87.67, 13.32.87.116, 13.32.87.114"
 diariolajuventud.com,NOERROR,No,"104.21.15.100, 172.67.162.39"
 archive.ph,NOERROR,No,178.250.246.75
-www.securityfocus.com,NOERROR,No,N/A
+www.securityfocus.com,NOERROR,No,
 www.stratcom.mil,NOERROR,No,"23.223.194.143, 23.223.194.146"
 www.guildwars.com,NOERROR,No,"23.23.227.177, 35.169.251.100"
 www.dailymail.co.uk,NOERROR,No,23.45.32.166
 www.honduras.com,NOERROR,No,"18.239.225.81, 18.239.225.19, 18.239.225.60, 18.239.225.5"
 wikidata.org,NOERROR,No,208.80.154.224
-www.projectbaseline.com/study/covid-19,NXDOMAIN,Sí,N/A
 www.itsyoursexlife.com,NOERROR,No,"98.83.184.133, 54.157.108.158, 100.28.104.175"
 www.jsf.mil,NOERROR,No,140.19.248.11
 dailystormer.name,NOERROR,No,"172.67.137.29, 104.21.38.178"
@@ -43,17 +41,15 @@ xe.com,NOERROR,No,"13.226.52.34, 13.226.52.70, 13.226.52.30, 13.226.52.68"
 www.bbm.com,NOERROR,No,74.82.70.131
 www.rt.com,NOERROR,No,"89.191.237.192, 185.79.236.174"
 www.ecequality.org,NOERROR,No,"76.223.105.230, 13.248.243.5"
-video.twimg.com/tweet_video/EC6DSXDXsAEhHAa.mp4,NXDOMAIN,Sí,N/A
-www.mnr.gov.cn,SERVFAIL,Sí,N/A
-kickassclassical.com,NOERROR,No,N/A
-www.getrevue.co,NOERROR,No,N/A
+www.mnr.gov.cn,SERVFAIL,Sí,
+kickassclassical.com,NOERROR,No,
+www.getrevue.co,NOERROR,No,
 eltelescopio.com.uy,NOERROR,No,75.102.58.134
 ladiaria.com.uy,NOERROR,No,"172.67.73.53, 104.26.12.4, 104.26.13.4"
 plus.im,NOERROR,No,147.79.72.174
 www.xroxy.com,NOERROR,No,"108.61.40.123, 108.61.40.125"
 www.thegailygrind.com,NOERROR,No,147.79.72.131
-www.religioustolerance.org,SERVFAIL,Sí,N/A
-www.peacefire.org/circumventor/simple-circumventor-instructions.html,NXDOMAIN,Sí,N/A
+www.religioustolerance.org,SERVFAIL,Sí,
 www.ned.org,NOERROR,No,23.185.0.4
 www.nclrights.org,NOERROR,No,"141.193.213.11, 141.193.213.10"
 www.megaproxy.com,NOERROR,No,52.70.232.188
@@ -78,8 +74,6 @@ www.csidonline.org,NOERROR,No,188.165.51.93
 www.bicommunitynews.co.uk,NOERROR,No,185.151.30.190
 www.anonymizer.ru,NOERROR,No,213.174.158.135
 ultrasurf.us,NOERROR,No,"104.21.62.172, 172.67.137.144"
-dl.bintray.com/jfrog/xray,NXDOMAIN,Sí,N/A
-dit.whatsapp.net/robots.txt,NXDOMAIN,Sí,N/A
 sci.hubg.org,NOERROR,No,72.52.178.23
 medpot.net,NOERROR,No,"104.21.51.243, 172.67.192.62"
 www.petside.com,NOERROR,No,"104.21.21.59, 172.67.196.195"
@@ -93,19 +87,17 @@ www.copticchurch.net,NOERROR,No,"104.21.67.237, 172.67.182.247"
 www.cleanwateraction.org,NOERROR,No,23.185.0.3
 www.autistici.org,NOERROR,No,"93.190.126.19, 198.167.222.108, 82.94.249.234"
 noblogs.org,NOERROR,No,"198.167.222.108, 82.94.249.234, 93.190.126.19"
-mozilla.cloudflare-dns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,NXDOMAIN,Sí,N/A
-dns.quad9.net/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,NXDOMAIN,Sí,N/A
 www.mediafire.com,NOERROR,No,"104.17.151.117, 104.17.150.117"
 www.frc.org,NOERROR,No,64.196.237.41
 www.formercatholic.com,NOERROR,No,216.239.32.21
 www.atheists.org,NOERROR,No,"104.26.5.236, 104.26.4.236, 172.67.74.103"
 dns.google,NOERROR,No,"8.8.8.8, 8.8.4.4"
-doh.centraleu.pi-dns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,NXDOMAIN,Sí,N/A
-www.phenoelit.org,SERVFAIL,Sí,N/A
-unioncivica.org.uy,SERVFAIL,Sí,N/A
-www.metacafe.com,UNKNOWN,No,N/A
+doh.centraleu.pi-dns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,NXDOMAIN,Sí,
+www.phenoelit.org,SERVFAIL,Sí,
+unioncivica.org.uy,SERVFAIL,Sí,
+www.metacafe.com,UNKNOWN,No,
 www.appzplanet.com,NOERROR,No,74.63.241.22
-www.sbs.com.au/language/coronavirus?cid=infocus,NXDOMAIN,Sí,N/A
+www.sbs.com.au/language/coronavirus?cid=infocus,NXDOMAIN,Sí,
 hackerspaces.org,NOERROR,No,212.12.52.48
 www.kcna.kp,NOERROR,No,"175.45.176.71, 175.45.177.1"
 www.solicitorsfromhell.com,NOERROR,No,"13.248.169.48, 76.223.54.146"
@@ -113,7 +105,7 @@ www.sex.com,NOERROR,No,"35.168.96.228, 54.82.189.147, 34.232.198.165"
 nordvpn.com,NOERROR,No,"104.16.208.203, 104.19.159.190"
 www.xinhuanet.com,NOERROR,No,"169.150.230.100, 98.96.212.203"
 www.gawker.com,NOERROR,No,"34.234.106.80, 100.28.201.155"
-social.undernet.uy,NXDOMAIN,Sí,N/A
+social.undernet.uy,NXDOMAIN,Sí,
 kiwifarms.net,NOERROR,No,"179.43.172.163, 185.225.114.106, 185.231.102.62, 207.5.194.234, 212.23.222.98"
 prism-break.org,NOERROR,No,35.185.44.232
 guardster.com,NOERROR,No,"104.21.30.39, 172.67.150.134"
@@ -124,15 +116,13 @@ www.acj-ymca.org,NOERROR,No,199.59.243.228
 imo.im,NOERROR,No,"83.229.98.15, 83.229.98.31"
 www.ntv.ru,NOERROR,No,"185.129.100.162, 185.129.100.166"
 www.cseindia.org,NOERROR,No,3.6.12.203
-www.islamdoor.com,SERVFAIL,Sí,N/A
-cdn.sstatic.net/Img/home/open-source.svg,NXDOMAIN,Sí,N/A
+www.islamdoor.com,SERVFAIL,Sí,
 www.on-instant.com,NOERROR,No,193.3.19.74
 globalpressjournal.com,NOERROR,No,"104.21.85.93, 172.67.204.63"
 www.mp3.com,NOERROR,No,3.33.139.32
 www.rarbg.to,NOERROR,No,"104.21.96.1, 104.21.48.1, 104.21.112.1, 104.21.80.1, 104.21.16.1, 104.21.32.1, 104.21.64.1"
-libgen.me,NOERROR,No,N/A
+libgen.me,NOERROR,No,
 secondlife.com,NOERROR,No,"184.27.177.169, 184.27.177.149"
-www.gaysylesbianasdeuruguay.com,NXDOMAIN,Sí,N/A
 www.oneworld.net,NOERROR,No,66.45.226.139
 www.mail2web.com,NOERROR,No,66.113.135.6
 i2pforum.net,NOERROR,No,91.143.90.53
@@ -144,7 +134,7 @@ www.oovoo.com,NOERROR,No,"104.21.80.90, 172.67.176.162"
 www.netflix.com,NOERROR,No,"3.211.157.115, 54.160.93.182, 3.225.92.8"
 timesofindia.indiatimes.com,NOERROR,No,"23.221.212.10, 23.221.212.42"
 www.cis.minsk.by,NOERROR,No,195.222.71.116
-cf-ipfs.com,NOERROR,No,N/A
+cf-ipfs.com,NOERROR,No,
 www.dailymotion.com,NOERROR,No,3.134.235.187
 www.kabobfest.com,NOERROR,No,31.220.81.116
 mask.icloud.com,NOERROR,No,"172.224.205.9, 172.224.205.3, 172.224.89.14, 172.224.205.14, 172.224.89.5, 172.224.89.6, 172.224.205.4, 172.224.205.6"
@@ -152,47 +142,43 @@ mask-h2.icloud.com,NOERROR,No,"172.224.205.3, 172.224.89.14, 172.224.205.14, 172
 www.espectador.com,NOERROR,No,179.27.158.101
 www.womensmediacenter.com,NOERROR,No,104.207.230.167
 www.search.com,NOERROR,No,64.181.193.154
-cloudflare-ipfs.com,NOERROR,No,N/A
-doh-fi.blahdns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,NXDOMAIN,Sí,N/A
+cloudflare-ipfs.com,NOERROR,No,
 www.globet.com,NOERROR,No,"3.33.130.190, 15.197.148.33"
 startpage.com,NOERROR,No,67.63.61.137
 twitter.com,NOERROR,No,162.159.140.229
-hrlibrary.umn.edu/iwraw,NXDOMAIN,Sí,N/A
 www.jabber.ru,NOERROR,No,116.202.237.43
 www.dotster.com,NOERROR,No,172.64.148.83
-www.eurogrand.com,NOERROR,No,N/A
-search.privacytools.io,NOERROR,No,N/A
-www.splitacecasino.net,SERVFAIL,Sí,N/A
-www.ragingbullcampaign.com,SERVFAIL,Sí,N/A
-tutl24.xyz,NOERROR,No,N/A
-hocast4.com,NXDOMAIN,Sí,N/A
+www.eurogrand.com,NOERROR,No,
+search.privacytools.io,NOERROR,No,
+www.splitacecasino.net,SERVFAIL,Sí,
+www.ragingbullcampaign.com,SERVFAIL,Sí,
+tutl24.xyz,NOERROR,No,
 www.futbollibretv.fr,NOERROR,No,31.214.178.54
-totototorina.com,NXDOMAIN,Sí,N/A
 librefutbol.futbol,NOERROR,No,72.52.178.23
 futbollibrehd.net,NOERROR,No,72.52.178.23
 librefutboltv.net,NOERROR,No,72.52.178.23
-ott-cdn.me,NOERROR,No,N/A
-ottc.pro,NOERROR,No,N/A
-tvmagis.net,NOERROR,No,N/A
-libre.futbol,NOERROR,No,N/A
+ott-cdn.me,NOERROR,No,
+ottc.pro,NOERROR,No,
+tvmagis.net,NOERROR,No,
+libre.futbol,NOERROR,No,
 televisionlibre.futbol,NOERROR,No,52.223.13.41
 portalbarranca.com,NOERROR,No,"172.67.154.89, 104.21.42.2"
 televisiongratishd.com,NOERROR,No,69.16.230.165
-www.123bingoonline.com,SERVFAIL,Sí,N/A
-www.21nova.es,NOERROR,No,N/A
-www.allirishcasino.com,NOERROR,No,N/A
-www.caesarsbingo.com,SERVFAIL,Sí,N/A
-www.freespinscasino.com,NOERROR,No,N/A
-www.jetbull.com,SERVFAIL,Sí,N/A
-www.123bingoonline.com,SERVFAIL,Sí,N/A
-www.21nova.es,NOERROR,No,N/A
-www.allirishcasino.com,NOERROR,No,N/A
-www.caesarsbingo.com,SERVFAIL,Sí,N/A
-www.eurogrand.com,NOERROR,No,N/A
-www.freespinscasino.com,NOERROR,No,N/A
-www.jetbull.com,SERVFAIL,Sí,N/A
-www.ragingbullcampaign.com,SERVFAIL,Sí,N/A
-www.splitacecasino.net,SERVFAIL,Sí,N/A
+www.123bingoonline.com,SERVFAIL,Sí,
+www.21nova.es,NOERROR,No,
+www.allirishcasino.com,NOERROR,No,
+www.caesarsbingo.com,SERVFAIL,Sí,
+www.freespinscasino.com,NOERROR,No,
+www.jetbull.com,SERVFAIL,Sí,
+www.123bingoonline.com,SERVFAIL,Sí,
+www.21nova.es,NOERROR,No,
+www.allirishcasino.com,NOERROR,No,
+www.caesarsbingo.com,SERVFAIL,Sí,
+www.eurogrand.com,NOERROR,No,
+www.freespinscasino.com,NOERROR,No,
+www.jetbull.com,SERVFAIL,Sí,
+www.ragingbullcampaign.com,SERVFAIL,Sí,
+www.splitacecasino.net,SERVFAIL,Sí,
 www.televisiongratishd.com,NOERROR,No,69.16.230.165
 www.pokerstars.com,NOERROR,No,"23.204.115.164, 23.204.115.181"
 www.roxypalace.com,NOERROR,No,85.184.96.0
@@ -235,7 +221,6 @@ www.betsson.com,NOERROR,No,"13.35.116.109, 13.35.116.118, 13.35.116.87, 13.35.11
 www.betsafe.com,NOERROR,No,"18.173.166.14, 18.173.166.113, 18.173.166.47, 18.173.166.53"
 www.betplatino.com,NOERROR,No,86.105.245.69
 www.betmotion.com,NOERROR,No,"104.17.237.239, 104.17.238.239"
-www.betlive.com/ka,NXDOMAIN,Sí,N/A
 www.betika.com,NOERROR,No,"162.159.129.86, 162.159.128.86"
 www.betfred.com,NOERROR,No,"104.18.37.140, 172.64.150.116"
 www.betesporte.com,NOERROR,No,104.17.104.76
@@ -375,12 +360,12 @@ www.luxurycasino.com,NOERROR,No,66.212.229.242
 www.luckynuggetcasino.com,NOERROR,No,"104.17.208.69, 104.17.207.69"
 www.luckyniki.com,NOERROR,No,"104.16.239.246, 104.16.238.246"
 www.luckylivecasino.com,NOERROR,No,"172.66.43.151, 172.66.40.105"
-www.lsbet709.com,NXDOMAIN,Sí,N/A
+www.lsbet709.com,NXDOMAIN,Sí,
 www.lucky-31.com,NOERROR,No,"89.116.250.41, 89.116.250.215"
 www.lotoplay.com,NOERROR,No,200.122.181.88
 www.llamagaming.com,NOERROR,No,216.245.197.45
 www.lottomatica.it,NOERROR,No,"23.223.194.138, 23.223.194.146"
-www.legolas.bet,NXDOMAIN,Sí,N/A
+www.legolas.bet,NXDOMAIN,Sí,
 www.lafiestacasino.com,NOERROR,No,164.90.204.25
 www.krooncasino.com,NOERROR,No,"18.159.100.253, 18.198.219.129, 52.28.198.148"
 www.jubilee.com.mx,NOERROR,No,69.163.194.77
@@ -439,7 +424,7 @@ www.costabingo.com,NOERROR,No,"3.166.152.49, 3.166.152.17, 3.166.152.102, 3.166.
 www.codere.es,NOERROR,No,"23.45.49.71, 23.45.49.62"
 www.codere.bet.ar,NOERROR,No,"23.45.49.67, 23.45.49.59"
 www.club777.com,NOERROR,No,"104.21.96.1, 104.21.16.1, 104.21.112.1, 104.21.64.1, 104.21.32.1, 104.21.48.1, 104.21.80.1"
-www.citytowerscasino.com,NXDOMAIN,Sí,N/A
+www.citytowerscasino.com,NXDOMAIN,Sí,
 www.cleopatracasino.com,NOERROR,No,5.10.246.1
 www.citycenteronline.bet.ar,NOERROR,No,"172.67.71.16, 104.26.13.53, 104.26.12.53"
 www.circus.es,NOERROR,No,"172.67.221.242, 104.21.46.3"
@@ -497,7 +482,6 @@ www.betsafe.com,NOERROR,No,"18.173.166.14, 18.173.166.47, 18.173.166.113, 18.173
 www.betrally.com,NOERROR,No,"159.89.244.183, 164.90.244.158"
 www.betplatino.com,NOERROR,No,86.105.245.69
 www.betika.com,NOERROR,No,"162.159.128.86, 162.159.129.86"
-www.betlive.com/ka,NXDOMAIN,Sí,N/A
 www.betchan.com,NOERROR,No,5.10.247.155
 www.betchain.com,NOERROR,No,"104.26.9.177, 104.26.8.177, 172.67.71.65"
 www.betcasinograndbay.com,NOERROR,No,"104.17.176.245, 104.18.143.153"
@@ -531,17 +515,14 @@ betway.com,NOERROR,No,"172.64.152.28, 104.18.35.228"
 futbollibre.app,NOERROR,No,72.52.178.23
 futbollibre.futbol,NOERROR,No,"172.67.150.171, 104.21.80.144"
 www.futbollibre.run,NOERROR,No,"172.67.183.25, 104.21.18.180"
-pelotalibre.pe,NXDOMAIN,Sí,N/A
 pelotalibre.org,NOERROR,No,"172.67.136.194, 104.21.54.76"
 www.pirlotvhd.lol,NOERROR,No,"104.21.96.1, 104.21.64.1, 104.21.48.1, 104.21.112.1, 104.21.16.1, 104.21.32.1, 104.21.80.1"
-pricesaskeloadsc.com,NXDOMAIN,Sí,N/A
 la10tv.com,NOERROR,No,"172.67.129.205, 104.21.2.235"
-televisionlibre.online,NXDOMAIN,Sí,N/A
+televisionlibre.online,NXDOMAIN,Sí,
 pelotalibretv.com,NOERROR,No,"172.67.174.130, 104.21.40.18"
-tvhd.pe,NXDOMAIN,Sí,N/A
 deporte-libre.top,NOERROR,No,"104.21.80.1, 104.21.32.1, 104.21.48.1, 104.21.16.1, 104.21.64.1, 104.21.96.1, 104.21.112.1"
 librefutbol.cl,NOERROR,No,"172.67.129.46, 104.21.1.111"
-futbollibrego.pe,NOERROR,No,N/A
+futbollibrego.pe,NOERROR,No,
 viperplay.online,NOERROR,No,51.91.220.102
 rusticotv.net,NOERROR,No,"104.21.80.1, 104.21.16.1, 104.21.48.1, 104.21.112.1, 104.21.96.1, 104.21.32.1, 104.21.64.1"
 rusticotvhd.com,NOERROR,No,"172.67.188.27, 104.21.7.244"
@@ -549,13 +530,13 @@ viperplayhd.com,NOERROR,No,"172.67.183.206, 104.21.48.104"
 la12hd.com,NOERROR,No,91.218.49.105
 www.12betng.com,NOERROR,No,103.9.76.101
 www.1xlite.com,NOERROR,No,72.52.178.23
-www.47millones.com,NXDOMAIN,Sí,N/A
+www.47millones.com,NXDOMAIN,Sí,
 www.6686vn3.com,NOERROR,No,"3.33.130.190, 15.197.148.33"
 www.777dragoncasino.com,NOERROR,No,66.212.225.89
 www.8xbet2.com,NOERROR,No,16.163.59.191
 www.Isports.eu,NOERROR,No,75.2.126.67
 www.aladdinsgoldcasino.com,NOERROR,No,"104.17.233.73, 104.17.234.73"
-www.apuesteenlinea.com,NXDOMAIN,Sí,N/A
+www.apuesteenlinea.com,NXDOMAIN,Sí,
 www.bestingame.it,NOERROR,No,"23.39.223.146, 23.39.223.144"
 www.bet777.es,NOERROR,No,"104.18.32.197, 172.64.155.59"
 www.betapuesta.com,NOERROR,No,89.40.173.47
@@ -565,7 +546,7 @@ www.betfred.com,NOERROR,No,"172.64.150.116, 104.18.37.140"
 www.betesporte.com,NOERROR,No,104.17.104.76
 www.betmotion.com,NOERROR,No,"104.17.238.239, 104.17.237.239"
 www.betmotion.com.co,NOERROR,No,"15.197.225.128, 3.33.251.168"
-www.betspil.dk,NXDOMAIN,Sí,N/A
+www.betspil.dk,NXDOMAIN,Sí,
 www.betsson.uy,NOERROR,No,"104.21.16.1, 104.21.64.1, 104.21.96.1, 104.21.48.1, 104.21.32.1, 104.21.112.1, 104.21.80.1"
 www.bigfishgames.com,NOERROR,No,151.101.15.10
 www.bgo.com,NOERROR,No,"199.60.103.28, 199.60.103.228"
@@ -574,8 +555,8 @@ www.binguez.com,NOERROR,No,"195.72.134.91, 195.72.135.91"
 www.blackjackballroom.es,NOERROR,No,209.15.247.26
 www.buzzluck.com,NOERROR,No,"104.16.16.16, 104.16.17.16"
 www.casinobellini.com,NOERROR,No,5.62.89.20
-www.casinoestrella100.com,NXDOMAIN,Sí,N/A
-www.casinocolombia.com.co,NXDOMAIN,Sí,N/A
+www.casinoestrella100.com,NXDOMAIN,Sí,
+www.casinocolombia.com.co,NXDOMAIN,Sí,
 www.casinogranmadrid.es,NOERROR,No,"172.67.27.91, 104.22.32.98, 104.22.33.98"
 www.casinogranmadridonline.es,NOERROR,No,"104.22.6.183, 104.22.7.183, 172.67.24.42"
 www.casinoland.com,NOERROR,No,35.177.8.108
@@ -593,7 +574,7 @@ www.esportesdasorte.net,NOERROR,No,104.17.104.76
 www.elcasinocaribe.com,NOERROR,No,"104.21.48.1, 104.21.112.1, 104.21.80.1, 104.21.32.1, 104.21.96.1, 104.21.16.1, 104.21.64.1"
 www.fanteam.com,NOERROR,No,"104.18.27.203, 104.18.26.203"
 www.exbeteu.com,NOERROR,No,"104.21.13.155, 172.67.200.162"
-www.foxfoxbet.com,NXDOMAIN,Sí,N/A
+www.foxfoxbet.com,NXDOMAIN,Sí,
 www.fruitycasa.com,NOERROR,No,"79.125.35.100, 52.212.150.196, 54.76.86.177"
 www.fun-88.in,NOERROR,No,172.65.244.226
 www.gowild.com,NOERROR,No,"104.21.30.178, 172.67.173.126"
@@ -609,19 +590,19 @@ www.juegos-casino.org,NOERROR,No,"104.21.33.164, 172.67.147.60"
 www.lapalingo.com,NOERROR,No,"104.21.32.141, 172.67.152.97"
 www.konradfun.com,NOERROR,No,200.25.69.94
 www.llanobet.com,NOERROR,No,86.105.245.69
-www.losjuegosdeazar.es,NXDOMAIN,Sí,N/A
-www.llanosportbet.co,NXDOMAIN,Sí,N/A
+www.losjuegosdeazar.es,NXDOMAIN,Sí,
+www.llanosportbet.co,NXDOMAIN,Sí,
 www.luckyredcasino.com,NOERROR,No,"104.18.227.39, 104.18.226.39"
 www.luckia.es,NOERROR,No,"104.18.20.233, 104.18.21.233"
-www.m.caba.codere.bet.ar,NXDOMAIN,Sí,N/A
-www.m.esportesdasorte.com,NXDOMAIN,Sí,N/A
-www.magicboxcasino.com,NXDOMAIN,Sí,N/A
-www.m.dale.sv,NXDOMAIN,Sí,N/A
-www.merkurmagic.es,NXDOMAIN,Sí,N/A
-www.mongoosecasino.com,NXDOMAIN,Sí,N/A
-www.moneygaming.com,NXDOMAIN,Sí,N/A
+www.m.caba.codere.bet.ar,NXDOMAIN,Sí,
+www.m.esportesdasorte.com,NXDOMAIN,Sí,
+www.magicboxcasino.com,NXDOMAIN,Sí,
+www.m.dale.sv,NXDOMAIN,Sí,
+www.merkurmagic.es,NXDOMAIN,Sí,
+www.mongoosecasino.com,NXDOMAIN,Sí,
+www.moneygaming.com,NXDOMAIN,Sí,
 www.mozzartbet.com,NOERROR,No,"104.17.199.53, 104.17.200.53"
-www.mr.bet,NXDOMAIN,Sí,N/A
+www.mr.bet,NXDOMAIN,Sí,
 www.nossaaposta.pt,NOERROR,No,89.115.228.245
 www.oceanonlinecasino.com,NOERROR,No,"172.67.197.201, 104.21.60.148"
 www.oddspedia.com,NOERROR,No,"104.18.34.121, 172.64.153.135"
@@ -632,23 +613,23 @@ www.paston.es,NOERROR,No,185.76.215.78
 www.partygammon.com,NOERROR,No,"44.205.92.141, 3.213.155.139"
 www.pin-up.casino,NOERROR,No,188.244.122.239
 www.planetwin365.com,NOERROR,No,108.142.238.82
-www.playbet.com.co,NXDOMAIN,Sí,N/A
+www.playbet.com.co,NXDOMAIN,Sí,
 www.playuzu.com,NOERROR,No,"108.165.216.99, 108.165.216.157"
-www.premierpokerclub.com,NXDOMAIN,Sí,N/A
+www.premierpokerclub.com,NXDOMAIN,Sí,
 www.pwr.bet,NOERROR,No,"104.21.44.131, 172.67.199.254"
 www.premierpoker.es,NOERROR,No,"35.158.61.35, 3.121.28.159, 18.185.212.218"
-www.prontobet.club,NXDOMAIN,Sí,N/A
+www.prontobet.club,NXDOMAIN,Sí,
 www.redflushcasino.eu,NOERROR,No,193.169.206.82
 www.retabet.es,NOERROR,No,"23.39.223.146, 23.39.223.154"
 www.rivalo.com,NOERROR,No,"104.18.25.223, 104.18.24.223"
 www.rivernilecasino.net,NOERROR,No,66.212.242.131
 www.shadowbetcasino.com,NOERROR,No,68.65.122.67
-www.thelotter.uy,NXDOMAIN,Sí,N/A
+www.thelotter.uy,NXDOMAIN,Sí,
 www.solverde.pt,NOERROR,No,"23.192.36.36, 23.192.36.41"
-www.ts-casinoclub.com,NXDOMAIN,Sí,N/A
-www.urubet.net,NXDOMAIN,Sí,N/A
-www.v9bet.bet,NXDOMAIN,Sí,N/A
-www.vegashero.com,NOERROR,No,N/A
+www.ts-casinoclub.com,NXDOMAIN,Sí,
+www.urubet.net,NXDOMAIN,Sí,
+www.v9bet.bet,NXDOMAIN,Sí,
+www.vegashero.com,NOERROR,No,
 www.v9bet.plus,NOERROR,No,"104.21.32.1, 104.21.48.1, 104.21.64.1, 104.21.112.1, 104.21.96.1, 104.21.80.1, 104.21.16.1"
 www.vegasslotcasino.es,NOERROR,No,209.15.247.26
 www.verajohn.com,NOERROR,No,"104.18.242.229, 104.18.241.229"
@@ -656,33 +637,33 @@ www.yobingo.es,NOERROR,No,"104.18.23.214, 104.18.22.214"
 www.12betng.com,NOERROR,No,103.9.76.101
 www.138sungame.com,NOERROR,No,"52.71.57.184, 54.209.32.212"
 www.1xlite.com,NOERROR,No,72.52.178.23
-www.47millones.com,NXDOMAIN,Sí,N/A
+www.47millones.com,NXDOMAIN,Sí,
 www.24ktgoldcasino.com,NOERROR,No,95.85.26.242
 www.6686vn3.com,NOERROR,No,"15.197.148.33, 3.33.130.190"
 www.777dragoncasino.com,NOERROR,No,66.212.225.89
 www.8xbet2.com,NOERROR,No,16.163.59.191
 www.Isports.eu,NOERROR,No,75.2.126.67
-www.apuesteenlinea.com,NXDOMAIN,Sí,N/A
+www.apuesteenlinea.com,NXDOMAIN,Sí,
 www.bet3218.net,NOERROR,No,"104.21.46.230, 172.67.142.185"
 www.bestingame.it,NOERROR,No,"23.39.223.144, 23.39.223.146"
 www.betapuesta.com,NOERROR,No,89.40.173.47
 www.betastars.com,NOERROR,No,3.64.163.50
 www.betmotion.com.co,NOERROR,No,"3.33.251.168, 15.197.225.128"
 www.betrally.com,NOERROR,No,"164.90.244.158, 159.89.244.183"
-www.betspil.dk,NXDOMAIN,Sí,N/A
+www.betspil.dk,NXDOMAIN,Sí,
 www.betsson.uy,NOERROR,No,"104.21.64.1, 104.21.96.1, 104.21.48.1, 104.21.32.1, 104.21.112.1, 104.21.80.1, 104.21.16.1"
 www.bgo.com,NOERROR,No,"199.60.103.228, 199.60.103.28"
 www.bigfishgames.com,NOERROR,No,151.101.15.10
 www.binguez.com,NOERROR,No,"195.72.135.91, 195.72.134.91"
 www.bingo-rumba.com,NOERROR,No,88.208.252.9
 www.blackjackballroom.es,NOERROR,No,209.15.247.26
-www.casinocolombia.com.co,NXDOMAIN,Sí,N/A
+www.casinocolombia.com.co,NXDOMAIN,Sí,
 www.casinobellini.com,NOERROR,No,5.62.89.20
 www.casinocomparador.com,NOERROR,No,"172.64.151.212, 104.18.36.44"
 www.casinodelrio.com,NOERROR,No,134.213.236.28
 www.casinoenchile.com,NOERROR,No,"3.166.181.87, 3.166.181.5, 3.166.181.42, 3.166.181.98"
 www.casinoencolombia.com,NOERROR,No,67.202.92.9
-www.casinoestrella100.com,NXDOMAIN,Sí,N/A
+www.casinoestrella100.com,NXDOMAIN,Sí,
 www.casinoepoca.com,NOERROR,No,"172.64.146.31, 104.18.41.225"
 www.casinoestrellavip.com,NOERROR,No,66.235.200.147
 www.casinoeuro.com,NOERROR,No,"13.226.52.98, 13.226.52.3, 13.226.52.2, 13.226.52.50"
@@ -708,7 +689,7 @@ www.charitybingo.com,NOERROR,No,"104.21.80.1, 104.21.32.1, 104.21.112.1, 104.21.
 www.cherrycasino.com,NOERROR,No,"104.18.241.116, 104.18.242.116"
 www.circus.es,NOERROR,No,"104.21.46.3, 172.67.221.242"
 www.citycenteronline.bet.ar,NOERROR,No,"104.26.13.53, 104.26.12.53, 172.67.71.16"
-www.citytowerscasino.com,NXDOMAIN,Sí,N/A
+www.citytowerscasino.com,NXDOMAIN,Sí,
 www.cleopatracasino.com,NOERROR,No,5.10.246.1
 www.club777.com,NOERROR,No,"104.21.16.1, 104.21.112.1, 104.21.64.1, 104.21.32.1, 104.21.48.1, 104.21.80.1, 104.21.96.1"
 www.clubworldcasinos.com,NOERROR,No,"104.18.164.61, 104.18.165.61"
@@ -747,7 +728,7 @@ www.europalace.com,NOERROR,No,"104.19.176.163, 104.18.143.205"
 www.exbeteu.com,NOERROR,No,"172.67.200.162, 104.21.13.155"
 www.fabulousbingo.co.uk,NOERROR,No,"23.192.36.42, 23.192.36.47"
 www.fanteam.com,NOERROR,No,"104.18.26.203, 104.18.27.203"
-www.foxfoxbet.com,NXDOMAIN,Sí,N/A
+www.foxfoxbet.com,NXDOMAIN,Sí,
 www.flamingoclub.com,NOERROR,No,95.85.26.242
 www.foxybingo.com,NOERROR,No,"104.16.193.108, 104.16.194.108"
 www.freeslots99.com,NOERROR,No,209.145.62.118
@@ -796,14 +777,14 @@ www.krooncasino.com,NOERROR,No,"18.198.219.129, 52.28.198.148, 18.159.100.253"
 www.konradfun.com,NOERROR,No,200.25.69.94
 www.lafiestacasino.com,NOERROR,No,164.90.204.25
 www.lapalingo.com,NOERROR,No,"172.67.152.97, 104.21.32.141"
-www.legolas.bet,NXDOMAIN,Sí,N/A
+www.legolas.bet,NXDOMAIN,Sí,
 www.llamagaming.com,NOERROR,No,216.245.197.45
 www.llanobet.com,NOERROR,No,86.105.245.69
-www.llanosportbet.co,NXDOMAIN,Sí,N/A
-www.losjuegosdeazar.es,NXDOMAIN,Sí,N/A
+www.llanosportbet.co,NXDOMAIN,Sí,
+www.losjuegosdeazar.es,NXDOMAIN,Sí,
 www.lotoplay.com,NOERROR,No,200.122.181.88
 www.lottomatica.it,NOERROR,No,"23.223.194.138, 23.223.194.146"
-www.lsbet709.com,NXDOMAIN,Sí,N/A
+www.lsbet709.com,NXDOMAIN,Sí,
 www.luckia.es,NOERROR,No,"104.18.21.233, 104.18.20.233"
 www.lucky-31.com,NOERROR,No,"89.116.250.215, 89.116.250.41"
 www.luckylivecasino.com,NOERROR,No,"172.66.40.105, 172.66.43.151"
@@ -811,10 +792,10 @@ www.luckyniki.com,NOERROR,No,"104.16.238.246, 104.16.239.246"
 www.luckyredcasino.com,NOERROR,No,"104.18.226.39, 104.18.227.39"
 www.luckynuggetcasino.com,NOERROR,No,"104.17.207.69, 104.17.208.69"
 www.luxurycasino.com,NOERROR,No,66.212.229.242
-www.m.caba.codere.bet.ar,NXDOMAIN,Sí,N/A
+www.m.caba.codere.bet.ar,NXDOMAIN,Sí,
 www.machancecasino.com,NOERROR,No,"104.26.10.186, 172.67.68.89, 104.26.11.186"
-www.m.esportesdasorte.com,NXDOMAIN,Sí,N/A
-www.magicboxcasino.com,NXDOMAIN,Sí,N/A
+www.m.esportesdasorte.com,NXDOMAIN,Sí,
+www.magicboxcasino.com,NXDOMAIN,Sí,
 www.magiccitycasino.com,NOERROR,No,44.212.228.187
 www.magicred.com,NOERROR,No,"23.223.194.140, 23.223.194.136"
 www.majesticslotsclub.com,NOERROR,No,"172.67.199.93, 104.21.21.163"
@@ -825,13 +806,13 @@ www.maplecasino.ca,NOERROR,No,"18.173.166.96, 18.173.166.28, 18.173.166.24, 18.1
 www.marcaapuestas.es,NOERROR,No,"23.192.36.39, 23.192.36.38"
 www.maria.com,NOERROR,No,85.184.96.0
 www.miamidice.com,NOERROR,No,"108.157.173.108, 108.157.173.117, 108.157.173.70, 108.157.173.45"
-www.merkurmagic.es,NXDOMAIN,Sí,N/A
+www.merkurmagic.es,NXDOMAIN,Sí,
 www.mirrorbingo.com,NOERROR,No,"172.67.147.212, 104.21.79.202"
-www.moneygaming.com,NXDOMAIN,Sí,N/A
-www.mongoosecasino.com,NXDOMAIN,Sí,N/A
+www.moneygaming.com,NXDOMAIN,Sí,
+www.mongoosecasino.com,NXDOMAIN,Sí,
 www.moonbingo.com,NOERROR,No,"172.67.72.126, 104.26.9.92, 104.26.8.92"
 www.mozzartbet.com,NOERROR,No,"104.17.200.53, 104.17.199.53"
-www.mr.bet,NXDOMAIN,Sí,N/A
+www.mr.bet,NXDOMAIN,Sí,
 www.mrgreen.com,NOERROR,No,"18.64.174.111, 18.64.174.95, 18.64.174.96, 18.64.174.39"
 www.mrplay.com,NOERROR,No,"104.26.6.221, 172.67.73.176, 104.26.7.221"
 www.mrwin.com,NOERROR,No,"194.1.147.46, 194.1.147.69"
@@ -859,7 +840,7 @@ www.planetwin365.com,NOERROR,No,108.142.238.82
 www.placard.pt,NOERROR,No,"23.192.36.38, 23.192.36.51"
 www.playamo.com,NOERROR,No,5.10.247.54
 www.play2wincasino.com,NOERROR,No,"77.74.228.8, 77.74.228.6, 77.74.228.7, 77.74.228.5"
-www.playbet.com.co,NXDOMAIN,Sí,N/A
+www.playbet.com.co,NXDOMAIN,Sí,
 www.playbonds.com,NOERROR,No,"104.21.43.84, 172.67.176.248"
 www.playfrank.com,NOERROR,No,"104.26.14.225, 172.67.71.106, 104.26.15.225"
 www.playzee.com,NOERROR,No,"13.35.116.73, 13.35.116.3, 13.35.116.31, 13.35.116.13"
@@ -869,9 +850,9 @@ www.pokerstars.com,NOERROR,No,"23.61.251.82, 23.61.251.93"
 www.pokerstars.net,NOERROR,No,"23.61.251.109, 23.61.251.85"
 www.pokerstars.pt,NOERROR,No,"23.61.251.72, 23.61.251.71"
 www.pokerstarscasino.com,NOERROR,No,"54.72.136.184, 34.252.172.244"
-www.premierpokerclub.com,NXDOMAIN,Sí,N/A
+www.premierpokerclub.com,NXDOMAIN,Sí,
 www.premierpoker.es,NOERROR,No,"3.121.28.159, 18.185.212.218, 35.158.61.35"
-www.prontobet.club,NXDOMAIN,Sí,N/A
+www.prontobet.club,NXDOMAIN,Sí,
 www.pwr.bet,NOERROR,No,"172.67.199.254, 104.21.44.131"
 www.redbet.com,NOERROR,No,"172.67.134.65, 104.21.25.131"
 www.redflushcasino.eu,NOERROR,No,193.169.206.82
@@ -919,10 +900,10 @@ www.strendus.com.mx,NOERROR,No,"18.239.225.2, 18.239.225.121, 18.239.225.43, 18.
 www.suertia.es,NOERROR,No,185.190.108.146
 www.sunvegascasino.com,NOERROR,No,"13.226.52.115, 13.226.52.108, 13.226.52.83, 13.226.52.75"
 www.superiorcasino.com,NOERROR,No,"172.67.217.252, 104.21.43.33"
-www.supermatch-uruguay.com,NXDOMAIN,Sí,N/A
+www.supermatch-uruguay.com,NXDOMAIN,Sí,
 www.tastybingo.com,NOERROR,No,"18.64.174.122, 18.64.174.55, 18.64.174.48, 18.64.174.56"
 www.thelotter.com,NOERROR,No,107.154.134.27
-www.thelotter.uy,NXDOMAIN,Sí,N/A
+www.thelotter.uy,NXDOMAIN,Sí,
 www.thepokerpractice.com,NOERROR,No,74.50.61.146
 www.thisisvegas.com,NOERROR,No,"77.74.228.6, 77.74.228.5, 77.74.228.8, 77.74.228.7"
 www.titancasino.com,NOERROR,No,"208.80.123.101, 208.80.123.166, 208.80.122.53, 208.80.122.131"
@@ -930,17 +911,17 @@ www.titanpoker.com,NOERROR,No,"104.21.4.169, 172.67.132.72"
 www.tombola.es,NOERROR,No,"104.17.101.190, 104.17.100.190"
 www.totosi.it,NOERROR,No,"23.39.223.135, 23.39.223.153"
 www.tsars.com,NOERROR,No,"104.18.28.75, 104.18.29.75"
-www.ts-casinoclub.com,NXDOMAIN,Sí,N/A
+www.ts-casinoclub.com,NXDOMAIN,Sí,
 www.turbovegas.com,NOERROR,No,151.101.13.91
 www.ukcasino-club.co.uk,NOERROR,No,66.212.229.101
 www.unibet.com,NOERROR,No,85.184.96.28
 www.uniquecasino.com,NOERROR,No,"104.22.31.116, 172.67.39.163, 104.22.30.116"
-www.urubet.net,NXDOMAIN,Sí,N/A
-www.v9bet.bet,NXDOMAIN,Sí,N/A
+www.urubet.net,NXDOMAIN,Sí,
+www.v9bet.bet,NXDOMAIN,Sí,
 www.v9bet.plus,NOERROR,No,"104.21.48.1, 104.21.64.1, 104.21.112.1, 104.21.96.1, 104.21.80.1, 104.21.16.1, 104.21.32.1"
 www.vaidebet.com,NOERROR,No,"13.35.116.80, 13.35.116.14, 13.35.116.46, 13.35.116.16"
 www.vegasdays.com,NOERROR,No,"77.74.228.6, 77.74.228.5, 77.74.228.8, 77.74.228.7"
-www.vegashero.com,NOERROR,No,N/A
+www.vegashero.com,NOERROR,No,
 www.vegaspalmscasino.com,NOERROR,No,"104.17.157.81, 104.17.158.81"
 www.vegasparadise.com,NOERROR,No,"104.21.88.199, 172.67.152.160"
 www.vegasred.com,NOERROR,No,"104.21.16.94, 172.67.167.50"
@@ -961,30 +942,29 @@ www.zamba.co,NOERROR,No,"104.18.1.124, 104.18.0.124"
 www.zdsptv.com,NOERROR,No,142.250.217.179
 www.zodiaccasino.com,NOERROR,No,66.212.229.242
 libgen.lc,NOERROR,No,107.180.28.153
-www.fgmnetwork.org,SERVFAIL,Sí,N/A
-hacienda.gob.ni,NOERROR,No,N/A
+www.fgmnetwork.org,SERVFAIL,Sí,
+hacienda.gob.ni,NOERROR,No,
 www.tobacco.org,NOERROR,No,34.75.104.115
-voces.com.uy,NOERROR,No,N/A
+voces.com.uy,NOERROR,No,
 www.southcom.mil,NOERROR,No,"23.39.223.142, 23.39.223.139"
-www.asstr.org,SERVFAIL,Sí,N/A
+www.asstr.org,SERVFAIL,Sí,
 torrentz.eu,NOERROR,No,104.247.81.53
 www.goldenrivieracasino.com,NOERROR,No,"104.21.19.219, 172.67.190.62"
 www.partypoker.com,NOERROR,No,"104.16.57.47, 104.16.58.47"
-www.wikispaces.com,NOERROR,No,N/A
-imesh.com,NOERROR,No,N/A
+www.wikispaces.com,NOERROR,No,
+imesh.com,NOERROR,No,
 thepiratebay.se,NOERROR,No,"194.9.94.85, 194.9.94.86"
-www.islamdoor.com,SERVFAIL,Sí,N/A
-soccerstreamshd.com,NOERROR,No,N/A
-bestsolaris.com,NXDOMAIN,Sí,N/A
+www.islamdoor.com,SERVFAIL,Sí,
+soccerstreamshd.com,NOERROR,No,
 librefutbol.cl,NOERROR,No,"104.21.1.111, 172.67.129.46"
-www.elinformador.com.ve,SERVFAIL,Sí,N/A
+www.elinformador.com.ve,SERVFAIL,Sí,
 www.caraotadigital.net,NOERROR,No,"172.67.149.186, 104.21.29.196"
 www.aguacateverde.com,NOERROR,No,"52.200.66.12, 44.195.229.203"
 vdebate.blogspot.com,NOERROR,No,142.250.189.129
 noticiaaldia.com,NOERROR,No,"172.66.42.223, 172.66.41.33"
 konzapata.com,NOERROR,No,"172.67.192.183, 104.21.60.64"
 psiphon.ca,NOERROR,No,"104.18.155.84, 104.18.154.84"
-venezuelazonagris.com,NXDOMAIN,Sí,N/A
+venezuelazonagris.com,NXDOMAIN,Sí,
 hugocarvajal.com,NOERROR,No,"104.21.80.1, 104.21.96.1, 104.21.64.1, 104.21.32.1, 104.21.48.1, 104.21.112.1, 104.21.16.1"
 telesurlibre.com,NOERROR,No,44.213.46.149
 psiphon.ca,NOERROR,No,"104.18.154.84, 104.18.155.84"
@@ -998,7 +978,7 @@ puntodecorte.com,NOERROR,No,"172.67.177.228, 104.21.75.149"
 infodio.com,NOERROR,No,34.107.204.130
 elpitazo.com,NOERROR,No,162.245.189.194
 eldolarparalelo.info,NOERROR,No,"104.21.21.142, 172.67.199.29"
-dollarparalelovenezuela.com,NXDOMAIN,Sí,N/A
+dollarparalelovenezuela.com,NXDOMAIN,Sí,
 dollar.nu,NOERROR,No,185.189.48.105
 dolartoday.org,NOERROR,No,"3.33.130.190, 15.197.148.33"
 dolartoday.com,NOERROR,No,208.109.232.144
@@ -1010,8 +990,8 @@ www.airtm0.com,NOERROR,No,"3.166.152.19, 3.166.152.31, 3.166.152.93, 3.166.152.3
 www.lapatilla.com,NOERROR,No,"104.21.32.1, 104.21.16.1, 104.21.112.1, 104.21.48.1, 104.21.96.1, 104.21.80.1, 104.21.64.1"
 www.airtm.io,NOERROR,No,"13.226.52.41, 13.226.52.111, 13.226.52.9, 13.226.52.69"
 www.ntn24.com,NOERROR,No,151.101.13.91
-dolarparalelo.net,NXDOMAIN,Sí,N/A
-dolar-permuta.com,NXDOMAIN,Sí,N/A
+dolarparalelo.net,NXDOMAIN,Sí,
+dolar-permuta.com,NXDOMAIN,Sí,
 dolarparalelo.org,NOERROR,No,"198.251.81.30, 107.161.23.204, 209.141.38.71"
 aguacateverde1.blogspot.com,NOERROR,No,142.250.189.129
 www.airtm.com,NOERROR,No,"104.22.79.191, 104.22.78.191, 172.67.4.160"
@@ -1037,7 +1017,7 @@ zello.com,NOERROR,No,"104.16.165.109, 104.16.164.109"
 www.eltiempo.com,NOERROR,No,"13.35.116.50, 13.35.116.63, 13.35.116.16, 13.35.116.125"
 primerinforme.com,NOERROR,No,"104.21.64.1, 104.21.48.1, 104.21.80.1, 104.21.16.1, 104.21.32.1, 104.21.96.1, 104.21.112.1"
 api.tunnelbear.com,NOERROR,No,"104.17.155.236, 104.17.154.236"
-caraotadigital.news,NXDOMAIN,Sí,N/A
+caraotadigital.news,NXDOMAIN,Sí,
 noticialdia.com,NOERROR,No,"104.26.10.214, 172.67.75.132, 104.26.11.214"
 vpitv.com,NOERROR,No,"104.21.9.173, 172.67.161.33"
 www.vpitv.com,NOERROR,No,"104.21.9.173, 172.67.161.33"
@@ -1057,7 +1037,7 @@ www.pornhub.com,NOERROR,No,66.254.114.41
 quelacreo.com,NOERROR,No,69.16.230.165
 adultfriendfinder.com,NOERROR,No,69.165.107.69
 elpitazo.net,NOERROR,No,"104.20.77.48, 104.20.76.48, 172.67.17.65"
-dolarparalelo.tk,NXDOMAIN,Sí,N/A
+dolarparalelo.tk,NXDOMAIN,Sí,
 albertonews.com,NOERROR,No,"104.21.112.1, 104.21.16.1, 104.21.48.1, 104.21.32.1, 104.21.64.1, 104.21.80.1, 104.21.96.1"
 www.baidu.com,NOERROR,No,"103.235.46.102, 103.235.46.115"
 vcrisis.com,NOERROR,No,66.39.51.52
@@ -1066,7 +1046,7 @@ noticiasvenezuela.org,NOERROR,No,"104.21.64.1, 104.21.48.1, 104.21.16.1, 104.21.
 miconvive.com,NOERROR,No,35.209.69.119
 analisis24.com,NOERROR,No,"13.248.169.48, 76.223.54.146"
 alnavio.com,NOERROR,No,"104.21.80.1, 104.21.32.1, 104.21.112.1, 104.21.64.1, 104.21.96.1, 104.21.16.1, 104.21.48.1"
-www.webntn24.us,NXDOMAIN,Sí,N/A
+www.webntn24.us,NXDOMAIN,Sí,
 www.venezuelaaldia.com,NOERROR,No,"172.67.219.214, 104.21.38.71"
 minuto30.com,NOERROR,No,192.124.249.60
 www.beer.com,NOERROR,No,"23.21.157.88, 23.21.234.173"
@@ -1080,7 +1060,7 @@ ovario2.com,NOERROR,No,50.63.178.200
 www.internationalrivers.org,NOERROR,No,"141.193.213.11, 141.193.213.10"
 www.dreamhost.com,NOERROR,No,"3.166.160.43, 3.166.160.14, 3.166.160.121, 3.166.160.3"
 liberal-venezolano.blogspot.com,NOERROR,No,142.250.189.129
-dolarparalelovenezuela.com,NXDOMAIN,Sí,N/A
+dolarparalelovenezuela.com,NXDOMAIN,Sí,
 capitoliotv.com,NOERROR,No,"15.197.225.128, 3.33.251.168"
 www.imqq.com,NOERROR,No,"43.129.2.81, 43.159.233.101"
 sunoticiero.com,NOERROR,No,"3.166.181.126, 3.166.181.124, 3.166.181.117, 3.166.181.3"
@@ -1088,7 +1068,7 @@ elpitazo.info,NOERROR,No,"104.21.112.1, 104.21.64.1, 104.21.16.1, 104.21.80.1, 1
 anonymouse.org,NOERROR,No,"193.200.150.125, 193.200.150.82"
 www.wcicc.org,NOERROR,No,162.241.252.116
 alekboyd.blogspot.com,NOERROR,No,142.250.189.129
-dolarparalelo.biz,NXDOMAIN,Sí,N/A
+dolarparalelo.biz,NXDOMAIN,Sí,
 www.maduradas.com,NOERROR,No,"104.22.27.180, 104.22.26.180, 172.67.24.127"
 www.televen.com,NOERROR,No,160.153.0.83
 www.samesexmarriage.ca,NOERROR,No,51.178.194.169
@@ -1097,7 +1077,6 @@ www.mombian.com,NOERROR,No,50.87.218.206
 www.dw-world.de,NOERROR,No,194.55.26.46
 www.cesr.org,NOERROR,No,23.81.206.207
 pastebin.com,NOERROR,No,"104.22.69.199, 172.67.25.94, 104.22.68.199"
-www.bloquedearmas.com,NXDOMAIN,Sí,N/A
 www.reddit.com,NOERROR,No,151.101.17.140
 freespeechdebate.com,NOERROR,No,139.162.229.10
 freespeech.org,NOERROR,No,"141.193.213.20, 141.193.213.21, 104.16.243.55"
@@ -1105,8 +1084,7 @@ es.panampost.com,NOERROR,No,"172.67.75.92, 104.26.9.31, 104.26.8.31"
 equal-eyes.org,NOERROR,No,198.185.159.144
 eltiempo.com.ve,NOERROR,No,148.72.177.241
 www.washingtonpost.com,NOERROR,No,23.10.104.156
-www.vidaagro.com.ve,NXDOMAIN,Sí,N/A
-www.inspirulina.com,SERVFAIL,Sí,N/A
+www.inspirulina.com,SERVFAIL,Sí,
 voluntariosxvenezuela.com,NOERROR,No,162.0.235.244
 www.pogo.com,NOERROR,No,23.10.99.236
 www.tvvenezuela.tv,NOERROR,No,23.236.62.147
@@ -1115,7 +1093,6 @@ monitoreamos.com,NOERROR,No,"104.21.112.1, 104.21.64.1, 104.21.80.1, 104.21.48.1
 caraotadigital.xyz,NOERROR,No,103.224.212.216
 anonymizer.secuser.com,NOERROR,No,95.128.72.24
 www.implantinfo.com,NOERROR,No,44.196.195.110
-tse1.explicit.bing.net/robots.txt,NXDOMAIN,Sí,N/A
 cocaine.org,NOERROR,No,"172.67.212.125, 104.21.16.125"
 esdata.info,NOERROR,No,67.214.127.166
 tinder.com,NOERROR,No,"52.84.150.55, 52.84.150.60, 52.84.150.39, 52.84.150.54"
@@ -1129,7 +1106,6 @@ www.shoe.org,NOERROR,No,31.171.244.133
 www.scruff.com,NOERROR,No,"151.101.1.195, 151.101.65.195"
 www.queernet.org,NOERROR,No,216.252.162.123
 www.privateinternetaccess.com,NOERROR,No,"172.64.147.163, 104.18.40.93"
-www.jmarshall.com/tools/cgiproxy,NXDOMAIN,Sí,N/A
 www.ipvanish.com,NOERROR,No,"104.18.27.126, 104.18.26.126"
 www.ipredator.se,NOERROR,No,95.215.19.22
 www.dit-inc.us,NOERROR,No,65.49.38.217
@@ -1151,23 +1127,18 @@ protonvpn.com,NOERROR,No,185.159.159.140
 openvpn.net,NOERROR,No,"104.19.191.106, 104.19.190.106"
 mullvad.net,NOERROR,No,45.83.223.209
 grindr.mobi,NOERROR,No,"104.18.188.11, 104.16.89.83"
-googleweblight.com/i?u=https%3A%2F%2Fexample.com%2F,NXDOMAIN,Sí,N/A
 freenetproject.org,NOERROR,No,"108.157.173.105, 108.157.173.33, 108.157.173.8, 108.157.173.17"
-www.mdivenezuela.org,NXDOMAIN,Sí,N/A
 www.laiguana.tv,NOERROR,No,"104.26.10.128, 172.67.69.169, 104.26.11.128"
 www.lacausar.org,NOERROR,No,"104.21.48.1, 104.21.64.1, 104.21.80.1, 104.21.16.1, 104.21.32.1, 104.21.112.1, 104.21.96.1"
-adncaraota.xyz,NXDOMAIN,Sí,N/A
 www.adncaraota.com,NOERROR,No,"172.67.193.6, 104.21.84.127"
 www.speeddater.co.uk,NOERROR,No,"23.219.2.147, 23.219.2.136"
 www.ibe.unesco.org,NOERROR,No,193.242.192.47
 sci-hub.se,NOERROR,No,186.2.163.219
 www.xxlmag.com,NOERROR,No,"23.219.2.143, 23.219.2.146"
-www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases,NXDOMAIN,Sí,N/A
 forum.mhut.org,NOERROR,No,176.123.10.72
 www.ymca.int,NOERROR,No,35.214.97.72
 www.eea.europa.eu,NOERROR,No,"34.250.90.82, 34.246.63.148"
 www.blackberry.com,NOERROR,No,"3.166.152.89, 3.166.152.41, 3.166.152.123, 3.166.152.118"
-www.tialsoft.com/download,NXDOMAIN,Sí,N/A
 www.slideshare.net,NOERROR,No,151.101.18.152
 www.keptprivate.com,NOERROR,No,38.117.1.51
 www.ask.com,NOERROR,No,151.101.14.114
@@ -1191,15 +1162,12 @@ www.noticierodigital.com,NOERROR,No,"104.25.90.47, 104.25.89.47, 172.67.81.150"
 eldiario.com,NOERROR,No,"172.67.69.116, 104.26.6.181, 104.26.7.181"
 www.lemonde.fr,NOERROR,No,151.101.14.217
 www.irna.ir,NOERROR,No,"185.143.232.201, 185.143.235.201"
-www.france24.com/ar,NXDOMAIN,Sí,N/A
 www.foxnews.com,NOERROR,No,151.101.18.132
-planemergencianacional.com,NXDOMAIN,Sí,N/A
 hivemicro.com,NOERROR,No,"3.166.160.62, 3.166.160.73, 3.166.160.106, 3.166.160.24"
 parley.la,NOERROR,No,"172.67.27.64, 104.22.1.41, 104.22.0.41"
 www.tuazar.com,NOERROR,No,"172.67.81.133, 104.24.27.52, 104.24.26.52"
 www.b1tlydns02io.com,NOERROR,No,15.197.212.58
 www.elcomercio.com,NOERROR,No,"104.22.19.158, 172.67.11.164, 104.22.18.158"
-th.bing.com/th/id/OIP.YnpdokcN_OQYn3n41AlqZAHaEe?w=250&h=180&c=7&o=5&pid=1.7,NXDOMAIN,Sí,N/A
 moondash.co.in,NOERROR,No,103.224.182.253
 www.helvetas.ch,NOERROR,No,195.15.229.132
 www.ariannelingerie.com,NOERROR,No,23.227.38.74
@@ -1226,40 +1194,24 @@ www.alqassam.ps,NOERROR,No,185.231.114.218
 www.hanes.com,NOERROR,No,151.101.17.154
 web.archive.org,NOERROR,No,207.241.237.3
 earth-liberation-front.org,NOERROR,No,216.98.9.104
-www.nytimes.com/interactive/2020/world/coronavirus-maps.html,NXDOMAIN,Sí,N/A
 indymedia.org,NOERROR,No,204.13.164.87
 www.theatlantic.com,NOERROR,No,151.101.14.133
 tdov.org,NOERROR,No,162.241.253.126
-www.infobae.com/america,NXDOMAIN,Sí,N/A
 www.noticiaypunto.com,NOERROR,No,88.223.87.79
 www.vivoplay.net,NOERROR,No,72.167.64.115
 lamananadigital.com,NOERROR,No,"172.67.14.114, 104.22.55.167, 104.22.54.167"
-salariodignovzla.com,NXDOMAIN,Sí,N/A
+salariodignovzla.com,NXDOMAIN,Sí,
 breached.vc,NOERROR,No,52.223.39.56
 www.pinkcupid.com,NOERROR,No,23.10.103.128
-claxi.com.ve,NXDOMAIN,Sí,N/A
-www.cinecalidad.to,SERVFAIL,Sí,N/A
-www.ona.gob.ve,SERVFAIL,Sí,N/A
-bitcoin-mix.org,NXDOMAIN,Sí,N/A
+www.cinecalidad.to,SERVFAIL,Sí,
+www.ona.gob.ve,SERVFAIL,Sí,
 www.blueskyswimwear.com,NOERROR,No,"198.185.159.144, 198.49.23.144, 198.49.23.145, 198.185.159.145"
-www.unifertes.com,SERVFAIL,Sí,N/A
+www.unifertes.com,SERVFAIL,Sí,
 www.libgen.tw,NOERROR,No,199.59.243.228
-www.nazi-lauck-nsdapao.com,NXDOMAIN,Sí,N/A
-licoresmaxinorcenter.com,NXDOMAIN,Sí,N/A
-www.provive.com.ve,NXDOMAIN,Sí,N/A
-www.fundasidarta.org.ve,NXDOMAIN,Sí,N/A
-www.aanonimos.org.ve,NXDOMAIN,Sí,N/A
-www.fundahipertension.org.ve,NXDOMAIN,Sí,N/A
 www.mamma.com,NOERROR,No,103.224.182.22
 hornet.com,NOERROR,No,"108.157.173.92, 108.157.173.21, 108.157.173.111, 108.157.173.70"
-site.voicepulse.com,NXDOMAIN,Sí,N/A
-www.pptoficial.org.ve,NXDOMAIN,Sí,N/A
-www.aveaguagwp.net,NXDOMAIN,Sí,N/A
-ocsp.int-x3.letsencrypt.org,NXDOMAIN,Sí,N/A
-www.codhez.org.ve,NXDOMAIN,Sí,N/A
-secure.flickr.com,NXDOMAIN,Sí,N/A
+ocsp.int-x3.letsencrypt.org,NXDOMAIN,Sí,
 www.apufat.org,NOERROR,No,"172.67.178.204, 104.21.48.52"
-ifedec.com,NXDOMAIN,Sí,N/A
 www.gamespot.com,NOERROR,No,151.101.16.194
 www.walmart.com,NOERROR,No,23.193.120.133
 www.asambleanacional.gob.ve,NOERROR,No,190.202.87.221
@@ -1267,14 +1219,9 @@ www.radicalparty.org,NOERROR,No,31.31.41.108
 www.jihadwatch.org,NOERROR,No,192.124.249.11
 albaciudad.org,NOERROR,No,190.9.132.13
 4genderjustice.org,NOERROR,No,78.47.166.17
-static.xx.fbcdn.net/favicon.ico,NXDOMAIN,Sí,N/A
-static.cdninstagram.com/robots.txt,NXDOMAIN,Sí,N/A
-pbs.twimg.com/profile_images/941658150889054208/lFeD3554_200x200.jpg,NXDOMAIN,Sí,N/A
 clubhouse.pubnub.com,NOERROR,No,"54.175.191.202, 54.175.191.200"
 afterellen.com,NOERROR,No,"104.26.14.52, 104.26.15.52, 172.67.71.148"
 www.linkedin.com,NOERROR,No,150.171.22.12
-www.facebook.com/RTNews,NXDOMAIN,Sí,N/A
-qsbr.fs.quoracdn.net/-4-web.entry.js.out-34-8f7d03da0b7a24ae.webpack,NXDOMAIN,Sí,N/A
 foursquare.com,NOERROR,No,"151.101.130.132, 151.101.2.132, 151.101.66.132, 151.101.194.132"
 telegram.org,NOERROR,No,149.154.167.99
 acnudh.org,NOERROR,No,"172.67.185.240, 104.21.36.55"
@@ -1285,18 +1232,14 @@ weibo.com,NOERROR,No,"36.51.224.123, 36.51.224.126"
 triller.co,NOERROR,No,"13.35.116.117, 13.35.116.5, 13.35.116.56, 13.35.116.69"
 myspace.com,NOERROR,No,34.111.176.156
 mstdn.jp,NOERROR,No,"104.21.3.103, 172.67.153.131"
-fbcdn.net/robots.txt,NXDOMAIN,Sí,N/A
-external.xx.fbcdn.net/robots.txt,NXDOMAIN,Sí,N/A
 elpha.com,NOERROR,No,"13.226.52.105, 13.226.52.106, 13.226.52.66, 13.226.52.64"
 blogmarks.net,NOERROR,No,"104.21.41.81, 172.67.163.64"
 www.whatsapp.com,NOERROR,No,157.240.14.52
 www.opinionynoticias.com,NOERROR,No,"172.67.160.80, 104.21.82.174"
-caraota.xyz,NXDOMAIN,Sí,N/A
 observatoriodefinanzas.com,NOERROR,No,"142.132.196.168, 172.104.232.45, 185.196.61.178"
 mail.yahoo.com,NOERROR,No,"68.180.135.251, 68.180.135.252"
 fundacionlasalle.org.ve,NOERROR,No,99.83.175.80
-www.directvplay.com,NOERROR,No,N/A
-svcardiologia.org/es,NXDOMAIN,Sí,N/A
+www.directvplay.com,NOERROR,No,
 www.globalfire.tv,NOERROR,No,68.65.122.111
 www.shazam.com,NOERROR,No,151.101.13.80
 www.buddhanet.net,NOERROR,No,"104.21.112.1, 104.21.16.1, 104.21.80.1, 104.21.64.1, 104.21.32.1, 104.21.96.1, 104.21.48.1"
@@ -1307,8 +1250,7 @@ nuvipa.org,NOERROR,No,"104.21.51.48, 172.67.221.103"
 www.quepasa.com.ve,NOERROR,No,"172.67.212.21, 104.21.93.164"
 www.zeit.de,NOERROR,No,151.101.13.55
 www.fvmaestros.org,NOERROR,No,151.80.251.164
-scontent-frt3-2.cdninstagram.com/favicon.ico,NXDOMAIN,Sí,N/A
-capriles.tv,NOERROR,No,N/A
+capriles.tv,NOERROR,No,
 www.ipair.com,NOERROR,No,"13.32.87.120, 13.32.87.70, 13.32.87.28, 13.32.87.25"
 www.undp.org,NOERROR,No,"23.204.115.179, 23.204.115.175"
 occupystreams.org,NOERROR,No,"104.21.16.1, 104.21.80.1, 104.21.48.1, 104.21.96.1, 104.21.64.1, 104.21.32.1, 104.21.112.1"
@@ -1320,14 +1262,12 @@ fncancer.org.ve,NOERROR,No,200.58.110.67
 www.pcgamer.com,NOERROR,No,151.101.18.114
 khilafah.net,NOERROR,No,159.100.29.48
 caiv.org,NOERROR,No,107.190.141.2
-preview.redd.it/robots.txt,NXDOMAIN,Sí,N/A
 www.martus.org,NOERROR,No,"108.157.173.101, 108.157.173.18, 108.157.173.112, 108.157.173.118"
 www.tvvnetwork.com,NOERROR,No,34.149.87.45
 www.sida.se,NOERROR,No,"51.20.16.33, 13.50.229.107"
 www.vecinabellaxxx.com,NOERROR,No,"104.21.28.53, 172.67.144.67"
 sumate.org,NOERROR,No,104.161.23.62
 www.elmundo.es,NOERROR,No,151.101.17.50
-www.state.gov/j/drl,NXDOMAIN,Sí,N/A
 www.state.gov,NOERROR,No,"18.64.174.46, 18.64.174.66, 18.64.174.109, 18.64.174.78"
 isaalmasih.net,NOERROR,No,45.56.91.230
 www.wilpf.org,NOERROR,No,5.182.248.186
@@ -1359,25 +1299,22 @@ www.glasgow.com.ve,NOERROR,No,107.190.141.2
 www.aporrea.org,NOERROR,No,"104.26.1.147, 172.67.74.64, 104.26.0.147"
 www.privacytools.io,NOERROR,No,"104.21.112.1, 104.21.32.1, 104.21.16.1, 104.21.64.1, 104.21.48.1, 104.21.80.1, 104.21.96.1"
 www.vtv.gob.ve,NOERROR,No,45.60.25.135
-www.museomarino.com,SERVFAIL,Sí,N/A
+www.museomarino.com,SERVFAIL,Sí,
 www.panfletonegro.com,NOERROR,No,"104.21.48.1, 104.21.32.1, 104.21.80.1, 104.21.64.1, 104.21.112.1, 104.21.16.1, 104.21.96.1"
 www.diariolavoz.net,NOERROR,No,"104.21.48.1, 104.21.16.1, 104.21.64.1, 104.21.80.1, 104.21.32.1, 104.21.96.1, 104.21.112.1"
 www.clubhouse.com,NOERROR,No,"104.18.20.69, 104.18.21.69"
-d3l0kqj5h9z9zs.cloudfront.net,NOERROR,No,N/A
+d3l0kqj5h9z9zs.cloudfront.net,NOERROR,No,
 www.idea.int,NOERROR,No,"3.166.181.68, 3.166.181.89, 3.166.181.109, 3.166.181.99"
 www.icij.org,NOERROR,No,"99.84.252.101, 99.84.252.118, 99.84.252.41, 99.84.252.10"
 www.csmonitor.com,NOERROR,No,"99.84.252.128, 99.84.252.21, 99.84.252.72, 99.84.252.63"
-www.caracoltv.com/senal-vivo,NXDOMAIN,Sí,N/A
 www.facebook.com,NOERROR,No,157.240.14.35
 www.douyin.com,NOERROR,No,"8.48.85.223, 8.48.85.229, 8.48.85.227, 8.48.85.225, 8.48.85.226, 8.48.85.224, 8.48.85.230, 8.48.85.228"
 redunivenezuela.com,NOERROR,No,"172.67.214.155, 104.21.53.152"
 noticias.caracoltv.com,NOERROR,No,"52.27.181.61, 44.236.195.95"
 www.bacardi.com,NOERROR,No,"141.193.213.10, 141.193.213.11"
-www.un.org/docs/sc,NXDOMAIN,Sí,N/A
 canna.to,NOERROR,No,46.148.26.194
 www.cima360news.com,NOERROR,No,147.79.72.203
 www.cannabisn24.com,NOERROR,No,145.223.124.170
-accioncampesina.com,NXDOMAIN,Sí,N/A
 www.usatoday.com,NOERROR,No,151.101.18.62
 d1zjwmfdso4x7i.cloudfront.net,NOERROR,No,"65.8.248.71, 65.8.248.128, 65.8.248.9, 65.8.248.63"
 d1zjwmfdso4x7i.cloudfront.net,NOERROR,No,"65.8.248.128, 65.8.248.9, 65.8.248.63, 65.8.248.71"
@@ -1386,10 +1323,7 @@ www.banesco.com.pa,NOERROR,No,"3.166.152.28, 3.166.152.83, 3.166.152.94, 3.166.1
 www.akdn.org,NOERROR,No,"99.84.252.100, 99.84.252.128, 99.84.252.62, 99.84.252.79"
 metasploit.com,NOERROR,No,"108.157.173.10, 108.157.173.118, 108.157.173.116, 108.157.173.20"
 www.un.int,NOERROR,No,157.150.185.54
-www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage,NXDOMAIN,Sí,N/A
-s.gr-assets.com/robots.txt,NXDOMAIN,Sí,N/A
 www.el-carabobeno.com,NOERROR,No,"104.21.57.21, 172.67.158.80"
-staticxx.facebook.com/robots.txt,NXDOMAIN,Sí,N/A
 getpocket.com,NOERROR,No,"13.249.98.17, 13.249.98.68, 13.249.98.116, 13.249.98.28"
 www.ushmm.org,NOERROR,No,"18.173.166.24, 18.173.166.86, 18.173.166.32, 18.173.166.51"
 comisiondeprimariave.org,NOERROR,No,"104.21.43.178, 172.67.182.167"
@@ -1403,11 +1337,9 @@ www.minuto30.com,NOERROR,No,192.124.249.60
 ww12.quelacreo.com,NOERROR,No,"75.2.73.197, 99.83.136.84"
 www.amavida.org.ve,NOERROR,No,162.241.85.201
 www.talkyou.me,NOERROR,No,"13.226.52.84, 13.226.52.3, 13.226.52.42, 13.226.52.47"
-www.bbc.com/news/world-51235105,NXDOMAIN,Sí,N/A
 www.20minutos.es,NOERROR,No,"18.64.174.114, 18.64.174.61, 18.64.174.54, 18.64.174.72"
 6topoderweb.com,NOERROR,No,103.224.182.253
 airtm.com,NOERROR,No,"3.166.152.47, 3.166.152.17, 3.166.152.128, 3.166.152.123"
-ww38.dollarparalelovenezuela.com,NXDOMAIN,Sí,N/A
 ww1.6topoder.com,NOERROR,No,15.197.204.56
 avn.info.ve,NOERROR,No,190.9.130.193
 www.worldbank.org,NOERROR,No,"172.64.147.58, 104.18.40.198"
@@ -1419,7 +1351,6 @@ www.tmz.com,NOERROR,No,"108.156.83.127, 108.156.83.94, 108.156.83.73, 108.156.83
 www.datpiff.com,NOERROR,No,"13.35.116.59, 13.35.116.110, 13.35.116.39, 13.35.116.9"
 www.democracycaucus.net,NOERROR,No,173.214.172.75
 www.currenttime.tv,NOERROR,No,"23.219.2.153, 23.219.2.139"
-www.unfpa.org/swp,NXDOMAIN,Sí,N/A
 www.advocate.com,NOERROR,No,151.101.17.91
 www.uladdhh.org.ve,NOERROR,No,207.244.238.71
 tuneloso.com,NOERROR,No,"104.21.112.1, 104.21.48.1, 104.21.96.1, 104.21.32.1, 104.21.64.1, 104.21.80.1, 104.21.16.1"
@@ -1438,7 +1369,6 @@ limetorrents.pro,NOERROR,No,"104.21.21.26, 172.67.196.3"
 kickasstorrents.to,NOERROR,No,"172.67.196.200, 104.21.12.249"
 www.limetorrents.lol,NOERROR,No,"172.67.186.124, 104.21.19.143"
 ncac.org,NOERROR,No,"104.22.38.216, 172.67.28.51, 104.22.39.216"
-download.cnet.com/Freegate/3000-2085_4-10415391.html,NXDOMAIN,Sí,N/A
 diegoarria.com,NOERROR,No,"172.67.163.167, 104.21.49.142"
 use-application-dns.net,NOERROR,No,35.190.14.201
 www.imdb.com,NOERROR,No,18.64.172.225
@@ -1453,17 +1383,15 @@ solucionesparavenezuela.org,NOERROR,No,"192.0.78.24, 192.0.78.25"
 remailer.paranoici.org,NOERROR,No,88.80.28.20
 www.laprensalara.com.ve,NOERROR,No,"104.21.0.155, 172.67.151.64"
 www.jmarshall.com,NOERROR,No,213.108.104.108
-theglobalobservatory.org/2019/07/mandate-renewal-independent-expert-sogi-at-risk,NXDOMAIN,Sí,N/A
 leap.se,NOERROR,No,198.252.153.82
 getintra.org,NOERROR,No,"151.101.1.195, 151.101.65.195"
 www.insightcrime.org,NOERROR,No,"192.0.78.152, 192.0.78.254"
 www.humanrightsfirst.org,NOERROR,No,"141.193.213.21, 141.193.213.20"
 www.granma.cu,NOERROR,No,195.22.207.181
-www.gay.com,SERVFAIL,Sí,N/A
+www.gay.com,SERVFAIL,Sí,
 cryptpad.fr,NOERROR,No,151.80.191.153
 www.cartercenter.org,NOERROR,No,20.119.0.16
 www.fedecamarasradio.com,NOERROR,No,147.93.37.49
-www.unimet.edu.ve/centros-y-observatorios/cdh-unimet,NXDOMAIN,Sí,N/A
 www.unfe.org,NOERROR,No,"104.20.37.163, 104.20.38.163, 172.67.34.25"
 www.square-enix.com,NOERROR,No,104.67.208.243
 hide.me,NOERROR,No,174.138.52.82
@@ -1484,15 +1412,15 @@ www.mail.lycos.com,NOERROR,No,209.202.254.90
 www.isscr.org,NOERROR,No,"198.49.23.144, 198.49.23.145, 198.185.159.145, 198.185.159.144"
 www.hightail.com,NOERROR,No,"3.166.181.117, 3.166.181.23, 3.166.181.27, 3.166.181.56"
 www.familycareintl.org,NOERROR,No,208.91.197.27
-www.somos-venezuela.org,SERVFAIL,Sí,N/A
-primariaexteriorve.com,NOERROR,No,N/A
+www.somos-venezuela.org,SERVFAIL,Sí,
+primariaexteriorve.com,NOERROR,No,
 www.opinionynoticias.com,NOERROR,No,"104.21.82.174, 172.67.160.80"
 bitlymonitor.com,NOERROR,No,"104.21.40.109, 172.67.150.188"
 cnnespanol.cnn.com,NOERROR,No,151.101.19.5
 www.cinco8.com,NOERROR,No,104.196.252.123
 www.pdv.com,NOERROR,No,200.5.41.140
 www.army.mil,NOERROR,No,"23.45.49.67, 23.45.49.69"
-primariaexteriorve.com,NOERROR,No,N/A
+primariaexteriorve.com,NOERROR,No,
 elpolitico.com,NOERROR,No,"104.21.63.155, 172.67.147.61"
 www.centcom.mil,NOERROR,No,"23.219.2.140, 23.219.2.156"
 www.af.mil,NOERROR,No,23.58.232.114
@@ -1508,7 +1436,7 @@ www.guardia.mil.ve,NOERROR,No,190.202.145.60
 www.fhi360.org,NOERROR,No,"141.193.213.11, 141.193.213.10"
 www.89.com,NOERROR,No,104.247.82.52
 vesinfiltro.org,NOERROR,No,"172.67.211.56, 104.21.45.75"
-partidounnuevotiempo.org,SERVFAIL,Sí,N/A
+partidounnuevotiempo.org,SERVFAIL,Sí,
 www.cinex.com.ve,NOERROR,No,70.37.92.216
 noticiaypunto.com,NOERROR,No,151.106.98.83
 me.gob.ve,NOERROR,No,"190.202.87.204, 201.248.80.51"
@@ -1525,8 +1453,8 @@ prosalud.org.ve,NOERROR,No,"104.21.35.108, 172.67.218.32"
 libgen.is,NOERROR,No,193.218.118.42
 infidels.org,NOERROR,No,192.223.29.205
 eztv.ag,NOERROR,No,"104.21.46.178, 172.67.168.209"
-allcalidad.la,NXDOMAIN,Sí,N/A
-addons.opera.com/en/extensions,NXDOMAIN,Sí,N/A
+allcalidad.la,NXDOMAIN,Sí,
+addons.opera.com/en/extensions,NXDOMAIN,Sí,
 1337x.st,NOERROR,No,"172.67.186.49, 104.21.92.40"
 www.typepad.com,NOERROR,No,"104.18.118.121, 104.18.117.121, 104.18.114.121, 104.18.115.121, 104.18.116.121"
 wwf.panda.org,NOERROR,No,"18.157.252.168, 52.29.1.46"
@@ -1536,7 +1464,7 @@ www.peta.org,NOERROR,No,"104.18.197.48, 104.18.198.48"
 www.peta.org,NOERROR,No,"104.18.198.48, 104.18.197.48"
 www.hostgator.com,NOERROR,No,"172.64.144.208, 104.18.43.48"
 www.fundacionlatortuga.org,NOERROR,No,"104.21.72.153, 172.67.186.70"
-a.slack-edge.com/f70ec/img/test_cdn_pixel.gif,NXDOMAIN,Sí,N/A
+a.slack-edge.com/f70ec/img/test_cdn_pixel.gif,NXDOMAIN,Sí,
 www.siecus.org,NOERROR,No,162.159.134.42
 www.sfsi.org,NOERROR,No,45.77.191.148
 www.plannedparenthood.org,NOERROR,No,"104.17.86.66, 104.17.85.66, 104.17.82.66, 104.17.83.66, 104.17.84.66"
@@ -1549,19 +1477,17 @@ www.lagranaldea.com,NOERROR,No,"172.67.203.2, 104.21.90.175"
 scoutsvenezuela.org.ve,NOERROR,No,"104.21.93.162, 172.67.212.19"
 www.mainichi.co.jp,NOERROR,No,"13.35.116.53, 13.35.116.111, 13.35.116.36, 13.35.116.84"
 tx.me,NOERROR,No,95.161.64.99
-futuropresente.com.ve,NXDOMAIN,Sí,N/A
+futuropresente.com.ve,NXDOMAIN,Sí,
 sputniknews.lat,NOERROR,No,185.169.155.150
 asean.org,NOERROR,No,192.124.249.37
 proxy.i2phides.me,NOERROR,No,5.252.226.123
 www.worldhealth.net,NOERROR,No,"141.193.213.11, 141.193.213.10"
 www.netzoola.com,NOERROR,No,"3.33.130.190, 15.197.148.33"
-www.aciva.net.ve,NXDOMAIN,Sí,N/A
 www.hotbot.com,NOERROR,No,"65.8.248.66, 65.8.248.4, 65.8.248.127, 65.8.248.24"
-yoteayudovenezolano.com,NXDOMAIN,Sí,N/A
 www.callserve.com,NOERROR,No,20.93.49.47
 viviendaenred.net,NOERROR,No,170.39.196.230
 nazarene.org,NOERROR,No,52.144.59.136
-surbitcoin.com,SERVFAIL,Sí,N/A
+surbitcoin.com,SERVFAIL,Sí,
 elpais.com,NOERROR,No,"23.221.212.135, 23.221.212.154"
 www.socom.mil,NOERROR,No,52.61.157.137
 www.navy.mil,NOERROR,No,23.58.246.193
@@ -1577,11 +1503,11 @@ uea.org,NOERROR,No,89.99.3.204
 libgen.st,NOERROR,No,193.218.118.42
 isa.gov.ly,NOERROR,No,102.213.181.3
 filen.io,NOERROR,No,"146.0.41.232, 146.0.41.205, 146.0.41.207, 146.0.41.206, 146.0.41.208, 146.0.41.234, 146.0.41.233, 146.0.41.231"
-www.cne.gob.ve,NOERROR,No,N/A
+www.cne.gob.ve,NOERROR,No,
 elestimulo.com,NOERROR,No,"199.16.172.114, 199.16.173.199"
 www.medianalisis.org,NOERROR,No,34.174.1.45
 vesinfiltro.com,NOERROR,No,"185.199.109.153, 185.199.108.153, 185.199.110.153, 185.199.111.153"
-cdninstagram.com,NOERROR,No,N/A
+cdninstagram.com,NOERROR,No,
 elecciones2024venezuela.com,NOERROR,No,91.195.240.94
 ipysvenezuela.org,NOERROR,No,"104.22.71.102, 172.67.20.111, 104.22.70.102"
 www.talcualdigital.com,NOERROR,No,"172.67.19.218, 104.20.31.125, 104.20.30.125"
@@ -1589,7 +1515,7 @@ ganovzla.com,NOERROR,No,"18.64.174.3, 18.64.174.110, 18.64.174.121, 18.64.174.95
 resultadospresidencialesvenezuela2024.com,NOERROR,No,"18.64.174.95, 18.64.174.3, 18.64.174.121, 18.64.174.110"
 archiveofourown.org,NOERROR,No,"104.20.8.2, 104.20.9.2"
 animeflv.net,NOERROR,No,185.178.208.140
-www.mariacorinapresidente.com,SERVFAIL,Sí,N/A
+www.mariacorinapresidente.com,SERVFAIL,Sí,
 www.instagram.com,NOERROR,No,157.240.14.174
 www.daycohost.com,NOERROR,No,200.74.216.164
 pscp.tv,NOERROR,No,"3.209.70.195, 3.223.46.124, 54.156.28.69"
@@ -1600,10 +1526,10 @@ licoreriasgrupocanarias.com,NOERROR,No,192.250.229.38
 www.atheistalliance.org,NOERROR,No,92.112.191.254
 www.aguaclara.org,NOERROR,No,74.208.236.251
 we.riseup.net,NOERROR,No,198.252.153.11
-miro.medium.com/robots.txt,NXDOMAIN,Sí,N/A
+miro.medium.com/robots.txt,NXDOMAIN,Sí,
 medium.com,NOERROR,No,"162.159.152.4, 162.159.153.4"
 www.isocve.org,NOERROR,No,173.225.106.242
-vamosganar.com,SERVFAIL,Sí,N/A
+vamosganar.com,SERVFAIL,Sí,
 elecciones2024venezuela.com,NOERROR,No,91.195.240.94
 bitbucket.org,NOERROR,No,"104.192.142.26, 104.192.142.24, 104.192.142.25"
 www.jepvenezuela.com,NOERROR,No,144.126.132.46
@@ -1620,12 +1546,11 @@ www.sealswcc.com,NOERROR,No,64.87.22.44
 espaciopublico.ong,NOERROR,No,192.124.249.9
 www.justice.gov,NOERROR,No,23.198.90.61
 www.ifrc.org,NOERROR,No,"104.22.48.86, 172.67.21.250, 104.22.49.86"
-upload.wikimedia.org/wikipedia/commons/thumb/3/37/Generic_Camera_Icon.svg/100px-Generic_Camera_Icon.svg.png,NXDOMAIN,Sí,N/A
 www.awid.org,NOERROR,No,23.185.0.253
 ssd.eff.org,NOERROR,No,151.101.16.201
 reproductiverights.org,NOERROR,No,"141.193.213.20, 141.193.213.21"
 ioda.caida.org,NOERROR,No,192.172.226.62
-pelisplus.me,SERVFAIL,Sí,N/A
+pelisplus.me,SERVFAIL,Sí,
 www.textra.me,NOERROR,No,"54.243.86.28, 34.202.203.47, 18.211.166.153"
 www.tawk.to,NOERROR,No,"104.22.45.142, 172.67.15.14, 104.22.44.142"
 www.sexedlibrary.org,NOERROR,No,104.152.168.7
@@ -1637,45 +1562,36 @@ veracrypt.fr,NOERROR,No,62.210.38.206
 urru.org,NOERROR,No,192.124.249.38
 elecciones2024venezuela.com,NOERROR,No,91.195.240.94
 windscribe.com,NOERROR,No,"104.20.1.154, 104.20.2.154"
-t.co/Usz3cIuO6v?amp=1,NXDOMAIN,Sí,N/A
-abs-0.twimg.com/sticky/default_profile_images/default_profile_normal.png,NXDOMAIN,Sí,N/A
-api.twitter.com/1.1/search/tweets.json?q=from%3Atwitterdev\u0026result_type=mixed\u0026count=2,NXDOMAIN,Sí,N/A
-abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,NXDOMAIN,Sí,N/A
-video-0.twimg.com/tweet_video/EC6DSXDXsAEhHAa.mp4,NXDOMAIN,Sí,N/A
 upload.twitter.com,NOERROR,No,172.66.0.227
 api.twitter.com,NOERROR,No,"162.159.140.229, 172.66.0.227"
 t.co,NOERROR,No,172.66.0.227
 twitter.com,NOERROR,No,162.159.140.229
 es.statista.com,NOERROR,No,"13.226.52.62, 13.226.52.58, 13.226.52.19, 13.226.52.4"
 x.com,NOERROR,No,"172.66.0.227, 162.159.140.229"
-azurewebsites.net,NOERROR,No,N/A
-blob.core.windows.net,NOERROR,No,N/A
-cloudapp.net,NOERROR,No,N/A
+azurewebsites.net,NOERROR,No,
+blob.core.windows.net,NOERROR,No,
+cloudapp.net,NOERROR,No,
 larepublica.pe,NOERROR,No,"3.166.152.124, 3.166.152.86, 3.166.152.9, 3.166.152.26"
 x.com,NOERROR,No,"162.159.140.229, 172.66.0.227"
 vpn-api.proton.me,NOERROR,No,185.159.159.148
 vendata.org,NOERROR,No,"185.196.61.178, 142.132.196.168, 172.104.232.45"
-cantv.net,NOERROR,No,N/A
+cantv.net,NOERROR,No,
 www.wsj.com,NOERROR,No,"13.226.52.84, 13.226.52.37, 13.226.52.27, 13.226.52.25"
-upload.twitter.com/robots.txt,NXDOMAIN,Sí,N/A
 www.theguardian.com,NOERROR,No,151.101.17.111
-ooni.cloudflare-dns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,NXDOMAIN,Sí,N/A
-notiviasve.com,NOERROR,No,N/A
-comanditos.com,NXDOMAIN,Sí,N/A
+notiviasve.com,NOERROR,No,
 resultadosconvzla.com,NOERROR,No,"104.22.1.159, 104.22.0.159, 172.67.12.127"
 resultadosconvzla.com,NOERROR,No,"104.22.0.159, 172.67.12.127, 104.22.1.159"
-mariacorinamundo.com,NOERROR,No,N/A
+mariacorinamundo.com,NOERROR,No,
 www.noticierovenevision.net,NOERROR,No,"35.85.16.115, 54.148.186.140"
 fakenewsvenezuela.org,NOERROR,No,34.174.1.45
 www.espaja.com,NOERROR,No,"104.21.7.156, 172.67.130.85"
 espaja.com,NOERROR,No,"172.67.130.85, 104.21.7.156"
-pwchyt.awsvpni.com,NOERROR,No,N/A
+pwchyt.awsvpni.com,NOERROR,No,
 www.tsj.gob.ve,NOERROR,No,201.249.134.129
 talcualdigital.com,NOERROR,No,"104.20.31.125, 104.20.30.125, 172.67.19.218"
 www.cazadoresdefakenews.info,NOERROR,No,"142.132.196.168, 185.196.61.178, 172.104.232.45"
-www.cencoex.gob.ve,SERVFAIL,Sí,N/A
+www.cencoex.gob.ve,SERVFAIL,Sí,
 www.pinterest.com,NOERROR,No,184.51.212.209
-s.pinimg.com/robots.txt,NXDOMAIN,Sí,N/A
 www.petardas.com,NOERROR,No,217.182.61.47
 www.tube8.com,NOERROR,No,66.254.114.239
 bravotube.net,NOERROR,No,88.208.55.198
@@ -1720,8 +1636,6 @@ www.originalelf.com,NOERROR,No,107.180.3.243
 www.orangewebsite.com,NOERROR,No,82.221.131.223
 www.om.org,NOERROR,No,"104.22.39.170, 104.22.38.170, 172.67.14.59"
 www.oikoumene.org,NOERROR,No,"104.26.10.41, 172.67.69.69, 104.26.11.41"
-www.unwomen.org/en/news/stories?topic=f8c6fb042b184dd482c36bf10173a6aa,NXDOMAIN,Sí,N/A
-www.unwomen.org/en/news/stories/2019/5/compilation-lgbti-activists-to-know,NXDOMAIN,Sí,N/A
 76crimes.com,NOERROR,No,162.0.212.2
 www.buydutchseeds.com,NOERROR,No,185.221.182.69
 www.absinth.com,NOERROR,No,62.109.150.115
@@ -1752,13 +1666,8 @@ www.accessnow.org,NOERROR,No,"172.67.15.225, 104.22.8.83, 104.22.9.83"
 world.internationalism.org,NOERROR,No,"104.21.1.25, 172.67.151.225"
 www.rxmarijuana.com,NOERROR,No,208.109.23.144
 www.birthcontrol.com,NOERROR,No,35.209.64.99
-st1.zoom.us/zoom.ico,NXDOMAIN,Sí,N/A
 wire.com,NOERROR,No,"199.60.103.56, 199.60.103.156"
-webcache.googleusercontent.com/robots.txt,NXDOMAIN,Sí,N/A
 video.google.com,NOERROR,No,142.250.64.142
-video-preview.s3.yandex.net/robots.txt,NXDOMAIN,Sí,N/A
-vector.im/_matrix/identity/api/v1,NXDOMAIN,Sí,N/A
-avatars.mds.yandex.net/robots.txt,NXDOMAIN,Sí,N/A
 thenationalcampaign.org,NOERROR,No,23.185.0.1
 telegra.ph,NOERROR,No,149.154.164.13
 technorati.com,NOERROR,No,129.213.208.64
@@ -1790,21 +1699,17 @@ www.ivpn.net,NOERROR,No,198.50.177.216
 www.piratenpartei.ch,NOERROR,No,149.126.4.43
 sandbox.cryptpad.info,NOERROR,No,151.80.191.153
 cid.contact,NOERROR,No,"18.64.174.26, 18.64.174.44, 18.64.174.71, 18.64.174.3"
-mirror.fcix.net/fdroid/repo,NXDOMAIN,Sí,N/A
-ftp.fau.de/fdroid/repo,NXDOMAIN,Sí,N/A
 tor.eff.org,NOERROR,No,173.239.79.196
 securevpn.com,NOERROR,No,192.153.162.3
 strongvpn.com,NOERROR,No,"104.18.30.97, 104.18.31.97"
 lokinet.org,NOERROR,No,23.88.6.250
 censorship.no,NOERROR,No,"185.196.61.178, 172.104.232.45, 142.132.196.168"
-api.protonvpn.ch/tests/ping,NXDOMAIN,Sí,N/A
 geti2p.net,NOERROR,No,81.7.7.63
 rapidgator.net,NOERROR,No,"195.211.222.2, 195.211.222.7"
 www.serials.ws,NOERROR,No,"13.248.148.254, 76.223.26.96"
 www.eluniversal.com,NOERROR,No,144.217.180.146
 imp.free.fr,NOERROR,No,212.27.48.1
 mytrans.com.tw,NOERROR,No,52.161.13.180
-im0-tub-com.yandex.net/i?id=462f375c96139f1e41d919b44be2d780&n=13&exp=1,NXDOMAIN,Sí,N/A
 go-text.me,NOERROR,No,3.81.204.11
 www.sputniknews.cn,NOERROR,No,220.243.137.218
 www.secfirst.org,NOERROR,No,52.50.17.13
@@ -1812,7 +1717,6 @@ www.rtarabic.com,NOERROR,No,"185.79.236.173, 89.191.237.191"
 www.ou.org,NOERROR,No,"3.171.61.19, 3.171.61.89, 3.171.61.104, 3.171.61.8"
 www.occrp.org,NOERROR,No,"172.67.20.203, 104.22.24.225, 104.22.25.225"
 minorityrights.org,NOERROR,No,"172.67.165.244, 104.21.11.115"
-doh.dns.sb/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,NXDOMAIN,Sí,N/A
 www.nbcnews.com,NOERROR,No,23.197.213.170
 fleegle.mixmin.net,NOERROR,No,144.76.182.167
 yts.lt,NOERROR,No,"172.67.180.220, 104.21.83.190"
@@ -1831,11 +1735,8 @@ astalavista.box.sk,NOERROR,No,88.212.29.3
 test-ipv6.com,NOERROR,No,172.235.51.117
 ptcostarica.org,NOERROR,No,145.223.124.66
 www.vpngate.net,NOERROR,No,"130.158.75.40, 130.158.75.42, 130.158.75.35, 130.158.75.48, 130.158.75.39, 130.158.75.38, 130.158.75.36, 130.158.75.44"
-www.cdc.gov/coronavirus/2019-ncov/cases-updates/world-map.html,NXDOMAIN,Sí,N/A
 www.cdc.gov,NOERROR,No,23.58.225.5
 www.4shared.com,NOERROR,No,"74.117.178.58, 199.101.134.236, 74.117.178.56, 199.101.134.235, 199.101.134.234, 74.117.178.90, 199.101.134.237, 74.117.178.93"
-start.ubuntu.com/connectivity-check.html,NXDOMAIN,Sí,N/A
-scontent.xx.fbcdn.net/robots.txt,NXDOMAIN,Sí,N/A
 www.privacidade.digital,NOERROR,No,"185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153"
 www.uscg.mil,NOERROR,No,23.58.243.51
 www.ushareit.com,NOERROR,No,159.138.103.42
@@ -1864,8 +1765,6 @@ www.hrw.org,NOERROR,No,23.185.0.2
 www.hrc.org,NOERROR,No,"35.160.103.208, 35.160.176.239, 44.224.212.102"
 www.heritage.org,NOERROR,No,"172.67.31.116, 104.22.22.64, 104.22.23.64"
 www.herdict.org,NOERROR,No,128.103.64.74
-www.google.com/search?q=transsexual,NXDOMAIN,Sí,N/A
-www.google.com/search?q=gay,NXDOMAIN,Sí,N/A
 www.gmhc.org,NOERROR,No,104.236.52.250
 www.globalpride2020.org,NOERROR,No,"104.21.16.1, 104.21.32.1, 104.21.112.1, 104.21.64.1, 104.21.96.1, 104.21.80.1, 104.21.48.1"
 www.gaystarnews.com,NOERROR,No,"104.21.88.251, 172.67.155.48"
@@ -1880,11 +1779,8 @@ www.amnesty.org,NOERROR,No,"141.193.213.20, 141.193.213.21"
 slashdot.org,NOERROR,No,"104.18.5.215, 104.18.4.215"
 lgbtmap.org,NOERROR,No,54.214.126.224
 laborrights.org,NOERROR,No,66.228.62.49
-scontent-ams4-1.cdninstagram.com/favicon.ico,NXDOMAIN,Sí,N/A
-edge-mqtt.facebook.com/favicon.ico,NXDOMAIN,Sí,N/A
 www.ifj.org,NOERROR,No,"104.26.7.13, 104.26.6.13, 172.67.72.246"
 www.hyphanet.org,NOERROR,No,"185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153"
-www.google.com/search?q=lesbian,NXDOMAIN,Sí,N/A
 www.globaleaks.org,NOERROR,No,95.174.23.119
 www.getoutline.org,NOERROR,No,142.250.217.243
 www.feminist.com,NOERROR,No,"104.21.25.74, 172.67.223.245"
@@ -1919,7 +1815,6 @@ wearechange.org,NOERROR,No,"104.26.3.128, 172.67.69.48, 104.26.2.128"
 sputnikglobe.com,NOERROR,No,194.190.139.3
 speedify.com,NOERROR,No,"172.67.71.144, 104.26.9.70, 104.26.8.70"
 lambdalegal.org,NOERROR,No,23.185.0.2
-scontent.cdninstagram.com/robots.txt,NXDOMAIN,Sí,N/A
 wfrtds.org,NOERROR,No,185.199.220.111
 thunder.free-signal.com,NOERROR,No,45.90.57.93
 substack.com,NOERROR,No,"104.18.37.200, 172.64.150.56"
@@ -1941,21 +1836,14 @@ jezebel.com,NOERROR,No,"104.18.9.156, 104.18.8.156"
 iyfglobal.org,NOERROR,No,"172.67.20.234, 104.22.1.85, 104.22.0.85"
 i2p2.de,NOERROR,No,81.7.7.63
 cdns.grindr.com,NOERROR,No,"104.16.234.5, 104.16.235.5"
-video.cdninstagram.com/favicon.ico,NXDOMAIN,Sí,N/A
 addons.mozilla.org,NOERROR,No,"151.101.193.91, 151.101.129.91, 151.101.1.91, 151.101.65.91"
 www.righttodie.ca,NOERROR,No,209.15.37.34
 www.partypoker.net,NOERROR,No,"104.18.3.155, 104.18.2.155"
 www.winespectator.com,NOERROR,No,151.101.18.133
-web.facebook.com/robots.txt,NXDOMAIN,Sí,N/A
-lookaside.facebook.com/robots.txt,NXDOMAIN,Sí,N/A
-instagram.fsaw1-13.fna.fbcdn.net/favicon.ico,NXDOMAIN,Sí,N/A
-edge-chat.instagram.com/robots.txt,NXDOMAIN,Sí,N/A
-cdn.fbsbx.com/favicon.ico,NXDOMAIN,Sí,N/A
 thegailygrind.com,NOERROR,No,148.135.131.113
 www.icj.org,NOERROR,No,162.159.134.42
 onlybingo.com,NOERROR,No,169.62.32.252
 alqassam.ps,NOERROR,No,185.231.114.218
-www.hon.ch,NXDOMAIN,Sí,N/A
 www.lgbtqnation.com,NOERROR,No,"104.26.13.111, 172.67.68.126, 104.26.12.111"
 www.lds.org,NOERROR,No,184.25.107.136
 www.khrp.org,NOERROR,No,"172.67.174.50, 104.21.30.241"
@@ -1965,9 +1853,7 @@ www.icrw.org,NOERROR,No,"141.193.213.20, 141.193.213.21"
 www.pridemedia.com,NOERROR,No,"198.185.159.144, 198.49.23.144, 198.49.23.145, 198.185.159.145"
 www.planetromeo.com,NOERROR,No,"104.17.179.107, 104.17.180.107"
 www.omct.org,NOERROR,No,84.16.78.100
-www.ohchr.org/en/issues/sexualorientationgender/pages/index.aspx,NXDOMAIN,Sí,N/A
 www.ohchr.org,NOERROR,No,"104.22.11.240, 172.67.36.17, 104.22.10.240"
-www.ohchr.org/english/bodies/hrcouncil,NXDOMAIN,Sí,N/A
 www.nostraightnews.com,NOERROR,No,"104.21.48.1, 104.21.16.1, 104.21.64.1, 104.21.96.1, 104.21.112.1, 104.21.80.1, 104.21.32.1"
 www.newnownext.com,NOERROR,No,23.194.245.120
 www.ndi.org,NOERROR,No,"104.20.159.23, 104.20.158.23, 172.67.17.15"
@@ -1982,13 +1868,12 @@ www.iskcon.com,NOERROR,No,"35.170.15.112, 34.235.58.202, 98.85.71.238, 34.197.16
 www.infowars.com,NOERROR,No,"104.16.39.36, 104.16.40.36"
 www.ilga-europe.org,NOERROR,No,176.61.151.13
 www.ijm.org,NOERROR,No,"104.18.180.119, 104.18.179.119"
-www.familyequality.org/events/international-family-equality-day,NXDOMAIN,Sí,N/A
 www.aljazeera.com,NOERROR,No,23.204.76.39
 www.glaad.org,NOERROR,No,44.231.129.68
 www.fordfound.org,NOERROR,No,"104.16.221.72, 104.16.220.72"
 www.cbc.ca,NOERROR,No,104.71.254.30
 trustvpn.me,NOERROR,No,"104.21.58.129, 172.67.159.226"
-www.f-secure.com/en/home/products/freedome,NXDOMAIN,Sí,N/A
+www.f-secure.com/en/home/products/freedome,NXDOMAIN,Sí,
 www.democracynow.org,NOERROR,No,"169.45.85.187, 67.228.192.94, 50.22.149.218"
 www.bnaibrith.org,NOERROR,No,162.159.134.42
 www.bbc.com,NOERROR,No,151.101.12.81
@@ -2011,18 +1896,13 @@ www.quora.com,NOERROR,No,"162.159.152.17, 162.159.153.247"
 otr.cypherpunks.ca,NOERROR,No,198.96.155.5
 nypost.com,NOERROR,No,192.0.66.32
 news.google.com,NOERROR,No,142.250.189.142
-neilalexander.s3.dualstack.eu-west-2.amazonaws.com/deb/key.txt,NXDOMAIN,Sí,N/A
 getlantern.org,NOERROR,No,76.76.21.21
-www.redditstatic.com/robots.txt,NXDOMAIN,Sí,N/A
-styles.redditmedia.com/robots.txt,NXDOMAIN,Sí,N/A
 gaymenshealth.org,NOERROR,No,50.87.19.102
 explorer.ooni.org,NOERROR,No,"76.76.21.98, 66.33.60.34"
-en.wikipedia.org/wiki/Sex_and_gender_distinction,NXDOMAIN,Sí,N/A
-en.wikipedia.org/wiki/List_of_LGBT_awareness_periods,NXDOMAIN,Sí,N/A
-dn42.dev/Home,NXDOMAIN,Sí,N/A
+en.wikipedia.org/wiki/List_of_LGBT_awareness_periods,NXDOMAIN,Sí,
+dn42.dev/Home,NXDOMAIN,Sí,
 ccrjustice.org,NOERROR,No,"172.67.20.91, 104.22.67.129, 104.22.66.129"
 brothersroad.org,NOERROR,No,160.153.0.78
-www.msftconnecttest.com/connecttest.txt,NXDOMAIN,Sí,N/A
 edition.cnn.com,NOERROR,No,"151.101.67.5, 151.101.131.5, 151.101.195.5, 151.101.3.5"
 csid-online.org,NOERROR,No,72.167.209.98
 citizenlab.ca,NOERROR,No,"104.21.55.9, 172.67.170.9"
@@ -2038,8 +1918,6 @@ vimeo.com,NOERROR,No,"162.159.138.60, 162.159.128.61"
 www.patreon.com,NOERROR,No,"104.16.24.14, 104.16.25.14"
 www.minds.com,NOERROR,No,"104.18.40.51, 172.64.147.205"
 www.clubhouseapi.com,NOERROR,No,"104.18.104.232, 104.18.105.232"
-i.pinimg.com/236x/78/6e/00/786e00eab219eca59803d118fbe0feb3.jpg,NXDOMAIN,Sí,N/A
-www.msftncsi.com/ncsi.txt,NXDOMAIN,Sí,N/A
 login.tailscale.com,NOERROR,No,"35.156.244.91, 3.125.149.81, 3.73.239.57, 3.124.108.117, 3.78.132.46, 3.70.110.84, 3.74.105.242, 18.199.123.246, 18.197.242.41, 18.159.140.118, 18.197.213.150, 3.125.194.96, 52.28.255.255, 18.194.180.142, 18.159.235.209, 3.69.76.60"
 www.opentech.fund,NOERROR,No,"172.66.43.105, 172.66.40.151"
 www.vatican.va,NOERROR,No,13.107.246.40
@@ -2063,41 +1941,32 @@ www.oca.org,NOERROR,No,45.79.144.159
 www.muhammadanism.com,NOERROR,No,104.247.72.172
 www.livejournal.com,NOERROR,No,"81.19.74.0, 81.19.74.1"
 www.judaism.com,NOERROR,No,198.12.232.48
-www.islaminstitut.de/en,NXDOMAIN,Sí,N/A
 www.islameyat.com,NOERROR,No,217.64.35.43
 www.ipcc.ch,NOERROR,No,"172.67.16.107, 104.20.254.3, 104.20.255.3"
 www.iaea.org,NOERROR,No,"104.20.2.64, 104.20.3.64"
-www.googleapis.com/auth/cloud-platform,NXDOMAIN,Sí,N/A
 www.emailaddresses.com,NOERROR,No,64.64.96.30
-www.bing-amp.com/v0/amp-iframe-0.1.js,NXDOMAIN,Sí,N/A
 r3.o.lencr.org,NOERROR,No,"23.219.155.14, 23.219.155.48, 23.219.155.20"
-private.canadianshield.cira.ca/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,NXDOMAIN,Sí,N/A
-media0.giphy.com/robots.txt,NXDOMAIN,Sí,N/A
-family.cloudflare-dns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,NXDOMAIN,Sí,N/A
-doh.opendns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,NXDOMAIN,Sí,N/A
 www.zzn.com,NOERROR,No,162.144.4.36
-www.webbox.com/index.php,NXDOMAIN,Sí,N/A
 www.securityinabox.org,NOERROR,No,172.105.249.143
 www.propublica.org,NOERROR,No,"104.16.252.51, 104.16.251.51"
-www.agendadelasmujeres.com.ar,NOERROR,No,N/A
+www.agendadelasmujeres.com.ar,NOERROR,No,
 www.dia.mil,NOERROR,No,"23.223.194.143, 23.223.194.146"
 www.ebay.com,NOERROR,No,104.109.133.32
 thepiratebay.org,NOERROR,No,"162.159.137.6, 162.159.136.6"
 www.quantico.marines.mil,NOERROR,No,23.58.245.43
-www.diarioaccion.com.ar,SERVFAIL,Sí,N/A
+www.diarioaccion.com.ar,SERVFAIL,Sí,
 alt.com,NOERROR,No,69.165.107.22
-apps.crowdtangle.com/public-hub/covid19,NXDOMAIN,Sí,N/A
 www.eldisenso.com,NOERROR,No,160.153.0.15
 www.thebubble.com,NOERROR,No,"104.18.36.24, 172.64.151.232"
-www.serpaj.org,SERVFAIL,Sí,N/A
+www.serpaj.org,SERVFAIL,Sí,
 www.blackhat.be,NOERROR,No,51.255.68.47
 insecure.org,NOERROR,No,50.116.1.184
 www.pokerpages.com,NOERROR,No,199.59.243.228
 doubleclick.net,NOERROR,No,192.178.50.78
-edicionlimite.com.ar,NXDOMAIN,Sí,N/A
-gist.github.com/discover,NXDOMAIN,Sí,N/A
-www.amnestyusa.org/the-state-of-lgbt-rights-worldwide,NXDOMAIN,Sí,N/A
-www.hechoenbsas.net,SERVFAIL,Sí,N/A
+edicionlimite.com.ar,NXDOMAIN,Sí,
+gist.github.com/discover,NXDOMAIN,Sí,
+www.amnestyusa.org/the-state-of-lgbt-rights-worldwide,NXDOMAIN,Sí,
+www.hechoenbsas.net,SERVFAIL,Sí,
 www.islamic-relief.com,NOERROR,No,217.19.248.132
 www.pacom.mil,NOERROR,No,"23.223.194.146, 23.223.194.143"
 www.darpa.mil,NOERROR,No,"13.226.52.70, 13.226.52.72, 13.226.52.117, 13.226.52.10"
@@ -2113,7 +1982,7 @@ www.ecosdiariosweb.com.ar,NOERROR,No,199.59.243.228
 posteo.de,NOERROR,No,"185.67.36.169, 185.67.36.168"
 www.hustler.com,NOERROR,No,208.97.136.33
 www.xinjiang.gov.cn,NOERROR,No,220.171.42.239
-connect.rom.miui.com/generate_204,NXDOMAIN,Sí,N/A
+connect.rom.miui.com/generate_204,NXDOMAIN,Sí,
 poringa.net,NOERROR,No,"34.235.71.82, 18.233.88.185"
 rargb.to,NOERROR,No,"172.67.213.35, 104.21.45.102"
 www.ananzi.co.za,NOERROR,No,156.38.133.2
@@ -2123,7 +1992,7 @@ tinyurl.com,NOERROR,No,"104.18.111.161, 104.17.112.233"
 www.metacrawler.com,NOERROR,No,"104.18.36.224, 172.64.151.32"
 www.wnd.com,NOERROR,No,"172.67.70.96, 104.26.10.127, 104.26.11.127"
 cryptome.org,NOERROR,No,209.17.116.160
-www.lanoticiaregional.com.ar,NXDOMAIN,Sí,N/A
+www.lanoticiaregional.com.ar,NXDOMAIN,Sí,
 photocall.tv,NOERROR,No,"104.21.4.185, 172.67.132.90"
 cites.org,NOERROR,No,"104.22.47.86, 104.22.46.86, 172.67.25.202"
 www.wix.com,NOERROR,No,34.149.87.45
@@ -2138,34 +2007,26 @@ wikileaks.org,NOERROR,No,"51.159.197.136, 80.81.248.21"
 www.tageblatt.com.ar,NOERROR,No,149.50.131.102
 mundoalbiceleste.com,NOERROR,No,173.209.54.39
 www.nuevodiariodesalta.com.ar,NOERROR,No,149.50.140.131
-www.elpopular.com.ar,NXDOMAIN,Sí,N/A
 www.elheraldo.com.ar,NOERROR,No,"104.21.39.100, 172.67.144.49"
 www.biz.ly,NOERROR,No,67.225.207.145
 www.abortosinbarreras.org,NOERROR,No,103.224.182.253
 www.freepik.com,NOERROR,No,"23.61.251.67, 23.61.251.103"
 ebuddy.com,NOERROR,No,"3.171.38.45, 3.171.38.27, 3.171.38.121, 3.171.38.51"
 www.linkedin.com,NOERROR,No,150.171.22.12
-scontent-vie1-1.cdninstagram.com/favicon.ico,NXDOMAIN,Sí,N/A
-i.instagram.com/robots.txt,NXDOMAIN,Sí,N/A
 www.y2mate.com,NOERROR,No,"172.66.132.236, 172.67.16.87"
 www.date.com,NOERROR,No,44.194.88.78
 www.fmlapatriada.com.ar,NOERROR,No,"104.21.32.1, 104.21.16.1, 104.21.48.1, 104.21.112.1, 104.21.64.1, 104.21.96.1, 104.21.80.1"
-clarin.com.ar,NOERROR,No,N/A
+clarin.com.ar,NOERROR,No,
 www.fuckingfreemovies.com,NOERROR,No,66.254.117.142
 search.aol.com,NOERROR,No,66.218.84.137
 thepiratebay.org,NOERROR,No,"162.159.136.6, 162.159.137.6"
 www.greennet.org.uk,NOERROR,No,193.37.35.248
 feim.org.ar,NOERROR,No,217.21.77.153
-www.diarioextra.com.ar,SERVFAIL,Sí,N/A
-o0.ingest.sentry.io/api/0,NXDOMAIN,Sí,N/A
-sentry.io/api/0,NXDOMAIN,Sí,N/A
+www.diarioextra.com.ar,SERVFAIL,Sí,
 localbitcoins.com,NOERROR,No,"104.20.65.21, 104.20.66.21"
 revisbarcelona.com,NOERROR,No,"15.197.225.128, 3.33.251.168"
 radio.mapuche.nl,NOERROR,No,46.23.85.32
-psa.org.ar,NXDOMAIN,Sí,N/A
 opiniondelacosta.com.ar,NOERROR,No,179.43.115.6
-app.developer.here.com/coronavirus,NXDOMAIN,Sí,N/A
-adcdigital.org.ar,NXDOMAIN,Sí,N/A
 www.laprensa.com.ar,NOERROR,No,154.53.42.79
 iarf.net,NOERROR,No,"172.67.190.146, 104.21.84.88"
 etherscan.io,NOERROR,No,"104.22.15.57, 104.22.14.57, 172.67.8.107"
@@ -2180,7 +2041,6 @@ feminist.org,NOERROR,No,"141.193.213.11, 141.193.213.10"
 eleco.com.ar,NOERROR,No,"172.67.74.71, 104.26.5.163, 104.26.4.163"
 diariolaopinion.com.ar,NOERROR,No,"104.21.30.42, 172.67.150.138"
 diariohoy.net,NOERROR,No,"104.21.3.53, 172.67.130.67"
-diarioelzondasj.com.ar/index.php,NXDOMAIN,Sí,N/A
 dartcenter.org,NOERROR,No,"104.26.8.30, 172.67.74.228, 104.26.9.30"
 creativecommons.org,NOERROR,No,"172.67.1.191, 104.20.5.134, 104.20.6.134"
 comunicacionsocial.org.ar,NOERROR,No,66.225.201.149
@@ -2200,7 +2060,6 @@ www.ecologiapolitica.info,NOERROR,No,54.38.243.68
 www.diariolareforma.com.ar,NOERROR,No,200.123.159.137
 mastodon.xyz,NOERROR,No,23.88.64.96
 libgen.xyz,NOERROR,No,"172.67.128.97, 104.21.0.233"
-www.latinamericancupid.com/en/landing/argentina-dating,NXDOMAIN,Sí,N/A
 matcha.xyz,NOERROR,No,"104.18.26.209, 104.18.27.209"
 www.ellitoral.com.ar,NOERROR,No,"104.21.48.1, 104.21.112.1, 104.21.64.1, 104.21.96.1, 104.21.32.1, 104.21.16.1, 104.21.80.1"
 www.eldia.com,NOERROR,No,"3.33.193.101, 15.197.246.237, 52.223.46.195, 99.83.183.127"
@@ -2222,7 +2081,6 @@ nsdapao.info,NOERROR,No,23.184.48.187
 www.infojusnoticias.gov.ar,NOERROR,No,"200.1.63.5, 200.1.63.6, 200.1.63.9, 200.1.63.12"
 www.kucoin.com,NOERROR,No,"104.18.33.108, 172.64.154.148"
 adium.im,NOERROR,No,51.79.38.239
-www.eltribuno.info/jujuy,NXDOMAIN,Sí,N/A
 www.argentinepost.com,NOERROR,No,167.172.238.228
 libgen.li,NOERROR,No,"172.67.193.122, 104.21.57.230"
 www.ccel.org,NOERROR,No,153.106.135.32
@@ -2247,16 +2105,14 @@ www.hijos-capital.org.ar,NOERROR,No,31.22.4.50
 www.securenym.net,NOERROR,No,65.183.52.66
 vk.com,NOERROR,No,"87.240.137.164, 87.240.132.72, 87.240.132.67, 87.240.129.133, 87.240.132.78, 93.186.225.194"
 tamtam.chat,NOERROR,No,"185.16.148.34, 185.16.148.66, 185.16.148.2"
-musicaypropuestas.com.ar,NXDOMAIN,Sí,N/A
 www.cyberghostvpn.com,NOERROR,No,"172.66.132.12, 172.66.132.11"
-www.mapuchenative.com,SERVFAIL,Sí,N/A
+www.mapuchenative.com,SERVFAIL,Sí,
 www.jachalmagazine.com.ar,NOERROR,No,200.58.111.55
 www.fopea.org,NOERROR,No,82.180.159.122
 bsky.app,NOERROR,No,"3.13.104.3, 3.136.211.36, 3.13.123.235"
 zh.wikipedia.org,NOERROR,No,208.80.154.224
 yts.mx,NOERROR,No,"104.26.1.60, 172.67.69.153, 104.26.0.60"
 x1337x.eu,NOERROR,No,"104.21.72.83, 172.67.177.140"
-lh3.googleusercontent.com/favicon.ico,NXDOMAIN,Sí,N/A
 www.asadoargentina.com,NOERROR,No,"66.81.203.134, 66.81.203.9, 66.81.203.199"
 libgen.rs,NOERROR,No,193.218.118.42
 www.brinkster.com,NOERROR,No,65.182.102.190
@@ -2264,19 +2120,18 @@ www.linphone.org,NOERROR,No,5.135.31.160
 katcr.to,NOERROR,No,"104.21.96.9, 172.67.150.31"
 ente.io,NOERROR,No,"172.67.131.168, 104.21.4.46"
 ar.wikipedia.org,NOERROR,No,208.80.154.224
-www.genderindex.org/country/argentina,NXDOMAIN,Sí,N/A
-premiumhentaiclub.co,NOERROR,No,N/A
-www.diariouno.net.ar,NOERROR,No,N/A
+premiumhentaiclub.co,NOERROR,No,
+www.diariouno.net.ar,NOERROR,No,
 marijuana.nl,NOERROR,No,35.214.241.136
 use-application-dns.net,NOERROR,No,35.190.14.201
-www.malware.com,SERVFAIL,Sí,N/A
+www.malware.com,SERVFAIL,Sí,
 www.globet.com,NOERROR,No,"3.33.130.190, 15.197.148.33"
 crackspider.net,NOERROR,No,45.63.71.7
 pingomatic.com,NOERROR,No,198.143.164.254
-shareaza.com,SERVFAIL,Sí,N/A
-www.kazaa.com,SERVFAIL,Sí,N/A
+shareaza.com,SERVFAIL,Sí,
+www.kazaa.com,SERVFAIL,Sí,
 www.match.com,NOERROR,No,208.83.240.49
-www.fgmnetwork.org,SERVFAIL,Sí,N/A
+www.fgmnetwork.org,SERVFAIL,Sí,
 thepiratebay.se,NOERROR,No,"194.9.94.86, 194.9.94.85"
 www.movimientopopularneuquino.org,NOERROR,No,"104.21.64.1, 104.21.48.1, 104.21.16.1, 104.21.96.1, 104.21.112.1, 104.21.80.1, 104.21.32.1"
 www.diarioresumen.com.ar,NOERROR,No,157.230.230.191
@@ -2284,39 +2139,36 @@ www.elcomercial.com.ar,NOERROR,No,190.7.60.204
 www.blogsome.com,NOERROR,No,169.45.77.170
 www.vpnunlimited.com,NOERROR,No,"104.22.44.223, 172.67.4.238, 104.22.45.223"
 lantern.io,NOERROR,No,"104.18.28.242, 104.18.29.242"
-cloudflare-dns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,NXDOMAIN,Sí,N/A
 www.darknet.org.uk,NOERROR,No,"104.21.96.1, 104.21.64.1, 104.21.16.1, 104.21.80.1, 104.21.112.1, 104.21.32.1, 104.21.48.1"
 www.osce.org,NOERROR,No,69.172.200.222
 coronavirus-map.com,NOERROR,No,103.224.182.213
-www.patria.org.ve,SERVFAIL,Sí,N/A
-w3.ibm.com/developer/hacktoberfest,NXDOMAIN,Sí,N/A
-diariodecaracas.com,NOERROR,No,N/A
+www.patria.org.ve,SERVFAIL,Sí,
+diariodecaracas.com,NOERROR,No,
 rates.airtm.io,NOERROR,No,"18.173.166.83, 18.173.166.106, 18.173.166.3, 18.173.166.50"
-www.topcities.com,SERVFAIL,Sí,N/A
-extratorrent.cc,NOERROR,No,N/A
-bloquedearmas.com,NOERROR,No,N/A
-check.googlezip.net,NOERROR,No,N/A
-check.googlezip.net/connect,NXDOMAIN,Sí,N/A
-www.wikispaces.com,NOERROR,No,N/A
-www.religioustolerance.org,SERVFAIL,Sí,N/A
-www.elmundo.com.ve,SERVFAIL,Sí,N/A
-www.topcities.com,SERVFAIL,Sí,N/A
+www.topcities.com,SERVFAIL,Sí,
+extratorrent.cc,NOERROR,No,
+bloquedearmas.com,NOERROR,No,
+check.googlezip.net,NOERROR,No,
+www.wikispaces.com,NOERROR,No,
+www.religioustolerance.org,SERVFAIL,Sí,
+www.elmundo.com.ve,SERVFAIL,Sí,
+www.topcities.com,SERVFAIL,Sí,
 www.anred.org,NOERROR,No,91.226.176.137
 elsigloweb.com,NOERROR,No,204.197.250.111
 bitcoin.sipa.be,NOERROR,No,144.217.240.89
-www.asstr.org,SERVFAIL,Sí,N/A
-www.atimes.com,SERVFAIL,Sí,N/A
+www.asstr.org,SERVFAIL,Sí,
+www.atimes.com,SERVFAIL,Sí,
 www.tobacco.org,NOERROR,No,34.73.189.215
-www.metacafe.com,SERVFAIL,Sí,N/A
-www.serpaj.org,SERVFAIL,Sí,N/A
-extratorrent.cc,NOERROR,No,N/A
-www.frmt.org,UNKNOWN,No,N/A
+www.metacafe.com,SERVFAIL,Sí,
+www.serpaj.org,SERVFAIL,Sí,
+extratorrent.cc,NOERROR,No,
+www.frmt.org,UNKNOWN,No,
 www.albedrio.org,NOERROR,No,104.247.81.50
-www.sedem.org.gt,SERVFAIL,Sí,N/A
-archivos.domain.com,NOERROR,No,N/A
-docs.domain.com,NOERROR,No,N/A
-example.domain.com,NOERROR,No,N/A
-en-ville.orange.fr,NOERROR,No,N/A
+www.sedem.org.gt,SERVFAIL,Sí,
+archivos.domain.com,NOERROR,No,
+docs.domain.com,NOERROR,No,
+example.domain.com,NOERROR,No,
+en-ville.orange.fr,NOERROR,No,
 localmonero.co,NOERROR,No,"45.60.135.225, 45.60.75.225"
 www.poker.com,NOERROR,No,"104.17.25.194, 104.17.24.194"
 www.interpol.int,NOERROR,No,23.58.236.87
@@ -2331,13 +2183,10 @@ www.888casino.com,NOERROR,No,"18.64.174.95, 18.64.174.111, 18.64.174.96, 18.64.1
 www.betfair.com,NOERROR,No,"104.19.153.16, 104.19.154.16"
 casino.com,NOERROR,No,"151.101.195.52, 151.101.3.52, 151.101.67.52, 151.101.131.52"
 cuevana3.io,NOERROR,No,69.16.230.42
-experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd,NXDOMAIN,Sí,N/A
 libgen.space,NOERROR,No,107.180.28.153
-assets.gitlab-static.net/robots.txt,NXDOMAIN,Sí,N/A
 www.rojadirectaenvivo.me,NOERROR,No,"172.67.129.24, 104.21.2.107"
 www.rojadirectaenvivo.pl,NOERROR,No,"104.21.32.1, 104.21.112.1, 104.21.48.1, 104.21.16.1, 104.21.96.1, 104.21.80.1, 104.21.64.1"
 www.lingerieatlarge.com,NOERROR,No,199.59.243.160
-www.layevangelism.com,NXDOMAIN,Sí,N/A
 thepiratebay.org,NOERROR,No,"162.159.137.6, 162.159.136.6"
 www.mamma.com,NOERROR,No,103.224.182.22
 boomproxy.com,NOERROR,No,"3.94.41.167, 52.86.6.113"
@@ -2352,8 +2201,8 @@ www.tremendanota.com,NOERROR,No,"172.67.204.107, 104.21.93.46"
 trello.com,NOERROR,No,"18.239.225.127, 18.239.225.58, 18.239.225.24, 18.239.225.99"
 www.hermanos.org,NOERROR,No,173.248.161.52
 www.lingeriebowl.com,NOERROR,No,172.98.192.37
-mariaelvirasalazar.com/es,NXDOMAIN,Sí,N/A
-leyesdictadoras.com,NXDOMAIN,Sí,N/A
+mariaelvirasalazar.com/es,NXDOMAIN,Sí,
+leyesdictadoras.com,NXDOMAIN,Sí,
 es-us.noticias.yahoo.com,NOERROR,No,74.6.143.18
 trello.com,NOERROR,No,"18.239.225.58, 18.239.225.24, 18.239.225.99, 18.239.225.127"
 washingtonpost.com,NOERROR,No,"13.249.98.88, 13.249.98.110, 13.249.98.69, 13.249.98.18"
@@ -2377,7 +2226,7 @@ www.tremendanota.com,NOERROR,No,"172.67.204.107, 104.21.93.46"
 afrocubanas.com,NOERROR,No,"104.21.64.131, 172.67.151.9"
 cubaarchive.org,NOERROR,No,160.153.0.154
 demoamlat.com,NOERROR,No,3.139.241.57
-cubaposible.com,NOERROR,No,N/A
+cubaposible.com,NOERROR,No,
 semana.com,NOERROR,No,"76.223.87.56, 13.248.202.234"
 eldebate.com,NOERROR,No,"13.249.98.122, 13.249.98.76, 13.249.98.24, 13.249.98.29"
 goarch.org,NOERROR,No,205.174.26.44
@@ -2400,15 +2249,14 @@ www.feedtheminds.org,NOERROR,No,185.151.30.163
 conrefranes.com,NOERROR,No,45.207.52.100
 www.topdrawers.com,NOERROR,No,63.141.128.12
 www.blogeasy.com,NOERROR,No,72.215.195.115
-nvhabana.org,NXDOMAIN,Sí,N/A
 bacuba.org,NOERROR,No,108.161.128.180
 zenvpn.net,NOERROR,No,"172.67.173.168, 104.21.80.31"
 xxx.lanl.gov,NOERROR,No,204.121.60.168
 www.ucc.org,NOERROR,No,23.185.0.2
 www.univision.com,NOERROR,No,104.86.163.192
-www.cubamemorial.net,UNKNOWN,No,N/A
+www.cubamemorial.net,UNKNOWN,No,
 www.cubalibredigital.com,NOERROR,No,143.137.191.17
-cubanuestra.nu,SERVFAIL,Sí,N/A
+cubanuestra.nu,SERVFAIL,Sí,
 www.acnu.org.cu,NOERROR,No,81.255.146.49
 www.cubanuestra.nu,NOERROR,No,104.247.82.51
 www.cubanuestra.nu,NOERROR,No,104.247.82.51
@@ -2420,7 +2268,6 @@ www.opinioncubana.com,NOERROR,No,88.223.84.119
 www.beintheknow.org,NOERROR,No,"76.76.21.98, 66.33.60.34"
 www.bahai.org,NOERROR,No,"100.28.201.155, 34.234.106.80"
 www.magicjack.com,NOERROR,No,"34.194.217.145, 18.214.194.67"
-www.miradacubana.com,NXDOMAIN,Sí,N/A
 www.alianzaregional.net,NOERROR,No,82.29.159.13
 alianzaregional.net,NOERROR,No,82.29.159.13
 www.demoamlat.com,NOERROR,No,3.139.241.57
@@ -2441,7 +2288,7 @@ www.lanuevacuba.com,NOERROR,No,209.8.25.232
 www.hermanos.org,NOERROR,No,173.248.161.52
 therealcuba.com,NOERROR,No,74.220.199.6
 damasdeblanco.com,NOERROR,No,82.98.169.3
-alpha66.org,SERVFAIL,Sí,N/A
+alpha66.org,SERVFAIL,Sí,
 solidaridadconcuba.com,NOERROR,No,82.98.169.3
 cubafreepress.org,NOERROR,No,74.220.199.9
 megaproxy.com,NOERROR,No,52.70.232.188
@@ -2453,7 +2300,6 @@ www.corriente.org,NOERROR,No,147.79.72.18
 www.corriente.org,NOERROR,No,147.79.72.18
 corriente.org,NOERROR,No,147.79.72.215
 corriente.org,NOERROR,No,147.79.72.215
-bateycubano.com,NXDOMAIN,Sí,N/A
 sigloxxi.org,NOERROR,No,"96.126.111.165, 66.175.209.179"
 sigloxxi.org,NOERROR,No,"66.175.209.179, 96.126.111.165"
 netforcuba.org,NOERROR,No,185.126.181.40
@@ -2463,10 +2309,9 @@ www.cubanology.com,NOERROR,No,18.171.122.23
 www.redlad.org,NOERROR,No,213.173.37.116
 www.agendacuba.org,NOERROR,No,213.32.46.13
 www.trello.com,NOERROR,No,"18.239.225.24, 18.239.225.99, 18.239.225.127, 18.239.225.58"
-www.es-us.noticias.yahoo.com,NXDOMAIN,Sí,N/A
-www.consensocubano.org,SERVFAIL,Sí,N/A
+www.consensocubano.org,SERVFAIL,Sí,
 periodicocubano.com,NOERROR,No,"172.67.72.170, 104.26.9.141, 104.26.8.141"
-www.abelsierramadero.com,SERVFAIL,Sí,N/A
+www.abelsierramadero.com,SERVFAIL,Sí,
 www.partidodelpueblo.com,NOERROR,No,"15.197.225.128, 3.33.251.168"
 www.20minutos.es,NOERROR,No,"18.64.174.61, 18.64.174.54, 18.64.174.72, 18.64.174.114"
 www.ondavasca.com,NOERROR,No,54.38.40.231
@@ -2477,11 +2322,9 @@ tophoy.com,NOERROR,No,145.223.124.171
 unpacu.org,NOERROR,No,185.42.104.215
 observacuba.org,NOERROR,No,209.42.196.75
 www.canf.org,NOERROR,No,50.112.232.167
-www.es-us.noticias.yahoo.com,NXDOMAIN,Sí,N/A
-www.jsk.stanford.edu,NXDOMAIN,Sí,N/A
-www.alpha66.org,SERVFAIL,Sí,N/A
-www.alpha66.org,SERVFAIL,Sí,N/A
-alpha66.org,SERVFAIL,Sí,N/A
+www.alpha66.org,SERVFAIL,Sí,
+www.alpha66.org,SERVFAIL,Sí,
+alpha66.org,SERVFAIL,Sí,
 www.cubaxcuba.com,NOERROR,No,"198.185.159.144, 198.49.23.145, 198.185.159.145, 198.49.23.144"
 www.rialta.org,NOERROR,No,193.70.16.161
 www.latribuna.hn,NOERROR,No,"104.26.2.107, 172.67.74.36, 104.26.3.107"
@@ -2489,7 +2332,6 @@ www.zoomshare.com,NOERROR,No,173.164.244.212
 ij.org,NOERROR,No,"172.67.23.170, 104.22.45.140, 104.22.44.140"
 mail.google.com,NOERROR,No,142.250.217.229
 www.worldpulse.com,NOERROR,No,"104.26.1.67, 172.67.73.235, 104.26.0.67"
-nextstrain.org/ncov,NXDOMAIN,Sí,N/A
 www.iaru.org,NOERROR,No,116.203.47.185
 www.2shared.com,NOERROR,No,"76.223.67.189, 13.248.213.45"
 www.cato.org,NOERROR,No,45.60.192.124
@@ -2520,9 +2362,7 @@ www.ceceurope.org,NOERROR,No,37.9.175.179
 www.abortionno.org,NOERROR,No,"199.16.172.219, 199.16.173.199"
 www.paypal.com,NOERROR,No,151.101.17.21
 www.fsb.ru,NOERROR,No,213.24.76.23
-external-content.duckduckgo.com/robots.txt,NXDOMAIN,Sí,N/A
 www.marxists.org,NOERROR,No,65.109.101.238
-www.qhtyzx.com,NXDOMAIN,Sí,N/A
 covidtracking.com,NOERROR,No,"104.21.64.114, 172.67.183.132"
 www.cyber-pirates.org,NOERROR,No,213.33.72.203
 openwrt.org,NOERROR,No,64.226.122.113
@@ -2530,7 +2370,6 @@ www.hrea.org,NOERROR,No,66.198.240.43
 www.globalr2p.org,NOERROR,No,"141.193.213.10, 141.193.213.11"
 vgtrk.ru,NOERROR,No,178.248.232.222
 rtr-planeta.com,NOERROR,No,80.247.32.209
-pridesource.com/article/top-10-international-lgbt-stories-of-2018,NXDOMAIN,Sí,N/A
 getoutline.org,NOERROR,No,"216.239.34.21, 216.239.32.21, 216.239.36.21, 216.239.38.21"
 freemuse.org,NOERROR,No,194.63.249.217
 disclose.ngo,NOERROR,No,"104.22.74.232, 104.22.75.232, 172.67.37.244"
@@ -2558,13 +2397,11 @@ www.babbel.com,NOERROR,No,"13.35.116.39, 13.35.116.121, 13.35.116.3, 13.35.116.5
 www.scarleteen.com,NOERROR,No,195.181.163.203
 www.edf.org,NOERROR,No,"151.101.194.216, 151.101.130.216, 151.101.66.216, 151.101.2.216"
 api.github.com,NOERROR,No,140.82.114.6
-notifications-pa.googleapis.com/robots.txt,NXDOMAIN,Sí,N/A
 cdnjs.cloudflare.com,NOERROR,No,"104.17.25.14, 104.17.24.14"
 sea-watch.org,NOERROR,No,"51.77.117.40, 185.196.61.178, 172.104.232.45"
 www.rki.de,NOERROR,No,80.245.144.175
 www.postmaster.co.uk,NOERROR,No,51.210.181.43
 www.lingo.com,NOERROR,No,67.205.155.110
-www.healthmap.org/covid-19,NXDOMAIN,Sí,N/A
 911truth.org,NOERROR,No,35.208.251.241
 www.veoh.com,NOERROR,No,"199.48.210.90, 199.48.210.91, 199.48.210.92"
 www.mywebcalls.com,NOERROR,No,91.220.132.74
@@ -2577,7 +2414,6 @@ amphetamines.com,NOERROR,No,"104.21.48.8, 172.67.175.42"
 www.translate.ru,NOERROR,No,141.95.147.42
 www.startmail.com,NOERROR,No,"145.131.90.136, 145.131.90.152"
 disqus.com,NOERROR,No,"151.101.192.134, 151.101.64.134, 151.101.128.134, 151.101.0.134"
-gisanddata.maps.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6,NXDOMAIN,Sí,N/A
 www.womenonwaves.org,NOERROR,No,168.119.235.217
 www.yola.com,NOERROR,No,"104.16.126.49, 104.16.125.49"
 www.iico.org,NOERROR,No,159.69.157.252
@@ -2617,13 +2453,10 @@ www.pcusa.org,NOERROR,No,23.185.0.2
 vozpublica.net,NOERROR,No,"172.104.232.45, 185.196.61.178, 51.77.117.40"
 www.goodreads.com,NOERROR,No,"65.8.248.15, 65.8.248.25, 65.8.248.84, 65.8.248.127"
 www.bitcomet.com,NOERROR,No,138.199.168.42
-fdroid.tetaneutral.net/fdroid/repo,NXDOMAIN,Sí,N/A
 www.sendthisfile.com,NOERROR,No,169.61.36.83
 www.medicinenet.com,NOERROR,No,"104.18.33.29, 172.64.154.227"
-matrix-client.matrix.org/_matrix/client/versions,NXDOMAIN,Sí,N/A
 line.me,NOERROR,No,147.92.243.206
 circumcision.org,NOERROR,No,"104.21.96.1, 104.21.80.1, 104.21.112.1, 104.21.64.1, 104.21.48.1, 104.21.16.1, 104.21.32.1"
-qph.fs.quoracdn.net/main-thumb-1117688072-200-uijiqfjcmlvaxczdrlawbgyaomfocdnt.jpeg,NXDOMAIN,Sí,N/A
 www.vanguardnewsnetwork.com,NOERROR,No,107.180.232.129
 cyber.harvard.edu,NOERROR,No,128.103.64.74
 www.vyke.com,NOERROR,No,20.93.49.47
@@ -2649,7 +2482,6 @@ pinboard.in,NOERROR,No,64.62.134.190
 evernote.com,NOERROR,No,34.98.96.201
 www.absolut.com,NOERROR,No,"104.18.19.172, 104.18.18.172"
 www.engenderhealth.org,NOERROR,No,52.206.214.15
-pps.whatsapp.net/robots.txt,NXDOMAIN,Sí,N/A
 www.dogpile.com,NOERROR,No,"172.64.151.32, 104.18.36.224"
 www.privaterra.org,NOERROR,No,142.250.217.243
 www.metal-archives.com,NOERROR,No,"104.21.39.169, 172.67.146.200"
@@ -2658,34 +2490,21 @@ www.pinknews.co.uk,NOERROR,No,"104.21.80.1, 104.21.16.1, 104.21.32.1, 104.21.112
 www.mailinator.com,NOERROR,No,"104.22.13.236, 172.67.7.118, 104.22.12.236"
 locals.com,NOERROR,No,"172.64.150.26, 104.18.37.230"
 panties.com,NOERROR,No,23.227.38.32
-earthobservatory.nasa.gov/global-maps,NXDOMAIN,Sí,N/A
-docs.github.com/en,NXDOMAIN,Sí,N/A
-cdn.jsdelivr.net/favicon.ico,NXDOMAIN,Sí,N/A
-cdn.ampproject.org/v0/amp-iframe-0.1.js,NXDOMAIN,Sí,N/A
 bit.ly,NOERROR,No,"67.199.248.10, 67.199.248.11"
-apps.apple.com/us/developer/apple/id284417353,NXDOMAIN,Sí,N/A
-android.googleapis.com/robots.txt,NXDOMAIN,Sí,N/A
-android.apis.google.com/robots.txt,NXDOMAIN,Sí,N/A
-ajax.aspnetcdn.com/ajax/4.5.2/1/MicrosoftAjax.js,NXDOMAIN,Sí,N/A
 zoom.us,NOERROR,No,170.114.52.2
 yandex.com,NOERROR,No,"5.255.255.77, 77.88.44.55, 77.88.55.88"
-www.worldometers.info/coronavirus,NXDOMAIN,Sí,N/A
 www.whitepages.com,NOERROR,No,"104.18.41.32, 172.64.146.224"
 www.viber.com,NOERROR,No,23.58.225.96
-media.fevn1-1.fna.whatsapp.net/robots.txt,NXDOMAIN,Sí,N/A
 docs.google.com,NOERROR,No,142.250.189.142
 www.zoho.com,NOERROR,No,204.141.42.155
 www.worldcoalition.org,NOERROR,No,46.105.204.6
 www.wiktionary.org,NOERROR,No,208.80.154.224
 www.wikipedia.org,NOERROR,No,208.80.154.224
-www.wikidata.org/wiki/Wikidata:Main_Page,NXDOMAIN,Sí,N/A
 www.unfpa.org,NOERROR,No,23.185.0.3
-chrome.google.com/webstore/category/extensions,NXDOMAIN,Sí,N/A
-icao.maps.arcgis.com/apps/opsdashboard/index.html#/977dde48256b489fb48fa98e724721e8,NXDOMAIN,Sí,N/A
 www.iucn.org,NOERROR,No,"104.21.85.207, 172.67.210.152"
 www.neonjoint.com,NOERROR,No,"141.193.213.11, 141.193.213.10"
 www.wluml.org,NOERROR,No,193.37.35.141
-stealthchat.com,NOERROR,No,N/A
+stealthchat.com,NOERROR,No,
 slack-imgs.com,NOERROR,No,"99.84.252.61, 99.84.252.17, 99.84.252.88, 99.84.252.115"
 secure.hi5.com,NOERROR,No,135.84.35.167
 search.brave.com,NOERROR,No,"13.226.52.54, 13.226.52.94, 13.226.52.5, 13.226.52.82"
@@ -2727,7 +2546,6 @@ www.agentprovocateur.com,NOERROR,No,"104.22.71.239, 172.67.10.84, 104.22.70.239"
 www.abortoinfosegura.com,NOERROR,No,"172.67.222.163, 104.21.38.123"
 trisquel.info,NOERROR,No,94.23.83.146
 trashy.com,NOERROR,No,23.227.38.32
-support.therapytribe.com/hivaids-support-group,NXDOMAIN,Sí,N/A
 www.msf.org,NOERROR,No,"172.67.13.134, 104.22.14.204, 104.22.15.204"
 drugs-forum.com,NOERROR,No,"172.67.30.220, 104.22.46.110, 104.22.47.110"
 www.vesti.ru,NOERROR,No,178.248.232.222
@@ -2750,11 +2568,10 @@ www.protectioninternational.org,NOERROR,No,86.39.66.50
 www.musalaha.org,NOERROR,No,167.86.76.203
 bogus.d2a8n1.rootcanary.net,NOERROR,No,145.97.20.20
 www.rawa.org,NOERROR,No,216.170.124.198
-www.pc2call.com,SERVFAIL,Sí,N/A
+www.pc2call.com,SERVFAIL,Sí,
 www.gazprombank.ru,NOERROR,No,82.202.190.94
 root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net,NOERROR,No,145.97.20.20
 root-key-sentinel-is-ta-38696.d2a8n3.rootcanary.net,NOERROR,No,145.97.20.20
-www.kff.org/global-health-policy/fact-sheet/coronavirus-tracker,NXDOMAIN,Sí,N/A
 www.iwraw-ap.org,NOERROR,No,72.18.132.151
 transequality.org,NOERROR,No,"172.67.166.91, 104.21.11.149"
 www.vesti.ru,NOERROR,No,178.248.232.222
@@ -2776,89 +2593,73 @@ wupj.org,NOERROR,No,"172.67.167.76, 104.21.11.220"
 goaskalice.columbia.edu,NOERROR,No,54.88.225.116
 jami.net,NOERROR,No,144.217.29.51
 www.riverbelle.com,NOERROR,No,"104.18.38.225, 172.64.149.31"
-cepsnicaragua.org,NXDOMAIN,Sí,N/A
 ceprodel.org.ni,NOERROR,No,200.58.111.38
-www.inde.org.ni,NXDOMAIN,Sí,N/A
-puntos.org.ni,NOERROR,No,N/A
-anpdhoficial.org,NXDOMAIN,Sí,N/A
-www.cadin.org.ni,NXDOMAIN,Sí,N/A
-apen.org.ni,NOERROR,No,N/A
-www.allactionhost.com/es-ni/web-hosting,NXDOMAIN,Sí,N/A
+puntos.org.ni,NOERROR,No,
+apen.org.ni,NOERROR,No,
 www.plc.org.ni,NOERROR,No,"200.62.81.132, 10.0.1.21"
-cadur.org.ni,NXDOMAIN,Sí,N/A
 www.lavozdelsandinismo.com,NOERROR,No,"13.248.169.48, 76.223.54.146"
-www.asociacionlaamistadmatagalpa.org/menu.html,NXDOMAIN,Sí,N/A
-www.acodep.org.ni,NXDOMAIN,Sí,N/A
-grupovenancia.org,SERVFAIL,Sí,N/A
+grupovenancia.org,SERVFAIL,Sí,
 nicaraguancigarfestival.com,NOERROR,No,"104.21.2.213, 172.67.129.181"
 www.unitec.edu.ni,NOERROR,No,186.1.56.72
-www.gentedegallos.com.ni,NXDOMAIN,Sí,N/A
-www.fetradomovnicaragua.com,NXDOMAIN,Sí,N/A
+www.gentedegallos.com.ni,NXDOMAIN,Sí,
+www.fetradomovnicaragua.com,NXDOMAIN,Sí,
 www.informepastran.com,NOERROR,No,109.234.166.10
 fumdec.org,NOERROR,No,"104.21.16.1, 104.21.80.1, 104.21.32.1, 104.21.48.1, 104.21.112.1, 104.21.64.1, 104.21.96.1"
-asodenic.org.ni,NOERROR,No,N/A
+asodenic.org.ni,NOERROR,No,
 tinyzonetv.to,NOERROR,No,74.63.241.19
-www.fudemi.org.ni,NXDOMAIN,Sí,N/A
-softwarelibre.org.ni,NXDOMAIN,Sí,N/A
-finca.com.ni,NXDOMAIN,Sí,N/A
+www.fudemi.org.ni,NXDOMAIN,Sí,
+softwarelibre.org.ni,NXDOMAIN,Sí,
+finca.com.ni,NXDOMAIN,Sí,
 www.oportucredit.com.ni,NOERROR,No,190.124.36.130
 www.corpprodesasn.com.ni,NOERROR,No,191.98.255.54
-www.anapa.org.ni,NXDOMAIN,Sí,N/A
-excan.org.ni,NXDOMAIN,Sí,N/A
-cosep.org.ni,NXDOMAIN,Sí,N/A
-www.nitlapan.org.ni,NXDOMAIN,Sí,N/A
-www.ihnca.edu.ni,NXDOMAIN,Sí,N/A
-onu.org.ni,NXDOMAIN,Sí,N/A
-www.amc.org.ni,NXDOMAIN,Sí,N/A
-www.mec.org.ni,NXDOMAIN,Sí,N/A
-www.fadcanic.org.ni,NXDOMAIN,Sí,N/A
-www.fundacionmarijn.org.ni,NXDOMAIN,Sí,N/A
-nuevasmiradas.com.ni,NXDOMAIN,Sí,N/A
-www.radiomaria.org.ni,NXDOMAIN,Sí,N/A
-smartnicaragua.com,NXDOMAIN,Sí,N/A
+www.anapa.org.ni,NXDOMAIN,Sí,
+excan.org.ni,NXDOMAIN,Sí,
+cosep.org.ni,NXDOMAIN,Sí,
+www.nitlapan.org.ni,NXDOMAIN,Sí,
+www.ihnca.edu.ni,NXDOMAIN,Sí,
+onu.org.ni,NXDOMAIN,Sí,
+www.amc.org.ni,NXDOMAIN,Sí,
+www.mec.org.ni,NXDOMAIN,Sí,
+www.fadcanic.org.ni,NXDOMAIN,Sí,
+www.fundacionmarijn.org.ni,NXDOMAIN,Sí,
+nuevasmiradas.com.ni,NXDOMAIN,Sí,
+www.radiomaria.org.ni,NXDOMAIN,Sí,
+smartnicaragua.com,NXDOMAIN,Sí,
 mercadoclic.net,NOERROR,No,207.7.80.150
 caminic.com,NOERROR,No,172.65.190.172
-www.iglesiabautistalibertad.ga/p%C3%A1gina-principal,NXDOMAIN,Sí,N/A
-simas.org.ni,NXDOMAIN,Sí,N/A
-funica.org.ni/index,NXDOMAIN,Sí,N/A
-clubenconexion.org,NXDOMAIN,Sí,N/A
+www.iglesiabautistalibertad.ga/p%C3%A1gina-principal,NXDOMAIN,Sí,
+simas.org.ni,NXDOMAIN,Sí,
+funica.org.ni/index,NXDOMAIN,Sí,
+clubenconexion.org,NXDOMAIN,Sí,
 www.nicaraguaaldia.com,NOERROR,No,54.193.208.148
-vocesenlibertad.com,SERVFAIL,Sí,N/A
+vocesenlibertad.com,SERVFAIL,Sí,
 distribuidoracln.com,NOERROR,No,147.182.190.95
 lalupa.press,NOERROR,No,198.54.126.135
-www.ceamujer.org/index.htm,NXDOMAIN,Sí,N/A
-www.asonidefi.org,NXDOMAIN,Sí,N/A
-fundacionnitca.org/ES/nitca,NXDOMAIN,Sí,N/A
-storymaps.arcgis.com/stories/4fdc0d03d3a34aa485de1fb0d2650ee0,NXDOMAIN,Sí,N/A
+www.ceamujer.org/index.htm,NXDOMAIN,Sí,
+www.asonidefi.org,NXDOMAIN,Sí,
+fundacionnitca.org/ES/nitca,NXDOMAIN,Sí,
+storymaps.arcgis.com/stories/4fdc0d03d3a34aa485de1fb0d2650ee0,NXDOMAIN,Sí,
 www.ateismochapin.ya.st,NOERROR,No,199.59.243.228
 chiapas.indymedia.org,NOERROR,No,209.234.253.162
-www.budaguate.org,NXDOMAIN,Sí,N/A
 www.elsitiocultural.org,NOERROR,No,103.224.182.253
 www.avancso.org.gt,NOERROR,No,199.79.62.8
 www.no-porn.com,NOERROR,No,64.190.63.222
 www.genymotion.com,NOERROR,No,"104.16.58.17, 104.16.59.17"
 www.ecofiltro.com,NOERROR,No,23.185.0.2
 www.urng-maiz.org.gt,NOERROR,No,"172.67.216.153, 104.21.75.72"
-www.tierra-viva.org,NXDOMAIN,Sí,N/A
-www.partidoune.org,NXDOMAIN,Sí,N/A
 www.noti7.com.gt,NOERROR,No,200.74.249.6
 www.mujereshoy.com,NOERROR,No,178.33.9.12
-www.lavisionfm.net,NXDOMAIN,Sí,N/A
-www.casahillel.com,NXDOMAIN,Sí,N/A
-usuarios.lycos.es/ateismoguatemala/principal.html,NXDOMAIN,Sí,N/A
 www.fondoindigena.org,NOERROR,No,162.241.253.213
 www.elzacapaneco.com,NOERROR,No,74.220.199.6
 www.congresovisible.com,NOERROR,No,162.241.218.22
 www.satp.org,NOERROR,No,"104.21.80.1, 104.21.112.1, 104.21.96.1, 104.21.64.1, 104.21.16.1, 104.21.48.1, 104.21.32.1"
 www.tierramerica.info,NOERROR,No,"172.67.215.126, 104.21.45.146"
 www.reservasdeguatemala.org,NOERROR,No,35.212.51.191
-www.edf.org/fight-global-warming,NXDOMAIN,Sí,N/A
 www.conocereisdeverdad.org,NOERROR,No,192.64.151.235
 www.blogsdeguatemala.com,NOERROR,No,"104.21.9.178, 172.67.160.242"
 www.blogschapines.com,NOERROR,No,38.38.74.55
 www.anglicancommunion.org,NOERROR,No,"172.67.188.114, 104.21.8.114"
 www.acofop.org,NOERROR,No,162.210.96.125
-www.1800respect.org.au/languages,NXDOMAIN,Sí,N/A
 www.100webspace.com,NOERROR,No,198.23.53.13
 stackexchange.com,NOERROR,No,"172.64.144.30, 104.18.43.226"
 rebellion.global,NOERROR,No,116.202.82.37
@@ -2875,13 +2676,10 @@ www.pbi-guatemala.org,NOERROR,No,193.37.35.179
 www.nisgua.org,NOERROR,No,213.108.109.123
 www.fundacionpantaleon.org,NOERROR,No,208.113.159.47
 www.queerty.com,NOERROR,No,"172.67.72.65, 104.26.7.145, 104.26.6.145"
-www.crecer.org.gt,NXDOMAIN,Sí,N/A
 www.jackpotcitycasino1.com,NOERROR,No,"104.18.39.45, 172.64.148.211"
 www.blackjackinfo.com,NOERROR,No,"172.67.158.220, 104.21.33.47"
 www.horizonguatemaya.com,NOERROR,No,"172.67.218.165, 104.21.59.78"
 howtogrowmarijuana.com,NOERROR,No,"104.26.8.152, 104.26.9.152, 172.67.71.153"
-pi2.com/isotonic/gentejoven/GENTE%20JOVEN.htm,NXDOMAIN,Sí,N/A
-www.gub.uy/ministerio-educacion-cultura,NXDOMAIN,Sí,N/A
 www.subrayado.com.uy,NOERROR,No,"104.18.27.90, 104.18.26.90"
 www.elobservador.com.uy,NOERROR,No,"104.18.13.212, 104.18.12.212"
 www.montevideo.com.uy,NOERROR,No,"172.67.43.46, 104.22.30.137, 104.22.31.137"
@@ -2892,100 +2690,33 @@ www.pagina12.com.ar,NOERROR,No,"172.67.41.55, 104.22.70.126, 104.22.71.126"
 brecha.com.uy,NOERROR,No,179.27.152.198
 www.cotidianomujer.org.uy,NOERROR,No,173.254.29.95
 www.eldiarioar.com,NOERROR,No,"138.199.8.193, 143.244.35.226, 37.19.207.209"
-www.cels.org.ar/web,NXDOMAIN,Sí,N/A
 amnistia.org.ar,NOERROR,No,"104.21.64.233, 172.67.137.150"
 democracy.net,NOERROR,No,165.22.63.24
 www.cubanet.org,NOERROR,No,"104.21.16.1, 104.21.96.1, 104.21.80.1, 104.21.64.1, 104.21.48.1, 104.21.32.1, 104.21.112.1"
-wearenexa.com/infrastructure,NXDOMAIN,Sí,N/A
-mega.io/es,NXDOMAIN,Sí,N/A
 www.mercadolibre.com.ar,NOERROR,No,"108.157.173.69, 108.157.173.97, 108.157.173.46, 108.157.173.113"
-proton.me/mail,NXDOMAIN,Sí,N/A
 www.dropbox.com,NOERROR,No,162.125.5.18
-fundaproba.org,NXDOMAIN,Sí,N/A
-diversidad.uy,NXDOMAIN,Sí,N/A
-economia.org.ar,NXDOMAIN,Sí,N/A
 www.falgbt.org,NOERROR,No,31.170.166.218
 transgenderlawcenter.org,NOERROR,No,"141.193.213.21, 141.193.213.20"
-files.uy,NXDOMAIN,Sí,N/A
 180.com.uy,NOERROR,No,23.92.75.246
 www.dataclave.com.ar,NOERROR,No,"104.26.7.250, 104.26.6.250, 172.67.70.163"
-compartir.org.ar,NXDOMAIN,Sí,N/A
-genero.edu.uy,NXDOMAIN,Sí,N/A
 lavaca.org,NOERROR,No,195.35.43.232
 www.periodismo.com,NOERROR,No,"104.21.6.121, 172.67.134.213"
-loltvhd.pe,NXDOMAIN,Sí,N/A
 www.rojadirectaenvivotv.run,NOERROR,No,"104.21.96.1, 104.21.16.1, 104.21.80.1, 104.21.112.1, 104.21.32.1, 104.21.64.1, 104.21.48.1"
-unotarjetarojaa.com,NXDOMAIN,Sí,N/A
+unotarjetarojaa.com,NXDOMAIN,Sí,
 adncuba.com,NOERROR,No,54.88.225.116
 www.cibercuba.com,NOERROR,No,"172.67.72.43, 104.26.2.225, 104.26.3.225"
 diariocuba.com,NOERROR,No,"104.21.80.1, 104.21.96.1, 104.21.32.1, 104.21.48.1, 104.21.112.1, 104.21.64.1, 104.21.16.1"
 www.elpitazo.net,NOERROR,No,"104.20.76.48, 172.67.17.65, 104.20.77.48"
-x.com/maxifirtman/status/1843680618296816037,NXDOMAIN,Sí,N/A
-www.diariojudicial.com/news-98934-la-justicia-se-mete-en-la-clonacion-por-ia,NXDOMAIN,Sí,N/A
-x.com/noticiasdel6/status/1831294314921513089,NXDOMAIN,Sí,N/A
-x.com/Hechosanderecho/status/1845092479634141537,NXDOMAIN,Sí,N/A
-x.com/infobae/status/1839449714481102855,NXDOMAIN,Sí,N/A
-x.com/laderechadiario/status/1612183349870592002,NXDOMAIN,Sí,N/A
-x.com/DiktyonCuba/status/1739647250970861578,NXDOMAIN,Sí,N/A
-x.com/DiktyonCuba/status/1783956002276044832,NXDOMAIN,Sí,N/A
-guardianesdigitales.blogspot.com/2024/04/informe-4-sobre-la-salud-del-internet.html,NXDOMAIN,Sí,N/A
-x.com/OpenObservatory/status/1835360393906074078,NXDOMAIN,Sí,N/A
-x.com/ElSalvadorNot/status/1835383668182778028,NXDOMAIN,Sí,N/A
-x.com/Balmo77/status/1835189240067453076,NXDOMAIN,Sí,N/A
-x.com/daewound/status/1835193283351323132,NXDOMAIN,Sí,N/A
-x.com/antoasb/status/1839865743149617457,NXDOMAIN,Sí,N/A
-x.com/luisangelsas/status/1026454067697070080,NXDOMAIN,Sí,N/A
-x.com/ColectivoNunca/status/1758236500200693919,NXDOMAIN,Sí,N/A
-x.com/eduardomenoni/status/1834442967395844456,NXDOMAIN,Sí,N/A
-x.com/dw_espanol/status/1455697483342888962,NXDOMAIN,Sí,N/A
-x.com/laprensa/status/987019686478049280,NXDOMAIN,Sí,N/A
-x.com/laprensa/status/1124790072480550913,NXDOMAIN,Sí,N/A
-x.com/VilloVC/status/1528229430157623296,NXDOMAIN,Sí,N/A
-www.articulo66.com/2022/05/21/nicaragua-investiga-pagina-web-ataque-banpro,NXDOMAIN,Sí,N/A
-x.com/cristiancrespoj/status/1232438333898280960,NXDOMAIN,Sí,N/A
-x.com/RoderickNavarro/status/987063678838231041,NXDOMAIN,Sí,N/A
-x.com/fondo_Indela/status/1767561217214689529,NXDOMAIN,Sí,N/A
-x.com/gusgomezgermano/status/1855018343775756669,NXDOMAIN,Sí,N/A
-x.com/DerechaDiarioUY/status/1852890050662482009,NXDOMAIN,Sí,N/A
-x.com/derechosdigital/status/1582812582540296193,NXDOMAIN,Sí,N/A
-www.derechosdigitales.org/19424/bloqueo-de-transmisiones-un-partido-dificil,NXDOMAIN,Sí,N/A
-x.com/dw_espanol/status/1403483431896551424,NXDOMAIN,Sí,N/A
-x.com/dw_espanol/status/1398085362698932230,NXDOMAIN,Sí,N/A
-x.com/RadioMercosul/status/1106572157528752128,NXDOMAIN,Sí,N/A
-x.com/abogadoscomar/status/1204371199469477888,NXDOMAIN,Sí,N/A
-x.com/vesinfiltro/status/1815518779255980276,NXDOMAIN,Sí,N/A
-x.com/ProtonVPN/status/1814335840136442004,NXDOMAIN,Sí,N/A
-x.com/infobaeamerica/status/1818300988480180469,NXDOMAIN,Sí,N/A
-x.com/destapandolose1/status/1821908644780503091,NXDOMAIN,Sí,N/A
-x.com/MelanioBar/status/1840146424719106319,NXDOMAIN,Sí,N/A
-x.com/laderechadiario/status/1818311432859009346,NXDOMAIN,Sí,N/A
+x.com/DiktyonCuba/status/1739647250970861578,NXDOMAIN,Sí,
 brave.com,NOERROR,No,"13.32.87.8, 13.32.87.14, 13.32.87.25, 13.32.87.112"
-browsec.com/en,NXDOMAIN,Sí,N/A
-hide.me/es,NXDOMAIN,Sí,N/A
-www.ipvanish.com/es,NXDOMAIN,Sí,N/A
 www.itopvpn.com,NOERROR,No,"54.197.240.5, 44.197.7.252"
-mullvad.net/es,NXDOMAIN,Sí,N/A
-nordvpn.com/es,NXDOMAIN,Sí,N/A
-zoogvpn.com/es,NXDOMAIN,Sí,N/A
 pandavpnpro.com,NOERROR,No,"104.21.43.6, 172.67.215.13"
-psiphon3.com/es/index.html,NXDOMAIN,Sí,N/A
 www.purevpn.com,NOERROR,No,"104.18.25.105, 104.18.24.105"
-surfshark.com/es,NXDOMAIN,Sí,N/A
 torguard.net,NOERROR,No,"104.20.16.113, 104.20.17.113"
-ultravpn.com/es,NXDOMAIN,Sí,N/A
 www.urban-vpn.com,NOERROR,No,162.159.134.42
 www.vpnsuper.com,NOERROR,No,"18.211.166.153, 34.202.203.47, 54.243.86.28"
-www.reddit.com/?rdt=44225,NXDOMAIN,Sí,N/A
-web.telegram.org/k,NXDOMAIN,Sí,N/A
-procashdream.com,UNKNOWN,No,N/A
-procashdream.com/terminos_condiciones.pdf,NXDOMAIN,Sí,N/A
-procashdream.com,SERVFAIL,Sí,N/A
-www.instagram.com/procashdream,NXDOMAIN,Sí,N/A
-www.instagram.com/procashoficial,NXDOMAIN,Sí,N/A
-www.facebook.com/TronArgentina,NXDOMAIN,Sí,N/A
-www.facebook.com/ProcashOficial,NXDOMAIN,Sí,N/A
-www.youtube.com/channel/UCG7X6Gn1005nahwn7HCztw,NXDOMAIN,Sí,N/A
-who.is/whois/procashdream.com,NXDOMAIN,Sí,N/A
+procashdream.com,UNKNOWN,No,
+procashdream.com,SERVFAIL,Sí,
 www.canva.com,NOERROR,No,"104.16.102.112, 104.16.103.112"
 www.demacedoniaconamor.com,NOERROR,No,"63.250.43.1, 63.250.43.2"
 teams.microsoft.com,NOERROR,No,"52.123.128.14, 52.123.129.14"
@@ -2995,46 +2726,37 @@ laprensadelara.com,NOERROR,No,"172.67.72.137, 104.26.7.127, 104.26.6.127"
 es.wikipedia.org,NOERROR,No,208.80.154.224
 noticiasvenevision.com,NOERROR,No,"54.148.186.140, 35.85.16.115"
 one.one.one.one,NOERROR,No,"1.1.1.1, 1.0.0.1"
-adguard-dns.io/es/welcome.html,NXDOMAIN,Sí,N/A
 www.pscp.tv,NOERROR,No,"54.156.28.69, 3.209.70.195, 3.223.46.124"
 miconvive.org,NOERROR,No,35.209.69.119
 awsveanews.com,NOERROR,No,"172.67.200.180, 104.21.76.202"
-bit.ly/venezuela911,NXDOMAIN,Sí,N/A
-lavenezueladelencuentro.com/lander,NXDOMAIN,Sí,N/A
-insightcrime.org/es,NXDOMAIN,Sí,N/A
 lagranaldea.com,NOERROR,No,"172.67.203.2, 104.21.90.175"
 liberal-venezolano.blogspot.com,NOERROR,No,142.250.189.129
 vamosbien.com,NOERROR,No,"15.197.225.128, 3.33.251.168"
 rojadirectatvhd.com.in,NOERROR,No,54.193.208.148
 deportestvhdplus.com,NOERROR,No,"104.21.48.1, 104.21.64.1, 104.21.112.1, 104.21.80.1, 104.21.32.1, 104.21.16.1, 104.21.96.1"
-vodkapr3mium.com/.&nbsp,NXDOMAIN,Sí,N/A
 onw8.com,NOERROR,No,23.134.94.181
 ontvhdbr.co,NOERROR,No,23.134.94.181
-deportelibre.futbol,NXDOMAIN,Sí,N/A
 tutlehd4.com,NOERROR,No,195.66.210.131
-www.soccerl.futbolandres.xyz,NXDOMAIN,Sí,N/A
 www.tvgratishd.com,NOERROR,No,142.250.217.179
-futbollibreperuhd.pe,NOERROR,No,N/A
+futbollibreperuhd.pe,NOERROR,No,
 www.rojadirectaenvivo.pl,NOERROR,No,"104.21.112.1, 104.21.48.1, 104.21.16.1, 104.21.96.1, 104.21.80.1, 104.21.64.1, 104.21.32.1"
 telegratis.live,NOERROR,No,199.59.243.228
-www.pirlotv.fr,SERVFAIL,Sí,N/A
+www.pirlotv.fr,SERVFAIL,Sí,
 www.tarjetarojaenvivo.nl,NOERROR,No,"104.21.16.1, 104.21.48.1, 104.21.32.1, 104.21.64.1, 104.21.112.1, 104.21.80.1, 104.21.96.1"
-tarjetarojatv.fr,SERVFAIL,Sí,N/A
-pelotalibretvhd.pe,NXDOMAIN,Sí,N/A
+tarjetarojatv.fr,SERVFAIL,Sí,
 pelotalibretv.pe,NOERROR,No,66.29.138.144
 www.telerium.biz,NOERROR,No,"104.21.17.39, 172.67.220.134"
 viper-play.net,NOERROR,No,72.52.178.23
 www.pelotalibretv.pl,NOERROR,No,"198.49.23.145, 198.185.159.145, 198.49.23.144, 198.185.159.144"
 tarjetarojaa.com,NOERROR,No,"104.21.112.1, 104.21.64.1, 104.21.96.1, 104.21.16.1, 104.21.32.1, 104.21.80.1, 104.21.48.1"
 tvlibre.org,NOERROR,No,162.255.119.120
-messi7.com,SERVFAIL,Sí,N/A
+messi7.com,SERVFAIL,Sí,
 www.tarjetarojatvenvivo.pl,NOERROR,No,"104.26.13.132, 172.67.73.143, 104.26.12.132"
 futbollibre-hd.com,NOERROR,No,"104.21.49.101, 172.67.161.158"
 apurogol.info,NOERROR,No,"104.21.48.1, 104.21.96.1, 104.21.64.1, 104.21.112.1, 104.21.80.1, 104.21.32.1, 104.21.16.1"
-pelotalibretv.futbol,NOERROR,No,N/A
+pelotalibretv.futbol,NOERROR,No,
 pelotalibres.pe,NOERROR,No,"104.21.32.1, 104.21.16.1, 104.21.48.1, 104.21.112.1, 104.21.96.1, 104.21.80.1, 104.21.64.1"
 futbolparatodostv.net,NOERROR,No,"104.21.83.109, 172.67.223.120"
-pricesaskeloadsc.com/.&nbsp,NXDOMAIN,Sí,N/A
 www.rojadirectatv.com.ph,NOERROR,No,"172.67.154.141, 104.21.72.195"
 rojadirectaenhd.net,NOERROR,No,"104.21.30.223, 172.67.173.226"
 futbollibre.org,NOERROR,No,216.245.213.73
@@ -3046,9 +2768,8 @@ esfutbollibre.com,NOERROR,No,195.66.210.131
 rojadirectatv.lol,NOERROR,No,"172.67.143.74, 104.21.87.121"
 rojadirectaenvivo.re,NOERROR,No,"172.67.223.92, 104.21.59.107"
 rojadirectaenvivotv.uno,NOERROR,No,"104.21.16.1, 104.21.80.1, 104.21.32.1, 104.21.64.1, 104.21.96.1, 104.21.48.1, 104.21.112.1"
-magistvonline.com,NOERROR,No,N/A
+magistvonline.com,NOERROR,No,
 www.pirlotv.uno,NOERROR,No,"104.21.15.253, 172.67.165.157"
-www.rojadiretatv.lol,NXDOMAIN,Sí,N/A
 rojadirectaenvivo.me,NOERROR,No,"172.67.129.24, 104.21.2.107"
 rojadirectatv.nl,NOERROR,No,217.112.32.12
 www.rojadirecta2.org,NOERROR,No,103.224.212.217
@@ -3060,18 +2781,15 @@ tiofutbol.com,NOERROR,No,66.90.106.106
 golazohd.com,NOERROR,No,103.224.182.216
 pelotalibretv.com,NOERROR,No,"172.67.174.130, 104.21.40.18"
 deportestvhdplus.com,NOERROR,No,"104.21.64.1, 104.21.112.1, 104.21.80.1, 104.21.32.1, 104.21.16.1, 104.21.96.1, 104.21.48.1"
-streamtp2.com.&nbsp,NXDOMAIN,Sí,N/A
 pirlotv.in,NOERROR,No,"172.67.187.51, 104.21.64.174"
 www.rojadirecta.nl,NOERROR,No,"173.44.37.208, 45.58.190.82, 204.188.203.154, 64.32.22.102, 107.161.23.204, 198.251.81.30, 198.251.84.92, 104.238.249.57, 209.141.38.71, 168.235.88.209"
 tvlibre.site,NOERROR,No,"172.67.171.53, 104.21.29.3"
 www.rojadirectvonline.com,NOERROR,No,"104.21.15.21, 172.67.161.9"
-rojadirectaenvivotv.uno/.&nbsp,NXDOMAIN,Sí,N/A
 deportestvhd3.com,NOERROR,No,"104.21.64.1, 104.21.48.1, 104.21.96.1, 104.21.32.1, 104.21.112.1, 104.21.16.1, 104.21.80.1"
 deportestvhdplus1.com,NOERROR,No,"104.21.16.233, 172.67.216.214"
 futbollibre.org,NOERROR,No,216.245.213.73
 futbol-libre.org,NOERROR,No,"172.67.166.180, 104.21.11.175"
 todopelotatvhd.com,NOERROR,No,"172.67.159.117, 104.21.66.113"
-rojadirectaenvivo.me/.&nbsp,NXDOMAIN,Sí,N/A
 www.futbolhoy.live,NOERROR,No,"172.67.130.152, 104.21.8.189"
 www.rojadirectatvhd.com,NOERROR,No,"104.21.16.1, 104.21.48.1, 104.21.64.1, 104.21.32.1, 104.21.96.1, 104.21.80.1, 104.21.112.1"
 www.rojadiretatv.com,NOERROR,No,"104.21.63.29, 172.67.142.170"
@@ -3079,21 +2797,19 @@ rojadirectatv.ws,NOERROR,No,104.247.81.50
 deporte-libre.org,NOERROR,No,"172.67.141.174, 104.21.46.202"
 www.futbollibretv.futbol,NOERROR,No,199.59.243.228
 rojadirectaenvivo.de,NOERROR,No,"172.67.172.197, 104.21.30.110"
-tutl24.xyz,NOERROR,No,N/A
+tutl24.xyz,NOERROR,No,
 streamtp.live,NOERROR,No,176.97.122.176
-pricesaskeloadsc.com,NXDOMAIN,Sí,N/A
-hamaradilhai.com,SERVFAIL,Sí,N/A
+hamaradilhai.com,SERVFAIL,Sí,
 vodkapr3mium.com,NOERROR,No,"172.67.134.200, 104.21.25.218"
 tvmagis.com,NOERROR,No,"104.26.12.140, 172.67.75.194, 104.26.13.140"
 www.magistv-la.com,NOERROR,No,208.109.23.179
 magistv-app.net,NOERROR,No,"104.21.47.181, 172.67.171.203"
 www.zdsptv.com,NOERROR,No,142.250.217.179
 librefutbol.cl,NOERROR,No,"104.21.1.111, 172.67.129.46"
-futbollibrego.pe,NOERROR,No,N/A
+futbollibrego.pe,NOERROR,No,
 viperplay.online,NOERROR,No,51.91.220.102
 rusticotv.net,NOERROR,No,"104.21.112.1, 104.21.96.1, 104.21.16.1, 104.21.80.1, 104.21.48.1, 104.21.64.1, 104.21.32.1"
 rusticotvhd.com,NOERROR,No,"172.67.188.27, 104.21.7.244"
-tvhd.pe,NXDOMAIN,Sí,N/A
 viperplayhd.com,NOERROR,No,"104.21.48.104, 172.67.183.206"
 television-libre.online,NOERROR,No,"172.67.190.26, 104.21.33.133"
 www.rojadirectatv.com.ph,NOERROR,No,"104.21.72.195, 172.67.154.141"
@@ -3104,16 +2820,13 @@ deportestvhd2.com,NOERROR,No,72.52.178.23
 la12hd.com,NOERROR,No,91.218.49.105
 viperplay.futbol,NOERROR,No,72.52.178.23
 pelotalibre.org,NOERROR,No,"104.21.54.76, 172.67.136.194"
-www.zdsptv.com.&nbsp,NXDOMAIN,Sí,N/A
-pelotalibre.pe,NXDOMAIN,Sí,N/A
 deporte-libre.top,NOERROR,No,"104.21.80.1, 104.21.64.1, 104.21.32.1, 104.21.112.1, 104.21.16.1, 104.21.48.1, 104.21.96.1"
 www.tvspacehd.com,NOERROR,No,142.250.217.179
 telefullhd.com,NOERROR,No,"104.21.92.92, 172.67.190.224"
 futbollibretvenvivo.com,NOERROR,No,"104.21.82.243, 172.67.209.138"
 www.rojadirectaenvivo.me.in,NOERROR,No,54.193.208.148
 www.pirlotvhd.lol,NOERROR,No,"104.21.48.1, 104.21.112.1, 104.21.96.1, 104.21.16.1, 104.21.80.1, 104.21.32.1, 104.21.64.1"
-www.futbollibre.run&nbsp,NXDOMAIN,Sí,N/A
-la10hd.com,SERVFAIL,Sí,N/A
+la10hd.com,SERVFAIL,Sí,
 la10tv.com,NOERROR,No,"104.21.2.235, 172.67.129.205"
 apurogol.info,NOERROR,No,"104.21.96.1, 104.21.64.1, 104.21.112.1, 104.21.80.1, 104.21.32.1, 104.21.16.1, 104.21.48.1"
 futbollibre-hd.com,NOERROR,No,"172.67.161.158, 104.21.49.101"
@@ -3123,7 +2836,6 @@ www.tvgratishd.com,NOERROR,No,142.250.217.179
 deportelibre.live,NOERROR,No,"100.28.201.155, 34.234.106.80"
 www.rojadirecta.nl,NOERROR,No,"45.58.190.82, 204.188.203.154, 64.32.22.102, 107.161.23.204, 198.251.81.30, 198.251.84.92, 104.238.249.57, 209.141.38.71, 168.235.88.209, 173.44.37.208"
 pirlotv.in,NOERROR,No,"104.21.64.174, 172.67.187.51"
-www.tarjetarojahd.org&nbsp,NXDOMAIN,Sí,N/A
 www.pirlo.tv,NOERROR,No,"104.21.69.11, 172.67.202.145"
 librepelota.pe,NOERROR,No,"104.21.52.80, 172.67.196.235"
 futbolparatodostv.net,NOERROR,No,"172.67.223.120, 104.21.83.109"
@@ -3131,16 +2843,14 @@ verfutboltv.net,NOERROR,No,"172.67.212.119, 104.21.23.180"
 rojadirectaenvivo.la,NOERROR,No,"172.67.162.71, 104.21.73.119"
 www.rojadirectenvivo.me,NOERROR,No,"104.21.80.1, 104.21.96.1, 104.21.16.1, 104.21.48.1, 104.21.32.1, 104.21.112.1, 104.21.64.1"
 rojadirectaenvivo.cc,NOERROR,No,"104.21.112.1, 104.21.32.1, 104.21.96.1, 104.21.16.1, 104.21.64.1, 104.21.48.1, 104.21.80.1"
-channel.rojadirecta.win,NXDOMAIN,Sí,N/A
+channel.rojadirecta.win,NXDOMAIN,Sí,
 www.pirlotvonline.pl,NOERROR,No,"104.21.64.1, 104.21.112.1, 104.21.48.1, 104.21.16.1, 104.21.96.1, 104.21.32.1, 104.21.80.1"
 pelotalibretv.me,NOERROR,No,"172.67.155.3, 104.21.56.179"
 esfutbollibre.com,NOERROR,No,195.66.210.131
-www.verhd.xyz/&nbsp,NXDOMAIN,Sí,N/A
 miatvhd.xyz,NOERROR,No,"104.21.96.1, 104.21.80.1, 104.21.64.1, 104.21.48.1, 104.21.112.1, 104.21.16.1, 104.21.32.1"
 hoca4u.xyz,NOERROR,No,"172.67.182.142, 104.21.35.254"
 www.pirlotv.cloud,NOERROR,No,"104.21.14.83, 172.67.202.172"
 rojadirectatv.store,NOERROR,No,"104.21.48.1, 104.21.16.1, 104.21.80.1, 104.21.112.1, 104.21.32.1, 104.21.64.1, 104.21.96.1"
-deporte-libre.fans/.&nbsp,NXDOMAIN,Sí,N/A
 capodeportes.run,NOERROR,No,75.2.18.233
 rojadirectatv.lol,NOERROR,No,"104.21.87.121, 172.67.143.74"
 rojadirectatv.it.com,NOERROR,No,"104.21.112.1, 104.21.96.1, 104.21.80.1, 104.21.16.1, 104.21.64.1, 104.21.32.1, 104.21.48.1"
@@ -3148,7 +2858,6 @@ verfutboltv.net,NOERROR,No,"104.21.23.180, 172.67.212.119"
 www.tarjetarojahd.org,NOERROR,No,"172.67.161.215, 104.21.42.117"
 www.pelotalibretv.pl,NOERROR,No,"198.185.159.145, 198.49.23.144, 198.185.159.144, 198.49.23.145"
 www.pelotalibretv.me,NOERROR,No,"172.67.155.3, 104.21.56.179"
-todopelotatvhd.com/&nbsp,NXDOMAIN,Sí,N/A
 www.pirlotvonline.org,NOERROR,No,"198.49.23.144, 198.185.159.144, 198.49.23.145, 198.185.159.145"
 rojadirectaenvivo.nl,NOERROR,No,198.185.159.144
 futbollibre.lol,NOERROR,No,"172.67.158.170, 104.21.14.111"
@@ -3165,9 +2874,7 @@ cablegratis.biz,NOERROR,No,74.63.241.24
 www.pirlotvonline.site,NOERROR,No,"13.248.169.48, 76.223.54.146"
 vemosgratis.com,NOERROR,No,69.16.230.165
 bigsala.com,NOERROR,No,69.16.230.165
-lovesomecommunity.com,UNKNOWN,No,N/A
-totototorina.com,NXDOMAIN,Sí,N/A
-starfamily.vi,NXDOMAIN,Sí,N/A
+lovesomecommunity.com,UNKNOWN,No,
 apkrebrandingmx.xyz,NOERROR,No,92.112.189.154
 ultraxtvextreme.com,NOERROR,No,67.220.95.161
 photocall.xyz,NOERROR,No,72.52.178.23
@@ -3176,16 +2883,13 @@ television.libre.futbol,NOERROR,No,"172.67.174.131, 104.21.40.19"
 www.rojadirectatvlive.tv,NOERROR,No,"172.233.219.49, 172.233.219.78, 172.233.219.123"
 librefutboltv.com,NOERROR,No,72.52.178.23
 telegratis.online,NOERROR,No,72.52.178.23
-www.tutvuy.com,NXDOMAIN,Sí,N/A
 dnslivetv.online,NOERROR,No,206.212.244.213
-futbolfullenvivo.nl,SERVFAIL,Sí,N/A
-futbolparatodostv.online,NXDOMAIN,Sí,N/A
+futbolfullenvivo.nl,SERVFAIL,Sí,
 latele-envivo.com,NOERROR,No,"104.21.54.121, 172.67.138.133"
 futbolfullenvivo.com,NOERROR,No,69.16.230.165
 deporte-libre.net,NOERROR,No,"104.21.47.73, 172.67.170.167"
 futbollibrehd.com,NOERROR,No,72.52.178.23
 television.libre.futbol,NOERROR,No,"104.21.40.19, 172.67.174.131"
-rojadirectatvhd.es,NXDOMAIN,Sí,N/A
 pirlotv.app,NOERROR,No,199.59.243.228
 etvhome.com,NOERROR,No,15.235.64.35
 teleriumtv.run,NOERROR,No,"13.248.169.48, 76.223.54.146"
@@ -3204,20 +2908,18 @@ telelatino-vip.com,NOERROR,No,"104.21.15.250, 172.67.165.154"
 magistvplus.com,NOERROR,No,111.90.156.208
 descargartelelatino.app,NOERROR,No,"104.21.59.120, 172.67.177.51"
 bluiptv.com,NOERROR,No,"172.67.178.52, 104.21.31.153"
-tv.latiniptvplus.com:8000,NXDOMAIN,Sí,N/A
 iptbest.xyz,NOERROR,No,103.224.182.211
 iptvsuperlatino.com,NOERROR,No,54.39.84.78
 totalplay.site,NOERROR,No,62.182.83.129
-exitotv.uno,NXDOMAIN,Sí,N/A
 ky-iptv.com,NOERROR,No,181.233.124.64
 falcontv.tv,NOERROR,No,"104.21.16.1, 104.21.48.1, 104.21.32.1, 104.21.96.1, 104.21.112.1, 104.21.64.1, 104.21.80.1"
 telelatino.app,NOERROR,No,"104.21.16.1, 104.21.32.1, 104.21.112.1, 104.21.48.1, 104.21.96.1, 104.21.64.1, 104.21.80.1"
-tvmagis.net,NOERROR,No,N/A
+tvmagis.net,NOERROR,No,
 www.footlooseband.com,NOERROR,No,69.16.230.165
 app.latino9.com,NOERROR,No,"104.21.35.27, 172.67.212.72"
 iptvsmarterspro.net,NOERROR,No,147.79.79.237
-ottc.pro,NOERROR,No,N/A
-ott-cdn.me,NOERROR,No,N/A
+ottc.pro,NOERROR,No,
+ott-cdn.me,NOERROR,No,
 magistvla.com,NOERROR,No,68.66.216.52
 sfndeportes.com,NOERROR,No,"44.205.92.141, 3.213.155.139"
 pelotalibre.com,NOERROR,No,"172.67.186.43, 104.21.19.125"
@@ -3226,12 +2928,11 @@ futbollibre.lol,NOERROR,No,"104.21.14.111, 172.67.158.170"
 megatelevisionhd.com,NOERROR,No,72.52.178.23
 rojadirectatvhd.com.es,NOERROR,No,"104.21.48.1, 104.21.64.1, 104.21.112.1, 104.21.32.1, 104.21.16.1, 104.21.96.1, 104.21.80.1"
 www.vertvenvivo.net,NOERROR,No,"44.230.85.241, 52.33.207.7"
-pirlotv.fr,SERVFAIL,Sí,N/A
+pirlotv.fr,SERVFAIL,Sí,
 futbol-libre.org,NOERROR,No,"104.21.11.175, 172.67.166.180"
 futbollibrehd.com,NOERROR,No,72.52.178.23
 vertvcable.com,NOERROR,No,"104.21.32.1, 104.21.48.1, 104.21.80.1, 104.21.112.1, 104.21.96.1, 104.21.16.1, 104.21.64.1"
 canales.online,NOERROR,No,72.52.178.23
-sfntv.xyz,NXDOMAIN,Sí,N/A
 futbollibre.click,NOERROR,No,"104.21.54.74, 172.67.136.99"
 lateleenvivo.com,NOERROR,No,192.187.111.221
 ww1.tarjetarojatvonline.sx,NOERROR,No,"104.21.80.1, 104.21.48.1, 104.21.64.1, 104.21.16.1, 104.21.32.1, 104.21.112.1, 104.21.96.1"
@@ -3246,8 +2947,6 @@ futbolhoy.live,NOERROR,No,"172.67.130.152, 104.21.8.189"
 photocall.tv,NOERROR,No,"104.21.4.185, 172.67.132.90"
 latele.org,NOERROR,No,"13.248.169.48, 76.223.54.146"
 pirlotv.pub,NOERROR,No,74.63.241.29
-exitotv.boo,NXDOMAIN,Sí,N/A
-exitotv.boo,NXDOMAIN,Sí,N/A
 rojadirectaenvivo.me,NOERROR,No,"104.21.2.107, 172.67.129.24"
 tvplusgratis.com,NOERROR,No,"104.21.80.1, 104.21.96.1, 104.21.16.1, 104.21.32.1, 104.21.48.1, 104.21.64.1, 104.21.112.1"
 futbolparatodostv.com,NOERROR,No,"15.197.225.128, 3.33.251.168"
@@ -3270,33 +2969,28 @@ playtvmax.com,NOERROR,No,"13.248.169.48, 76.223.54.146"
 moontools.me,NOERROR,No,"104.26.1.15, 172.67.73.87, 104.26.0.15"
 mylatinotvmoon.com,NOERROR,No,"104.26.2.138, 172.67.69.152, 104.26.3.138"
 megatelevisionhd.live,NOERROR,No,103.224.182.253
-futbolparatodos.online/es,NXDOMAIN,Sí,N/A
-megadeportes.xyz/https://krakentv.pro,NXDOMAIN,Sí,N/A
 www.listasiptvactualizadas.com,NOERROR,No,"104.21.34.152, 172.67.162.22"
 librefutboltv.com,NOERROR,No,72.52.178.23
 futbol-libre.tv,NOERROR,No,72.52.178.23
 vertvenvivo.net,NOERROR,No,"44.230.85.241, 52.33.207.7"
 megatelevisiontv.live,NOERROR,No,69.16.230.42
-rojadirectaenvivo.fr,NOERROR,No,N/A
+rojadirectaenvivo.fr,NOERROR,No,
 sfndeportes.com,NOERROR,No,"3.213.155.139, 44.205.92.141"
 futbollibretv.com,NOERROR,No,52.223.13.41
 digitaltv.cloud,NOERROR,No,186.148.224.69
-sfntv.xyz,NXDOMAIN,Sí,N/A
 www.registrosdelautomotor.com,NOERROR,No,"172.67.186.186, 104.21.43.226"
 futbollibre.net,NOERROR,No,95.215.19.22
 www.formularioceta.com,NOERROR,No,162.210.196.171
 rojadirectatv.de,NOERROR,No,"104.21.51.156, 172.67.182.25"
-www.tramitaya.com,NXDOMAIN,Sí,N/A
 pelotalibre.com,NOERROR,No,"104.21.19.125, 172.67.186.43"
-tramitaya.com.ar,NXDOMAIN,Sí,N/A
 futbollibre.futbol,NOERROR,No,"104.21.80.144, 172.67.150.171"
-infraccion.com.ar,SERVFAIL,Sí,N/A
+infraccion.com.ar,SERVFAIL,Sí,
 televisionlibre.futbol,NOERROR,No,52.223.13.41
 dreamvegas.com,NOERROR,No,"108.157.173.108, 108.157.173.45, 108.157.173.70, 108.157.173.117"
 cuevana3.mov,NOERROR,No,72.52.178.23
-futbolfullenvivo.nl,SERVFAIL,Sí,N/A
+futbolfullenvivo.nl,SERVFAIL,Sí,
 teleriumtv.me,NOERROR,No,74.63.241.19
-futbollibretv.net,SERVFAIL,Sí,N/A
+futbollibretv.net,SERVFAIL,Sí,
 futboltv-envivo.com,NOERROR,No,52.223.39.56
 ver-television.online,NOERROR,No,74.63.241.21
 magistvapp.app,NOERROR,No,34.235.250.63
@@ -3311,7 +3005,7 @@ futboltv.online,NOERROR,No,72.52.178.23
 telefullenvivo.com,NOERROR,No,"104.21.23.217, 172.67.213.241"
 extremotvplay.com,NOERROR,No,52.223.39.56
 cablegratistv.online,NOERROR,No,72.52.178.23
-lateleenvivo.club,NXDOMAIN,Sí,N/A
+lateleenvivo.club,NXDOMAIN,Sí,
 lacasadeltikitakatv.net,NOERROR,No,"104.21.112.1, 104.21.48.1, 104.21.32.1, 104.21.96.1, 104.21.80.1, 104.21.64.1, 104.21.16.1"
 chiringuitotv.online,NOERROR,No,"96.126.111.165, 66.175.209.179"
 telebunker.com,NOERROR,No,"13.248.169.48, 76.223.54.146"
@@ -3319,47 +3013,44 @@ tvconexion.com,NOERROR,No,72.52.178.23
 televisiongratisenvivo.com,NOERROR,No,72.52.178.23
 futboltvenvivo.com,NOERROR,No,"104.21.48.1, 104.21.96.1, 104.21.64.1, 104.21.32.1, 104.21.16.1, 104.21.80.1, 104.21.112.1"
 futbolparatodos.net,NOERROR,No,199.59.243.228
-rojadirectatv.pro,NXDOMAIN,Sí,N/A
+rojadirectatv.pro,NXDOMAIN,Sí,
 supertelevisionhd.com,NOERROR,No,91.195.240.94
-ustvgo.tv,NXDOMAIN,Sí,N/A
+ustvgo.tv,NXDOMAIN,Sí,
 pirlotvonline.org,NOERROR,No,198.49.23.145
 pirlotvonline.info,NOERROR,No,69.16.230.165
 xtremostereo.net,NOERROR,No,"172.67.169.146, 104.21.27.167"
-www.planetahotels.com,NXDOMAIN,Sí,N/A
+www.planetahotels.com,NXDOMAIN,Sí,
 pirlotv.uk,NOERROR,No,"172.67.155.198, 104.21.34.69"
 www.atrapalo.com.ar,NOERROR,No,151.101.14.133
-pirlotv.futbol,NXDOMAIN,Sí,N/A
-omegapro.com.ar,NXDOMAIN,Sí,N/A
+pirlotv.futbol,NXDOMAIN,Sí,
+omegapro.com.ar,NXDOMAIN,Sí,
 www.y2mate.com,NOERROR,No,"172.67.16.87, 172.66.132.236"
-negociosyemprendimiento.net/omega,NXDOMAIN,Sí,N/A
-www.josemariasanjuan.com,NXDOMAIN,Sí,N/A
-www.instagram.com/omegaprobuenosaires/?hl=es,NXDOMAIN,Sí,N/A
-josemariasanjuan.com.ar,NXDOMAIN,Sí,N/A
-www.facebook.com/OmegaProArgentinaOficial,NXDOMAIN,Sí,N/A
+negociosyemprendimiento.net/omega,NXDOMAIN,Sí,
+www.josemariasanjuan.com,NXDOMAIN,Sí,
+www.instagram.com/omegaprobuenosaires/?hl=es,NXDOMAIN,Sí,
+josemariasanjuan.com.ar,NXDOMAIN,Sí,
+www.facebook.com/OmegaProArgentinaOficial,NXDOMAIN,Sí,
 www.coinbet24.com,NOERROR,No,"172.67.196.158, 104.21.60.126"
-www.youtube.com/channel/UCQtJjyJxjIdyj9ThHwyyDw/featured,NXDOMAIN,Sí,N/A
-t.me/officialomegapro,NXDOMAIN,Sí,N/A
-www.facebook.com/OmegaProArgentina100635538116847/?ref=page_internal,NXDOMAIN,Sí,N/A
-dqhpsh.agcontroll.com/SSIT/Mobile,NXDOMAIN,Sí,N/A
-www.instagram.com/omegapro.official,NXDOMAIN,Sí,N/A
+www.youtube.com/channel/UCQtJjyJxjIdyj9ThHwyyDw/featured,NXDOMAIN,Sí,
+t.me/officialomegapro,NXDOMAIN,Sí,
+www.facebook.com/OmegaProArgentina100635538116847/?ref=page_internal,NXDOMAIN,Sí,
+dqhpsh.agcontroll.com/SSIT/Mobile,NXDOMAIN,Sí,
+www.instagram.com/omegapro.official,NXDOMAIN,Sí,
 plangobierno.org,NOERROR,No,195.114.193.63
-www.facebook.com/OmegaProOfficial,NXDOMAIN,Sí,N/A
-planprocreauto.org,NXDOMAIN,Sí,N/A
-www.omegaproinvestments.com,NXDOMAIN,Sí,N/A
+www.facebook.com/OmegaProOfficial,NXDOMAIN,Sí,
+planprocreauto.org,NXDOMAIN,Sí,
+www.omegaproinvestments.com,NXDOMAIN,Sí,
 plan0km.org,NOERROR,No,74.63.241.27
-www.facebook.com/bingo.korn7,NXDOMAIN,Sí,N/A
-www.99app.com.ar,SERVFAIL,Sí,N/A
-www.sports.ladbrokes.com,NXDOMAIN,Sí,N/A
-99taxi.com.ar,SERVFAIL,Sí,N/A
+www.facebook.com/bingo.korn7,NXDOMAIN,Sí,
+www.99app.com.ar,SERVFAIL,Sí,
+99taxi.com.ar,SERVFAIL,Sí,
 www.betowi.com,NOERROR,No,"104.21.3.191, 172.67.131.29"
-99top.com.ar,SERVFAIL,Sí,N/A
+99top.com.ar,SERVFAIL,Sí,
 www.lumibet.com,NOERROR,No,"172.67.185.89, 104.21.92.29"
-99cargo.com.ar,NXDOMAIN,Sí,N/A
 www.gamblecity.com,NOERROR,No,185.162.228.2
 www.ganotodo.com,NOERROR,No,82.180.169.122
 www.timberazo.com,NOERROR,No,"104.18.39.88, 172.64.148.168"
 www.lvbet.com,NOERROR,No,34.54.59.169
-www.bahsegel88.com,NXDOMAIN,Sí,N/A
 www.netbet.com,NOERROR,No,"104.16.96.170, 104.19.223.199"
 www.betsonic.com,NOERROR,No,"15.197.225.128, 3.33.251.168"
 www.bimports.com,NOERROR,No,"159.89.244.183, 164.90.244.158"
@@ -3368,48 +3059,34 @@ www.unibet.co.uk,NOERROR,No,85.184.96.0
 www.interwetten.com,NOERROR,No,"172.64.149.195, 104.18.38.61"
 www.vierklee.com,NOERROR,No,185.119.117.21
 www.planet7casino.com,NOERROR,No,159.203.57.71
-www.horizontsport.com,NXDOMAIN,Sí,N/A
 www.novibet.com,NOERROR,No,"172.64.147.184, 104.18.40.72"
 www.comeon.com,NOERROR,No,"172.64.148.84, 104.18.39.172"
 www.bumbet.com,NOERROR,No,167.250.221.114
 www.betpop.eu,NOERROR,No,"172.66.41.15, 172.66.42.241"
-www.paddipower.com,SERVFAIL,Sí,N/A
-www.euromoom.com,NXDOMAIN,Sí,N/A
+www.paddipower.com,SERVFAIL,Sí,
 www.betamerica.com,NOERROR,No,"3.166.181.8, 3.166.181.10, 3.166.181.18, 3.166.181.107"
 www.volltreffer.com,NOERROR,No,91.118.111.111
 www.parasino.com,NOERROR,No,200.25.69.94
 cdn1.efbet.com,NOERROR,No,172.65.253.179
-registrodeautomotor.com.ar,NXDOMAIN,Sí,N/A
 www.cuevana3.io,NOERROR,No,69.16.230.42
 www.cuevana.pro,NOERROR,No,"172.67.217.129, 104.21.67.71"
-www.tramitaya.com.ar,NXDOMAIN,Sí,N/A
 www.planetofbets.com,NOERROR,No,"104.21.27.78, 172.67.141.211"
-www.creditorenault.com,NXDOMAIN,Sí,N/A
 www.skyvegas.com,NOERROR,No,23.202.64.25
 www.mozartbet.com,NOERROR,No,74.63.241.24
-www.inwtbet.com,NXDOMAIN,Sí,N/A
 www.tigergaming.com,NOERROR,No,"104.18.40.229, 172.64.147.27"
 www.fantasticbet.com,NOERROR,No,185.162.228.2
-www.dorpmefiles.net/ru/d/Re7A,NXDOMAIN,Sí,N/A
-procreauto.org,SERVFAIL,Sí,N/A
-www.creditorenault.com,NXDOMAIN,Sí,N/A
-credito-renault.com,NXDOMAIN,Sí,N/A
-www.colbet.com,NOERROR,No,N/A
+procreauto.org,SERVFAIL,Sí,
+www.colbet.com,NOERROR,No,
 www.gohorsebetting.com,NOERROR,No,185.155.102.88
 m.skybet.com,NOERROR,No,23.61.53.102
 www.superbook.ag,NOERROR,No,208.87.35.126
-www.winwardcasino.ag,SERVFAIL,Sí,N/A
-cogerhoy.com/date/mercadolibre/es/4037,NXDOMAIN,Sí,N/A
+www.winwardcasino.ag,SERVFAIL,Sí,
 www.winadaycasino.eu,NOERROR,No,107.154.134.172
 www.justbet.cx,NOERROR,No,"104.21.16.1, 104.21.112.1, 104.21.48.1, 104.21.80.1, 104.21.96.1, 104.21.64.1, 104.21.32.1"
-www.bingofling.aom,NXDOMAIN,Sí,N/A
 www.slotsheaven.com,NOERROR,No,151.101.15.52
 www.888sport.com,NOERROR,No,"3.166.181.61, 3.166.181.38, 3.166.181.52, 3.166.181.43"
-www.brightstarcasino.com,NXDOMAIN,Sí,N/A
 www.casinoestrella.com,NOERROR,No,"89.116.250.39, 89.116.250.217"
 moneyreels.com,NOERROR,No,"172.67.216.56, 104.21.35.86"
-www.betfase.com,NXDOMAIN,Sí,N/A
-www.ticketgo.com.ar,NXDOMAIN,Sí,N/A
 www.luckland.com,NOERROR,No,"23.39.223.138, 23.39.223.143"
 www.entradafan.com.ar,NOERROR,No,"172.66.40.63, 172.66.43.193"
 www.777.com,NOERROR,No,"18.64.174.111, 18.64.174.96, 18.64.174.95, 18.64.174.39"
@@ -3421,12 +3098,10 @@ www.casinobigapple.com,NOERROR,No,185.27.56.67
 www.piggspeak.com,NOERROR,No,"104.16.144.207, 104.16.95.185"
 www.betser.com,NOERROR,No,"104.21.58.196, 172.67.206.240"
 www.vbet.com,NOERROR,No,185.162.228.2
-www.vietbet.eu,NXDOMAIN,Sí,N/A
 www.lowvig.ag,NOERROR,No,"172.64.152.187, 104.18.35.69"
 www.betsonn.com,NOERROR,No,"54.209.32.212, 52.71.57.184"
 www.betbright.com,NOERROR,No,"3.166.181.97, 3.166.181.69, 3.166.181.26, 3.166.181.45"
 www.18bet.com,NOERROR,No,"93.152.234.15, 93.152.234.13, 93.152.234.14"
-www.cuevana2.com,NXDOMAIN,Sí,N/A
 www.betphoenix.ag,NOERROR,No,"104.18.23.132, 104.18.22.132"
 www.leonbets.com,NOERROR,No,128.65.211.115
 www.DAFABET.com,NOERROR,No,167.250.221.114
@@ -3444,106 +3119,67 @@ www.cuevana.tv,NOERROR,No,69.16.230.165
 www.cuevana.com.ar,NOERROR,No,64.190.63.222
 www.cuevana2.tv,NOERROR,No,72.52.178.23
 www.cuevana3.com.ar,NOERROR,No,64.190.63.222
-www.quinielahoy.com,SERVFAIL,Sí,N/A
+www.quinielahoy.com,SERVFAIL,Sí,
 www.despuntandolasuerte.com,NOERROR,No,131.255.6.61
 www.betwinner.com,NOERROR,No,213.183.38.31
 www.betworld.com,NOERROR,No,"80.92.65.215, 149.7.192.200"
 www.olaslots.com,NOERROR,No,"13.248.169.48, 76.223.54.146"
-www.tickeygo.com.ar,NXDOMAIN,Sí,N/A
-www.casozambon.com,NXDOMAIN,Sí,N/A
-www.melajuego.bet,NXDOMAIN,Sí,N/A
-www.hipert72bet.com,NXDOMAIN,Sí,N/A
 www.hiperbet138.com,NOERROR,No,"104.21.16.1, 104.21.112.1, 104.21.96.1, 104.21.48.1, 104.21.64.1, 104.21.80.1, 104.21.32.1"
-www.forvetbet15.com,NXDOMAIN,Sí,N/A
-www.betebet75.com,NXDOMAIN,Sí,N/A
-gamingclub.comcaptaincookscasino.eu/envazagaming.comluxurycasino.com/en,NXDOMAIN,Sí,N/A
 uniquecasino.com,NOERROR,No,"172.67.39.163, 104.22.31.116, 104.22.30.116"
 gtcasino.com/enwelcome.unibet.com/bres.winspark.com,NOERROR,No,147.78.140.59
-casinoroom.com/es,NXDOMAIN,Sí,N/A
-casinoaction.com/es,NXDOMAIN,Sí,N/A
-queenvegas.com/esquatrocasino.com/endublinbet1.com/es,NXDOMAIN,Sí,N/A
-villento.com/enkingbilly.info/casinoguruukcasinoclub.eu/en,NXDOMAIN,Sí,N/A
-mrgreen.com/latam,NXDOMAIN,Sí,N/A
-blackjackballroom.eu/enzuryk.com,NXDOMAIN,Sí,N/A
-lsbet688.com,NXDOMAIN,Sí,N/A
 bwin.es,NOERROR,No,"195.72.135.91, 195.72.134.91"
 downloads.gratorama.com,NOERROR,No,147.78.140.55
-ar.1xbet.com/es,NXDOMAIN,Sí,N/A
 storageimg.org,NOERROR,No,188.165.30.12
-promotions.betfair.com/sports,NXDOMAIN,Sí,N/A
-ss.888casino.com,NXDOMAIN,Sí,N/A
-bet365.com/es,NXDOMAIN,Sí,N/A
+ss.888casino.com,NXDOMAIN,Sí,
 es.zodiaccasino.com,NOERROR,No,66.212.229.242
 888sport.escasino.betsson.com,NOERROR,No,"13.35.116.118, 13.35.116.109, 13.35.116.90, 13.35.116.87"
-promociones.betfair.es/sportslsagaming.com,NXDOMAIN,Sí,N/A
 interwetten.es,NOERROR,No,"172.64.150.17, 104.18.37.239"
 casinoextra100.com,NOERROR,No,"104.21.43.250, 172.67.191.191"
-marcaapuestas.eswiracasino.com,NXDOMAIN,Sí,N/A
 wanabet.es,NOERROR,No,"13.248.169.48, 76.223.54.146"
-promo.magicread.com,SERVFAIL,Sí,N/A
-sportium.es/apuestas-deportivas,NXDOMAIN,Sí,N/A
-grandmondial.eu/en,NXDOMAIN,Sí,N/A
-static.williamhill.es/apuestas-deportivas,NXDOMAIN,Sí,N/A
+promo.magicread.com,SERVFAIL,Sí,
 superiorcasino.com,NOERROR,No,"104.21.43.33, 172.67.217.252"
-marathonbet.essuertia.es,NXDOMAIN,Sí,N/A
 goldenpark.es,NOERROR,No,188.210.217.150
-freeslots.com.esrubyfortune.com/en,NXDOMAIN,Sí,N/A
 mansioncasino.com,NOERROR,No,"151.101.195.52, 151.101.3.52, 151.101.67.52, 151.101.131.52"
 888poker.es,NOERROR,No,"18.64.174.78, 18.64.174.18, 18.64.174.22, 18.64.174.68"
 tigergaming.com,NOERROR,No,"172.64.147.27, 104.18.40.229"
-jackpotcitycasino.com/argentina,NXDOMAIN,Sí,N/A
 partypoker.es,NOERROR,No,"195.72.134.91, 195.72.135.91"
-es.888.com/blackjackm.apuestas.codere.es,NXDOMAIN,Sí,N/A
-kirolbet.es/esp/sport,NXDOMAIN,Sí,N/A
+es.888.com/blackjackm.apuestas.codere.es,NXDOMAIN,Sí,
 vivelasuerte.es,NOERROR,No,217.76.132.180
-apuestas.casinogranmaridonline.es,NXDOMAIN,Sí,N/A
 paston.es,NOERROR,No,"104.26.15.70, 104.26.14.70, 172.67.68.41"
 betway.lat,NOERROR,No,"172.64.147.36, 104.18.40.220"
 apuesta24.com,NOERROR,No,"104.21.58.104, 172.67.159.3"
 betstars.com,NOERROR,No,"34.252.172.244, 54.72.136.184"
 titanbet.es,NOERROR,No,"208.80.123.171, 208.80.122.88, 208.80.122.230, 208.80.123.71"
 sportium.es,NOERROR,No,13.80.14.143
-fun88.co.ukbetapuesta.com,NXDOMAIN,Sí,N/A
 casino.com,NOERROR,No,"151.101.3.52, 151.101.67.52, 151.101.131.52, 151.101.195.52"
-cardschat.com/ar/casinos,NXDOMAIN,Sí,N/A
 machancecasino.com,NOERROR,No,"104.26.10.186, 172.67.68.89, 104.26.11.186"
-legalbet.es/casas-de-apuestas,NXDOMAIN,Sí,N/A
-sportsbwin.com/es/sports,NXDOMAIN,Sí,N/A
 casasdeapuestas.com,NOERROR,No,"104.26.6.5, 104.26.7.5, 172.67.72.163"
 luckynuggetcasino.com,NOERROR,No,"104.17.207.69, 104.17.208.69"
 webapuestas.com,NOERROR,No,185.125.78.54
-casinoepoca.com.ar,NOERROR,No,N/A
-apuestafree.com,NXDOMAIN,Sí,N/A
-spinpalace.com/español/ar,NXDOMAIN,Sí,N/A
+casinoepoca.com.ar,NOERROR,No,
+spinpalace.com/español/ar,NXDOMAIN,Sí,
 apuestas-deportivas.es,NOERROR,No,"104.21.16.1, 104.21.96.1, 104.21.64.1, 104.21.112.1, 104.21.80.1, 104.21.32.1, 104.21.48.1"
 es.casino.guru,NOERROR,No,"13.42.153.241, 35.178.17.96, 18.130.102.87"
 chipanalyst.com,NOERROR,No,"13.248.169.48, 76.223.54.146"
-apuestaonline.net/argentina,NXDOMAIN,Sí,N/A
-sportaytrader.es,NXDOMAIN,Sí,N/A
-onlinecasinoreports.com.arapuestasonline.net,NXDOMAIN,Sí,N/A
 apuestasdeportivas24.com,NOERROR,No,"172.64.148.200, 104.18.39.56"
-pokerstar.com,SERVFAIL,Sí,N/A
-drive.www.uber.com/argentina,NXDOMAIN,Sí,N/A
+pokerstar.com,SERVFAIL,Sí,
 apuestasdeportivas.com,NOERROR,No,"104.18.39.197, 172.64.148.59"
 www.coral.co.uk,NOERROR,No,"104.18.140.32, 104.18.141.32"
-es.888poker.comwww.888casino.com,NXDOMAIN,Sí,N/A
+es.888poker.comwww.888casino.com,NXDOMAIN,Sí,
 casinoonline.com,NOERROR,No,"104.17.48.135, 104.16.15.245"
 ecasino.com,NOERROR,No,205.196.210.31
-www.eurogrand.com/es/ar,NXDOMAIN,Sí,N/A
 www.wildtornado.com,NOERROR,No,5.10.244.181
 www.palaceofchance.com,NOERROR,No,152.42.144.147
 www.osiriscasino.com,NOERROR,No,164.90.204.25
-www.oziriscsino.com,NXDOMAIN,Sí,N/A
 www.parley.com.ve,NOERROR,No,"104.21.80.1, 104.21.32.1, 104.21.64.1, 104.21.112.1, 104.21.48.1, 104.21.96.1, 104.21.16.1"
 www.looselines.ag,NOERROR,No,"104.17.177.103, 104.17.178.103"
 www.etopaz.az,NOERROR,No,"104.16.160.5, 104.16.159.5"
-www.bombaybets.eu,SERVFAIL,Sí,N/A
+www.bombaybets.eu,SERVFAIL,Sí,
 www.betvoyager.com,NOERROR,No,185.66.141.195
 www.nordicbet.com,NOERROR,No,"13.35.116.111, 13.35.116.73, 13.35.116.52, 13.35.116.126"
 www.pokermatch.com,NOERROR,No,"104.26.3.74, 172.67.70.20, 104.26.2.74"
 www.7spins.com,NOERROR,No,127.0.0.1
 www.casino1club.com,NOERROR,No,164.90.204.25
-www.zambonpederasta.com,NXDOMAIN,Sí,N/A
 www.mexicocasino.com,NOERROR,No,192.64.151.235
 www.cashpotcasino.com,NOERROR,No,"172.67.153.30, 104.21.80.185"
 www.betmclean.com,NOERROR,No,"15.197.225.128, 3.33.251.168"
@@ -3551,17 +3187,14 @@ www.cashpoint.com,NOERROR,No,"104.18.16.74, 104.18.17.74"
 www.bet-52.com,NOERROR,No,"13.248.169.48, 76.223.54.146"
 www.punchbets.com,NOERROR,No,"185.162.231.245, 185.162.230.11"
 www.orientexpresscasino.com,NOERROR,No,"13.248.169.48, 76.223.54.146"
-www.miljugadas1.com,NXDOMAIN,Sí,N/A
 www.emucasino.com,NOERROR,No,"104.26.1.123, 104.26.0.123, 172.67.74.160"
-www.championsbet.net,SERVFAIL,Sí,N/A
+www.championsbet.net,SERVFAIL,Sí,
 www.euromoon.com,NOERROR,No,"13.248.169.48, 76.223.54.146"
 www.betpack.com,NOERROR,No,"172.64.154.157, 104.18.33.99"
-play.mansioncasino.com,NXDOMAIN,Sí,N/A
-www.princessbet.comen,NXDOMAIN,Sí,N/A
+play.mansioncasino.com,NXDOMAIN,Sí,
 www.platinumplaycasino.com,NOERROR,No,"172.64.147.83, 104.18.40.173"
 www.wizbet.com,NOERROR,No,"104.17.75.116, 104.17.76.116"
 www.easytaxi.com,NOERROR,No,"34.201.198.104, 34.228.211.79, 3.95.114.241"
-www.soltscapital.lv,NXDOMAIN,Sí,N/A
 www.quinielasandiego.com.ar,NOERROR,No,131.255.6.61
 www.377bet.com,NOERROR,No,43.157.158.116
 www.casino-atlanta.com,NOERROR,No,69.16.230.165
@@ -3569,11 +3202,8 @@ www.betadonis.com,NOERROR,No,51.158.85.6
 www.luckycreek.com,NOERROR,No,"104.16.175.158, 104.16.48.241"
 www.tiplix.com,NOERROR,No,"172.67.209.88, 104.21.66.234"
 www.interbet.co.za,NOERROR,No,"104.22.25.226, 104.22.24.226, 172.67.39.37"
-www.carbogaming.ag,NXDOMAIN,Sí,N/A
-www.miljugadas2.com,NXDOMAIN,Sí,N/A
-www.miljugadas55.com,NXDOMAIN,Sí,N/A
 www.vierklee-wetten.com,NOERROR,No,"172.67.75.26, 104.26.13.243, 104.26.12.243"
-www.spanish.slotsmagic.com,NXDOMAIN,Sí,N/A
+www.spanish.slotsmagic.com,NXDOMAIN,Sí,
 www.horizonsport.es,NOERROR,No,217.160.0.239
 www.trillonario.com,NOERROR,No,"18.185.77.60, 35.158.250.128, 18.158.180.6"
 www.gtbets.eu,NOERROR,No,159.89.116.117
@@ -3582,49 +3212,39 @@ www.olimp.com,NOERROR,No,45.223.24.67
 www.rubet.com,NOERROR,No,"104.21.37.211, 172.67.213.117"
 www.campeonbet.com,NOERROR,No,"104.26.14.200, 104.26.15.200, 172.67.72.189"
 www.betclic.com,NOERROR,No,"18.64.174.57, 18.64.174.44, 18.64.174.65, 18.64.174.56"
-www.sporttpesa.uk,NXDOMAIN,Sí,N/A
 www.vulcanbet.com,NOERROR,No,86.105.245.69
-www.ubet.com,SERVFAIL,Sí,N/A
+www.ubet.com,SERVFAIL,Sí,
 www.betphoenix.com,NOERROR,No,"96.45.82.104, 96.45.83.173, 96.45.83.90, 96.45.82.162"
 allslotscasino.com,NOERROR,No,"104.17.38.111, 104.17.39.111"
-www.lowvig.ar,NXDOMAIN,Sí,N/A
 www.treasuremile.com,NOERROR,No,"104.18.13.26, 104.18.12.26"
 www.fortuneroomcasino.com,NOERROR,No,"104.19.219.132, 104.19.218.132"
 www.paddypower.com,NOERROR,No,"172.64.152.123, 104.18.35.133"
-www.sports.betway.com,NXDOMAIN,Sí,N/A
+www.sports.betway.com,NXDOMAIN,Sí,
 www.lsbet.com,NOERROR,No,185.178.209.228
 www.royrichie.com,NOERROR,No,216.245.197.43
 www.supercasino.com,NOERROR,No,"3.166.181.60, 3.166.181.3, 3.166.181.57, 3.166.181.31"
 www.bbets.com,NOERROR,No,52.20.84.62
 www.intertops.com,NOERROR,No,"172.64.152.241, 104.18.35.15"
-www.global.138.com,NXDOMAIN,Sí,N/A
+www.global.138.com,NXDOMAIN,Sí,
 www.ivbet.com,NOERROR,No,"3.166.181.18, 3.166.181.99, 3.166.181.81, 3.166.181.22"
 www.bimsports.com,NOERROR,No,"3.19.116.195, 3.18.7.81"
 www.centrebet.com,NOERROR,No,"104.26.5.94, 172.67.73.242, 104.26.4.94"
 www.partypoker.com,NOERROR,No,"104.16.58.47, 104.16.57.47"
-www.gametwist.com/es,NXDOMAIN,Sí,N/A
 www.betonline.ag,NOERROR,No,"104.17.65.19, 104.17.64.19"
 www.casino.mx,NOERROR,No,"104.17.25.191, 104.17.26.191"
-www.tigeraming.com,NXDOMAIN,Sí,N/A
-www.chinesebookie.com,NXDOMAIN,Sí,N/A
 www.tonybet.com,NOERROR,No,"104.22.4.185, 172.67.39.8, 104.22.5.185"
-www.walterraulzambon.com,NXDOMAIN,Sí,N/A
 www.hititbet.com,NOERROR,No,"104.22.7.74, 104.22.6.74, 172.67.23.63"
-www.galemartin.com,SERVFAIL,Sí,N/A
+www.galemartin.com,SERVFAIL,Sí,
 www.parklanecasino.com,NOERROR,No,86.105.245.69
 www.wintingocasino.com,NOERROR,No,"172.64.148.93, 104.18.39.163"
-www.casinoonlinemidas.com,NXDOMAIN,Sí,N/A
-www.gol.casino.com,NXDOMAIN,Sí,N/A
+www.gol.casino.com,NXDOMAIN,Sí,
 www.24win.com,NOERROR,No,185.151.30.147
 www.10bet.com,NOERROR,No,"104.18.7.124, 104.18.6.124"
 www.betmotion.es,NOERROR,No,"3.33.130.190, 15.197.148.33"
-www.pokerklas61.com,NXDOMAIN,Sí,N/A
 www.1bet.com,NOERROR,No,"93.152.234.19, 93.152.234.21, 93.152.234.20"
-sprots.sportium.es,NXDOMAIN,Sí,N/A
+sprots.sportium.es,NXDOMAIN,Sí,
 www.apuestas-deportivas-argentina.com,NOERROR,No,217.160.0.54
-ar.spingol.com,NXDOMAIN,Sí,N/A
 www.tipgol.com,NOERROR,No,195.191.148.85
-opinionprohibida.blogspot.com.ar2024y2025,NXDOMAIN,Sí,N/A
 app.magtv235.com,NOERROR,No,"98.96.213.124, 98.98.70.140, 107.151.146.235, 98.96.202.107"
 haibao.absafe234.com,NOERROR,No,"104.18.54.201, 104.18.53.185"
 mia858.cfmtdress235.com,NOERROR,No,"98.98.69.186, 98.98.69.209, 98.98.69.211, 98.98.69.212, 98.98.74.135, 98.98.74.136, 98.98.74.139, 98.98.74.140, 98.98.74.142, 98.98.74.151, 98.98.74.157, 128.14.71.148, 128.14.71.149, 128.14.71.150, 98.96.221.151, 98.96.221.152, 98.98.69.151, 98.98.69.152, 98.98.69.185"
@@ -3633,7 +3253,6 @@ nycyxdtos.gs1ssd1g8pc.com,NOERROR,No,"104.18.42.99, 172.64.145.157"
 gcyxloud.adkld164sf.online,NOERROR,No,92.38.145.145
 lmvdgloall01.hhf123dcd.com,NOERROR,No,"108.157.173.84, 108.157.173.52, 108.157.173.101, 108.157.173.54"
 cndata.yamaday.xyz,NOERROR,No,"104.21.63.71, 172.67.170.65"
-nraxmagph.ahjdgf8fgfdd.com,NXDOMAIN,Sí,N/A
 mxifesd.08234fgalh.xyz,NOERROR,No,"104.21.96.1, 104.21.16.1, 104.21.32.1, 104.21.48.1, 104.21.80.1, 104.21.112.1, 104.21.64.1"
 eiofue.jfg36uded.xyz,NOERROR,No,"98.98.75.31, 98.98.75.30"
 magistv-pc.com,NOERROR,No,"104.21.16.1, 104.21.32.1, 104.21.112.1, 104.21.48.1, 104.21.80.1, 104.21.96.1, 104.21.64.1"
@@ -3656,8 +3275,7 @@ magistvgratis.app,NOERROR,No,"172.67.153.176, 104.21.32.186"
 magistvpromax.com,NOERROR,No,198.54.116.112
 magistvgratis.vip,NOERROR,No,"104.21.89.13, 172.67.155.130"
 magispro.lat,NOERROR,No,"104.21.112.1, 104.21.64.1, 104.21.16.1, 104.21.48.1, 104.21.32.1, 104.21.96.1, 104.21.80.1"
-magistv-pro.net,SERVFAIL,Sí,N/A
-www.instagram.com/parodirodrigo5?igsh=MWdkeDVxNWhqMTJneA==,NXDOMAIN,Sí,N/A
+magistv-pro.net,SERVFAIL,Sí,
 futbollibre.bet,NOERROR,No,74.63.241.25
 futbollibretv.net.pe,NOERROR,No,147.79.79.213
 futbollibreonline.com,NOERROR,No,"172.67.175.143, 104.21.83.117"
@@ -3666,11 +3284,7 @@ futbollibre.com.co,NOERROR,No,"104.21.51.31, 172.67.220.8"
 futbollibretvpe.com,NOERROR,No,67.223.119.162
 futbollibre.net.ar,NOERROR,No,"172.67.187.60, 104.21.4.242"
 futbollibrehd.live,NOERROR,No,176.123.4.218
-futbol‐libre‐tv.com,NXDOMAIN,Sí,N/A
-libretv.futbol,NOERROR,No,N/A
-librefutboltv.com.es,NXDOMAIN,Sí,N/A
-libre‐futbol‐tv.org,NXDOMAIN,Sí,N/A
-libre‐futbol.online,NXDOMAIN,Sí,N/A
+libretv.futbol,NOERROR,No,
 librefutboltv.pro,NOERROR,No,204.93.224.199
 rojadirectaorg.com,NOERROR,No,91.224.59.229
 www.rojadirectaes.org,NOERROR,No,"104.21.52.96, 172.67.197.217"
@@ -3698,14 +3312,11 @@ www.rojadirectenvivo.nl,NOERROR,No,"104.21.96.1, 104.21.64.1, 104.21.16.1, 104.2
 www.rojadirectahdenvivo.com,NOERROR,No,"104.21.77.249, 172.67.213.191"
 rojadirectatvhd.org,NOERROR,No,"104.21.32.1, 104.21.112.1, 104.21.80.1, 104.21.64.1, 104.21.16.1, 104.21.96.1, 104.21.48.1"
 rojadirectame.eu,NOERROR,No,91.224.59.129
-rojadirectatvonline.nl,NXDOMAIN,Sí,N/A
 rojadirecta.nl,NOERROR,No,"107.161.23.204, 209.141.38.71, 198.251.81.30"
 www.rojadirectatvdh.online,NOERROR,No,"76.223.67.189, 13.248.213.45"
 www.rojadirectatv.lol,NOERROR,No,"172.67.143.74, 104.21.87.121"
 www.rojadirectatvonline.de,NOERROR,No,"104.21.48.1, 104.21.16.1, 104.21.64.1, 104.21.112.1, 104.21.80.1, 104.21.32.1, 104.21.96.1"
-rojadirectaenvivo.su,NXDOMAIN,Sí,N/A
 www.rojadirectatvhd.site,NOERROR,No,"172.67.201.160, 104.21.34.83"
-roja‐directa.io,NXDOMAIN,Sí,N/A
 rojadirectaonline.us,NOERROR,No,"172.67.156.174, 104.21.48.218"
 rojadirectaliga.me,NOERROR,No,"172.67.195.167, 104.21.21.9"
 rojadirectaenvivo.vip,NOERROR,No,"172.67.168.120, 104.21.46.118"
@@ -3722,41 +3333,40 @@ rojadirectatv.top,NOERROR,No,91.224.59.128
 rojadirectahd.mx,NOERROR,No,"172.67.155.151, 104.21.80.239"
 www.tarjetarojatv.co,NOERROR,No,"44.195.150.219, 44.208.192.79"
 rojadirectatvenlinea.com,NOERROR,No,"104.21.21.13, 172.67.195.171"
-rojatv.tv,NXDOMAIN,Sí,N/A
+rojatv.tv,NXDOMAIN,Sí,
 rojadirectaenvivo.pl,NOERROR,No,"104.21.112.1, 104.21.32.1, 104.21.80.1, 104.21.96.1, 104.21.16.1, 104.21.64.1, 104.21.48.1"
 www.rojadirectaenhd.live,NOERROR,No,"104.21.21.207, 172.67.200.86"
-pelotalibretvhd.pe,NXDOMAIN,Sí,N/A
 pelotalibre.me,NOERROR,No,176.123.0.83
 www.pelotalibretv.xyz,NOERROR,No,142.250.217.179
 www.todopelotatv.net,NOERROR,No,"172.67.168.4, 104.21.58.55"
 todopelotatvhd.com,NOERROR,No,"104.21.66.113, 172.67.159.117"
 www.todopelotatv.live,NOERROR,No,"104.21.62.26, 172.67.219.23"
-todopelotastv.com,NOERROR,No,N/A
+todopelotastv.com,NOERROR,No,
 pelotalibre.co,NOERROR,No,"104.21.47.31, 172.67.144.43"
 rojadirectahd.org,NOERROR,No,"104.21.16.1, 104.21.80.1, 104.21.64.1, 104.21.32.1, 104.21.96.1, 104.21.112.1, 104.21.48.1"
 www.rojadirectvonline.pl,NOERROR,No,"172.66.40.135, 172.66.43.121"
 tarjetarojahd.org,NOERROR,No,"104.21.42.117, 172.67.161.215"
 rojadirectvonline.com,NOERROR,No,"104.21.15.21, 172.67.161.9"
 rojadirectvonline.pl,NOERROR,No,"172.66.43.121, 172.66.40.135"
-httDs://1win.com,NXDOMAIN,Sí,N/A
-melbet-ar1.com/es,NXDOMAIN,Sí,N/A
-melbet-ar1.com/es:,NXDOMAIN,Sí,N/A
-ar-1xbet.com/es,NXDOMAIN,Sí,N/A
+httDs://1win.com,NXDOMAIN,Sí,
+melbet-ar1.com/es,NXDOMAIN,Sí,
+melbet-ar1.com/es:,NXDOMAIN,Sí,
+ar-1xbet.com/es,NXDOMAIN,Sí,
 mystake.com,NOERROR,No,"104.18.10.31, 104.18.11.31"
 stake.com,NOERROR,No,"172.64.150.27, 104.18.37.229"
 www.celuapuestas.ws,NOERROR,No,"18.173.166.53, 18.173.166.99, 18.173.166.108, 18.173.166.13"
-rubybet.club/login.php,NXDOMAIN,Sí,N/A
+rubybet.club/login.php,NXDOMAIN,Sí,
 www.casino365online.ws,NOERROR,No,"18.239.225.33, 18.239.225.98, 18.239.225.83, 18.239.225.62"
 Casinomonaco.top,NOERROR,No,"18.64.174.117, 18.64.174.90, 18.64.174.102, 18.64.174.2"
 apostamos.net,NOERROR,No,"104.22.15.214, 172.67.38.73, 104.22.14.214"
 bet30.casino,NOERROR,No,"18.64.174.72, 18.64.174.31, 18.64.174.19, 18.64.174.68"
 granzeus.net,NOERROR,No,"172.67.190.15, 104.21.57.93"
 www.fortubet.ws,NOERROR,No,"3.166.181.13, 3.166.181.57, 3.166.181.93, 3.166.181.10"
-www.star-game.win/,NXDOMAIN,Sí,N/A
-casinoargentina24.com/main,NXDOMAIN,Sí,N/A
+www.star-game.win/,NXDOMAIN,Sí,
+casinoargentina24.com/main,NXDOMAIN,Sí,
 www.star-game.win,NOERROR,No,"3.166.160.47, 3.166.160.55, 3.166.160.96, 3.166.160.116"
 Camelbet2.com,NOERROR,No,"13.226.52.127, 13.226.52.22, 13.226.52.21, 13.226.52.40"
-www.magiplay.vip/home.php,NXDOMAIN,Sí,N/A
+www.magiplay.vip/home.php,NXDOMAIN,Sí,
 gananencasa.com,NOERROR,No,"104.26.9.204, 172.67.72.226, 104.26.8.204"
 www.cleopatrabet.ws,NOERROR,No,"18.64.174.96, 18.64.174.50, 18.64.174.47, 18.64.174.49"
 vudu.bet,NOERROR,No,"172.67.153.60, 104.21.3.61"
@@ -3773,27 +3383,22 @@ bet32.lat,NOERROR,No,"104.21.32.1, 104.21.96.1, 104.21.80.1, 104.21.48.1, 104.21
 bet71.lat,NOERROR,No,"172.67.168.52, 104.21.26.3"
 bet91.me,NOERROR,No,"172.67.184.201, 104.21.76.6"
 camelbet.me,NOERROR,No,"104.21.73.25, 172.67.137.247"
-casibet.io,NXDOMAIN,Sí,N/A
-casibet.pro,NXDOMAIN,Sí,N/A
 casino132.co,NOERROR,No,"104.21.23.234, 172.67.214.36"
 casino32.lat,NOERROR,No,"104.21.78.102, 172.67.220.55"
-casino33.la,NXDOMAIN,Sí,N/A
 casino91.bet,NOERROR,No,"104.21.48.1, 104.21.64.1, 104.21.16.1, 104.21.112.1, 104.21.32.1, 104.21.96.1, 104.21.80.1"
 casinoazteka.pro,NOERROR,No,"172.67.156.85, 104.21.89.39"
-casinopro.la,NXDOMAIN,Sí,N/A
 casinovolcano.bet,NOERROR,No,"104.21.48.1, 104.21.112.1, 104.21.80.1, 104.21.32.1, 104.21.64.1, 104.21.16.1, 104.21.96.1"
 casinozeta.me,NOERROR,No,"104.21.96.1, 104.21.112.1, 104.21.16.1, 104.21.32.1, 104.21.80.1, 104.21.48.1, 104.21.64.1"
 celuapuestas.me,NOERROR,No,"172.67.162.228, 104.21.74.206"
 celuapuestas.lat,NOERROR,No,"172.67.145.126, 104.21.65.130"
 circovip.pro,NOERROR,No,"104.21.15.168, 172.67.163.37"
 club32.lat,NOERROR,No,"104.21.45.158, 172.67.216.105"
-club365.io,SERVFAIL,Sí,N/A
+club365.io,SERVFAIL,Sí,
 depobet.io,NOERROR,No,"104.21.14.79, 172.67.202.168"
 fortubet.pro,NOERROR,No,"172.67.140.130, 104.21.49.30"
 flowerbet.pro,NOERROR,No,"172.67.149.145, 104.21.29.177"
 ganaencasa.lat,NOERROR,No,"172.67.194.203, 104.21.52.38"
 juegaygana.net,NOERROR,No,"104.21.79.202, 172.67.147.212"
-jugando.io,NXDOMAIN,Sí,N/A
 kadal.la,NOERROR,No,"104.21.96.1, 104.21.16.1, 104.21.112.1, 104.21.48.1, 104.21.32.1, 104.21.64.1, 104.21.80.1"
 lacobra.pro,NOERROR,No,"104.21.112.1, 104.21.48.1, 104.21.96.1, 104.21.64.1, 104.21.16.1, 104.21.80.1, 104.21.32.1"
 lasvegas365.pro,NOERROR,No,"104.21.43.214, 172.67.185.232"
@@ -3803,49 +3408,37 @@ palomabet.com,NOERROR,No,86.105.245.69
 patagoniabet.pro,NOERROR,No,"104.21.84.46, 172.67.186.63"
 planeta32.lat,NOERROR,No,"104.21.80.1, 104.21.48.1, 104.21.32.1, 104.21.112.1, 104.21.64.1, 104.21.96.1, 104.21.16.1"
 platinoclub.pro,NOERROR,No,"104.21.67.74, 172.67.217.132"
-profebet.co,NXDOMAIN,Sí,N/A
 star-game.bet,NOERROR,No,"104.21.76.227, 172.67.201.236"
 suertebet.lat,NOERROR,No,"104.21.32.1, 104.21.112.1, 104.21.80.1, 104.21.16.1, 104.21.64.1, 104.21.48.1, 104.21.96.1"
 tangobet.pro,NOERROR,No,"104.21.13.237, 172.67.133.111"
 trebolbet.pro,NOERROR,No,"104.21.0.93, 172.67.150.204"
 vip32.lat,NOERROR,No,"104.21.39.75, 172.67.143.169"
-arg-1xbet.com/es,NXDOMAIN,Sí,N/A
-1xcasino-172143.top/es,NXDOMAIN,Sí,N/A
-1xslot.com/es,NXDOMAIN,Sí,N/A
-1xslots-casino.com.ar/Entalsent,NXDOMAIN,Sí,N/A
 celuapuestas.net,NOERROR,No,"104.21.41.6, 172.67.141.33"
-22bet.com/es,NXDOMAIN,Sí,N/A
 zeuzcostume.com,NOERROR,No,"185.133.35.14, 185.133.35.13"
 zeuzcostume1.mitiendanube.com,NOERROR,No,"185.133.35.13, 185.133.35.14"
 keepmovingar.com,NOERROR,No,"185.133.35.13, 185.133.35.14"
 1win.com,NOERROR,No,190.115.24.78
 bc.game,NOERROR,No,"104.18.28.120, 104.18.29.120"
-www.rainbowex.site,NXDOMAIN,Sí,N/A
 escuelabiografiahumana.com,NOERROR,No,82.180.157.170
 escuelabiografiahumana.com,NOERROR,No,82.180.157.170
-www.facebook.com/escuelabiografiahumana,NXDOMAIN,Sí,N/A
 www.instagram.com/biografia_humana_escuela/https://www.knightconsortium.com,NOERROR,No,199.59.243.228
-h5.rainbowex.life/#,NXDOMAIN,Sí,N/A
-h5.rainbowex.life/#/pages/download/download,NXDOMAIN,Sí,N/A
 gnulahd.nu,NOERROR,No,185.178.208.130
 gnula.nu,NOERROR,No,"104.21.86.86, 172.67.217.47"
-dle.rae.es/jud%C3%ADo,NXDOMAIN,Sí,N/A
 www.mospytv.com,NOERROR,No,198.54.115.195
-kodipro.org/downloader/Mospy%20Tv_3.0.3.apk,NXDOMAIN,Sí,N/A
-www.magistv.net,NOERROR,No,N/A
-www.tvmagis.pro,SERVFAIL,Sí,N/A
+kodipro.org/downloader/Mospy%20Tv_3.0.3.apk,NXDOMAIN,Sí,
+www.magistv.net,NOERROR,No,
+www.tvmagis.pro,SERVFAIL,Sí,
 www.magistv.app,NOERROR,No,"104.21.5.99, 172.67.133.70"
 www.magis123.com,NOERROR,No,"104.18.6.114, 104.18.7.114"
 magistv.film,NOERROR,No,"104.21.4.68, 172.67.154.18"
 magistvoficial.net,NOERROR,No,91.223.82.99
 magistviptv.com,NOERROR,No,199.59.243.228
 magistv.live,NOERROR,No,91.223.82.72
-magistvlatin.com,NXDOMAIN,Sí,N/A
 magistvlatino.es,NOERROR,No,176.123.0.83
 fullmagistv.com,NOERROR,No,"3.33.130.190, 15.197.148.33"
 magistvv.com,NOERROR,No,"15.197.225.128, 3.33.251.168"
 tvsnipers.com,NOERROR,No,"3.33.130.190, 15.197.148.33"
-magistv-ecuador.com,SERVFAIL,Sí,N/A
+magistv-ecuador.com,SERVFAIL,Sí,
 www.magistv.agency,NOERROR,No,185.125.78.203
 soportemagistv.com,NOERROR,No,72.52.178.23
 panelmagistv.com,NOERROR,No,"104.21.112.1, 104.21.64.1, 104.21.80.1, 104.21.48.1, 104.21.32.1, 104.21.16.1, 104.21.96.1"
@@ -3856,19 +3449,19 @@ comprarmagistv.app,NOERROR,No,"104.21.96.1, 104.21.48.1, 104.21.64.1, 104.21.80.
 www.magistv.ai,NOERROR,No,"104.21.16.215, 172.67.215.244"
 descarga-magistv.com,NOERROR,No,162.210.196.172
 magispro.com,NOERROR,No,"104.18.22.192, 104.18.23.192"
-magistvgo.com,SERVFAIL,Sí,N/A
+magistvgo.com,SERVFAIL,Sí,
 magislatamtv.net,NOERROR,No,103.224.182.242
 magistvecuador.app,NOERROR,No,"104.21.45.118, 172.67.213.223"
 magistvinternational.com,NOERROR,No,103.224.212.211
 www.magiscr.org,NOERROR,No,142.250.217.243
 www.magistv.mx,NOERROR,No,"104.21.32.17, 172.67.182.69"
 magistvmexico.net,NOERROR,No,91.223.82.99
-oficialmagistv.com,NXDOMAIN,Sí,N/A
+oficialmagistv.com,NXDOMAIN,Sí,
 magistv.so,NOERROR,No,"104.21.46.176, 172.67.168.207"
 magistvapk.app,NOERROR,No,"104.21.96.130, 172.67.180.251"
-magistv.vip,NOERROR,No,N/A
+magistv.vip,NOERROR,No,
 comprarmagistv.com,NOERROR,No,91.223.82.99
-magistvmex.com,SERVFAIL,Sí,N/A
+magistvmex.com,SERVFAIL,Sí,
 magisapp.app,NOERROR,No,"104.21.61.6, 172.67.204.130"
 magistvperu.org,NOERROR,No,103.224.212.217
 magistvusa.net,NOERROR,No,108.167.140.152
@@ -3879,86 +3472,59 @@ magistvgratis.com,NOERROR,No,91.223.82.99
 magistvpty.com,NOERROR,No,34.174.179.51
 www.getmagistv.com,NOERROR,No,35.213.156.12
 magistve.com,NOERROR,No,69.16.230.165
-magistvoficial.org,NXDOMAIN,Sí,N/A
 magistvpc.com,NOERROR,No,66.29.132.90
-magistv.la,NXDOMAIN,Sí,N/A
 www.magistv.club,NOERROR,No,192.99.151.159
-www.tvmagis.pro,SERVFAIL,Sí,N/A
-magistv.stream,NXDOMAIN,Sí,N/A
-www.magis.com.ec,NXDOMAIN,Sí,N/A
+www.tvmagis.pro,SERVFAIL,Sí,
 magistvtv.com,NOERROR,No,107.180.115.103
 planesmagistv.com,NOERROR,No,63.250.38.160
 magistvpremium.com,NOERROR,No,15.197.240.20
 magistv-latino.net,NOERROR,No,198.54.115.141
 magistvhn.com,NOERROR,No,103.224.182.208
 magistvplus.com.co,NOERROR,No,34.235.250.63
-www.magisapk.com,NOERROR,No,N/A
-magis-cr.com,SERVFAIL,Sí,N/A
+www.magisapk.com,NOERROR,No,
 magistvoficialchile.com,NOERROR,No,162.241.60.213
 campeonbet.com,NOERROR,No,"104.26.15.200, 172.67.72.189, 104.26.14.200"
-www.facebook.com/campeonbet,NXDOMAIN,Sí,N/A
 1wincasino.ar,NOERROR,No,"104.21.35.95, 172.67.217.14"
 www.celuapuestas.io,NOERROR,No,"13.226.52.51, 13.226.52.44, 13.226.52.89, 13.226.52.16"
 www.platinoclub.bet,NOERROR,No,"104.21.3.112, 172.67.130.165"
-www.superbet.pro,NXDOMAIN,Sí,N/A
 www.1xbet.com,NOERROR,No,"172.64.146.192, 104.18.41.64"
-www.quarzoazul.com,SERVFAIL,Sí,N/A
+www.quarzoazul.com,SERVFAIL,Sí,
 www.casino-zeus.com,NOERROR,No,91.195.240.19
-www.oasispro.club,SERVFAIL,Sí,N/A
+www.oasispro.club,SERVFAIL,Sí,
 www.celuapuestas.me,NOERROR,No,"104.21.74.206, 172.67.162.228"
 www.konabet.pro,NOERROR,No,"3.166.152.107, 3.166.152.9, 3.166.152.46, 3.166.152.106"
-mystake.com/en,NXDOMAIN,Sí,N/A
-www.20bet.com/es,NXDOMAIN,Sí,N/A
-www.20bet.ar,NXDOMAIN,Sí,N/A
-jugavip.com,NXDOMAIN,Sí,N/A
 bet30.win,NOERROR,No,"18.239.225.128, 18.239.225.45, 18.239.225.111, 18.239.225.19"
 casino-zeus.club,NOERROR,No,"13.32.87.23, 13.32.87.115, 13.32.87.16, 13.32.87.104"
-casinomonaco.bet,NXDOMAIN,Sí,N/A
-1xbet.com/es,NXDOMAIN,Sí,N/A
-casinomonaco.bet,NXDOMAIN,Sí,N/A
 casinozeus.la,NOERROR,No,"3.166.152.106, 3.166.152.107, 3.166.152.46, 3.166.152.9"
-juegasi.com,SERVFAIL,Sí,N/A
+juegasi.com,SERVFAIL,Sí,
 azarlatino.com,NOERROR,No,185.148.106.189
-pinkplay.net,SERVFAIL,Sí,N/A
+pinkplay.net,SERVFAIL,Sí,
 granolimpo.com,NOERROR,No,"104.21.51.98, 172.67.178.135"
 zonax.club,NOERROR,No,192.124.249.35
 www.casino365vip.club,NOERROR,No,"18.64.174.114, 18.64.174.36, 18.64.174.72, 18.64.174.64"
-22bet.online/ar,NXDOMAIN,Sí,N/A
-ivibet.online/es,NXDOMAIN,Sí,N/A
-ivibet.com/es,NXDOMAIN,Sí,N/A
-cashed.com/en,NXDOMAIN,Sí,N/A
-oasiscasino.co,SERVFAIL,Sí,N/A
+oasiscasino.co,SERVFAIL,Sí,
 wonbet.net,NOERROR,No,199.59.243.228
-1win-ar.com.ar,NXDOMAIN,Sí,N/A
 immerion.com,NOERROR,No,"172.66.40.202, 172.66.43.54"
-win1.ar,NXDOMAIN,Sí,N/A
 1wqsg.com,NOERROR,No,186.2.162.102
 1wijl.com,NOERROR,No,186.2.162.102
 jettbet.co,NOERROR,No,"104.21.48.1, 104.21.16.1, 104.21.64.1, 104.21.32.1, 104.21.80.1, 104.21.112.1, 104.21.96.1"
-wonaco.com/en,NXDOMAIN,Sí,N/A
 hexabet.io,NOERROR,No,"104.21.96.1, 104.21.16.1, 104.21.32.1, 104.21.80.1, 104.21.48.1, 104.21.64.1, 104.21.112.1"
 rakebit.com,NOERROR,No,204.93.210.11
 lex-casino13.com,NOERROR,No,51.91.112.15
 bm.bet,NOERROR,No,"104.26.5.239, 104.26.4.239, 172.67.72.217"
-swiper.com/en,NXDOMAIN,Sí,N/A
 betzard.com,NOERROR,No,"172.67.157.56, 104.21.56.246"
 www.jazzyspins.com,NOERROR,No,45.60.247.194
-oc88.com,NOERROR,No,N/A
-platinoclub.net,SERVFAIL,Sí,N/A
+oc88.com,NOERROR,No,
+platinoclub.net,SERVFAIL,Sí,
 hashlucky.io,NOERROR,No,"172.67.208.106, 104.21.23.19"
 www.camelbet.vip,NOERROR,No,199.59.243.228
-www.pin-up72h.com/es-mx,NXDOMAIN,Sí,N/A
 www.luckyblock.com,NOERROR,No,"172.64.155.64, 104.18.32.192"
 www.megadice.com,NOERROR,No,"104.18.34.113, 172.64.153.143"
 jokersino.com,NOERROR,No,"104.26.7.217, 104.26.6.217, 172.67.73.79"
-www.winuniquecasino-land.com/es,NXDOMAIN,Sí,N/A
-www.winvegasplus-grade.com/es,NXDOMAIN,Sí,N/A
 seven.casino,NOERROR,No,"104.26.9.115, 104.26.8.115, 172.67.74.90"
 melbet.com,NOERROR,No,83.147.207.197
-ozarkbet.com/casino,NXDOMAIN,Sí,N/A
 roobet.com,NOERROR,No,"172.64.151.243, 104.18.36.13"
 casinotiger-ar.com,NOERROR,No,"172.67.136.127, 104.21.26.142"
-www.jokercasino.com/es,NXDOMAIN,Sí,N/A
 aztec3.gameassists.co.uk,NOERROR,No,"172.64.149.57, 104.18.38.199"
 ballroom3.gameassists.co.uk,NOERROR,No,"172.64.149.57, 104.18.38.199"
 action3.gameassists.co.uk,NOERROR,No,"104.18.38.199, 172.64.149.57"
@@ -3992,10 +3558,7 @@ celuapuestas-casino.com,NOERROR,No,"172.67.149.189, 104.21.11.176"
 www.celuapuesta.vip,NOERROR,No,199.59.243.228
 celuapuestas1.com,NOERROR,No,"104.21.83.91, 172.67.220.239"
 www.ganaencasa.net,NOERROR,No,"3.166.181.64, 3.166.181.41, 3.166.181.3, 3.166.181.112"
-ganaencasa.io/login,NXDOMAIN,Sí,N/A
-ganaencasa-co.com.ar,NXDOMAIN,Sí,N/A
 ganaencasa.ai,NOERROR,No,"104.21.80.1, 104.21.112.1, 104.21.64.1, 104.21.96.1, 104.21.48.1, 104.21.16.1, 104.21.32.1"
-ganaencasa.pro,NXDOMAIN,Sí,N/A
 ganaencasa-ar.com,NOERROR,No,"172.67.214.198, 104.21.91.91"
 gana-en-casa.com,NOERROR,No,"172.67.147.216, 104.21.63.165"
 www.dadosbet.com,NOERROR,No,185.162.229.2
@@ -4005,12 +3568,8 @@ pampacasino.com,NOERROR,No,145.223.124.71
 gbctlatina.com,NOERROR,No,185.162.228.2
 celuapuestas-com.online,NOERROR,No,"104.21.79.248, 172.67.150.84"
 1wesa.com,NOERROR,No,186.2.162.102
-goldentiger.casino/en/login,NXDOMAIN,Sí,N/A
 cbet.gg,NOERROR,No,"172.67.150.229, 104.21.12.2"
 luckytigercasino.com,NOERROR,No,"104.21.66.15, 172.67.198.173"
-rtbet.com/es,NXDOMAIN,Sí,N/A
-www.lamabet.com/es,NXDOMAIN,Sí,N/A
-vegas-365.com/login.php,NXDOMAIN,Sí,N/A
 1wdqe.com,NOERROR,No,186.2.162.102
 megafaraon-casino.com,NOERROR,No,"104.21.80.1, 104.21.32.1, 104.21.64.1, 104.21.16.1, 104.21.112.1, 104.21.96.1, 104.21.48.1"
 1wqamf.win,NOERROR,No,186.2.162.102
@@ -4021,19 +3580,11 @@ www.betelite.com,NOERROR,No,45.60.247.194
 www.casinostars.io,NOERROR,No,"172.67.166.224, 104.21.16.67"
 5bonuses.com,NOERROR,No,"104.21.20.205, 172.67.194.102"
 betsolino.com,NOERROR,No,"104.21.75.112, 172.67.222.202"
-goralbet.com/es,NXDOMAIN,Sí,N/A
 raze.bet,NOERROR,No,"104.22.24.123, 172.67.14.60, 104.22.25.123"
-allspins.com/en,NXDOMAIN,Sí,N/A
 1wvixw.life,NOERROR,No,186.2.162.102
-HTTPS://MEGAPARI.COM,NXDOMAIN,Sí,N/A
-HTTPS://WWW.MEGAPARI.COM.AR,NXDOMAIN,Sí,N/A
-HTTPS://MEGAPARI.AR,NXDOMAIN,Sí,N/A
 megapari-argentina.com,NOERROR,No,"104.21.64.1, 104.21.80.1, 104.21.48.1, 104.21.96.1, 104.21.16.1, 104.21.32.1, 104.21.112.1"
-megapari.com/es?tag=d_1901001m_25437c_,NXDOMAIN,Sí,N/A
-HTTPS://1BETPLAY.COM,NXDOMAIN,Sí,N/A
-HTTPS://WWW.GOLDENBET.COM/ES,NXDOMAIN,Sí,N/A
 donbet.com,NOERROR,No,"172.67.145.122, 104.21.71.143"
-jessiegold.com,SERVFAIL,Sí,N/A
+jessiegold.com,SERVFAIL,Sí,
 www.betbord.biz,NOERROR,No,185.162.229.2
 spinrollz.com,NOERROR,No,185.207.197.87
 20bet.com,NOERROR,No,"104.18.38.80, 172.64.149.176"
@@ -4042,7 +3593,6 @@ odinplay.net,NOERROR,No,200.58.119.215
 star-game.co,NOERROR,No,"76.223.85.236, 13.248.200.37"
 dreamslatam.io,NOERROR,No,104.24.14.93
 ice-casino34.com,NOERROR,No,188.164.159.22
-icecasino34.com,NXDOMAIN,Sí,N/A
 sol.casino,NOERROR,No,"45.85.118.5, 45.12.31.251"
 www.ganamos.net,NOERROR,No,"104.22.29.165, 104.22.28.165, 172.67.5.31"
 melbet-ar.com,NOERROR,No,83.147.204.219
@@ -4077,84 +3627,71 @@ dare.casino,NOERROR,No,"18.66.122.88, 18.66.122.100, 18.66.122.65, 18.66.122.67"
 cryptorush.com,NOERROR,No,"18.66.192.48, 18.66.192.20, 18.66.192.121, 18.66.192.8"
 winnita.com,NOERROR,No,203.23.104.237
 xspin.io,NOERROR,No,"104.21.48.1, 104.21.64.1, 104.21.96.1, 104.21.112.1, 104.21.32.1, 104.21.16.1, 104.21.80.1"
-www.hatbet56.com,SERVFAIL,Sí,N/A
+www.hatbet56.com,SERVFAIL,Sí,
 www.superkasino.com,NOERROR,No,"18.239.225.99, 18.239.225.51, 18.239.225.70, 18.239.225.123"
 www.reelsofjoy.io,NOERROR,No,"104.21.80.1, 104.21.48.1, 104.21.64.1, 104.21.112.1, 104.21.16.1, 104.21.96.1, 104.21.32.1"
 winolot.com,NOERROR,No,"93.152.234.180, 93.152.234.179, 93.152.234.178"
 www.goldengenie.com,NOERROR,No,212.115.109.28
 miucasino.com,NOERROR,No,199.59.243.228
 jackpotfrenzy.com,NOERROR,No,185.207.196.76
-uslotu160.online,NXDOMAIN,Sí,N/A
-www.vaycasino181.com,NXDOMAIN,Sí,N/A
+uslotu160.online,NXDOMAIN,Sí,
+www.vaycasino181.com,NXDOMAIN,Sí,
 www.galaxyspins.com,NOERROR,No,205.178.189.129
 kirgo.com,NOERROR,No,"18.66.122.47, 18.66.122.83, 18.66.122.13, 18.66.122.88"
-vegascoin1.casino,NXDOMAIN,Sí,N/A
+vegascoin1.casino,NXDOMAIN,Sí,
 www.hallabet.com,NOERROR,No,"104.18.28.189, 104.18.29.189"
-www.betrebels.com/es,NXDOMAIN,Sí,N/A
-HTTPS://20BET.COM/ES,NXDOMAIN,Sí,N/A
+www.betrebels.com/es,NXDOMAIN,Sí,
+HTTPS://20BET.COM/ES,NXDOMAIN,Sí,
 www.betboro.com,NOERROR,No,185.162.228.7
-www.betboro.com/en,NXDOMAIN,Sí,N/A
-www.betboro.com/es,NXDOMAIN,Sí,N/A
-www.betboro.com/fal,NXDOMAIN,Sí,N/A
-www.betboro.com/tr,NXDOMAIN,Sí,N/A
-www.betboro.com/pt,NXDOMAIN,Sí,N/A
-www.betboro.com/pb,NXDOMAIN,Sí,N/A
-www.betboro.com/sk,NXDOMAIN,Sí,N/A
-www.betboro.com/ar,NXDOMAIN,Sí,N/A
-xbet.com;bodog.com,NXDOMAIN,Sí,N/A
+www.betboro.com/en,NXDOMAIN,Sí,
+www.betboro.com/es,NXDOMAIN,Sí,
+www.betboro.com/fal,NXDOMAIN,Sí,
+www.betboro.com/tr,NXDOMAIN,Sí,
+www.betboro.com/pt,NXDOMAIN,Sí,
+www.betboro.com/pb,NXDOMAIN,Sí,
+www.betboro.com/sk,NXDOMAIN,Sí,
+www.betboro.com/ar,NXDOMAIN,Sí,
+xbet.com;bodog.com,NXDOMAIN,Sí,
 duelbits.com,NOERROR,No,"104.18.27.143, 104.18.26.143"
 casinozeus.club,NOERROR,No,"65.8.248.12, 65.8.248.41, 65.8.248.14, 65.8.248.47"
 casinozeta.club,NOERROR,No,"65.8.248.83, 65.8.248.61, 65.8.248.87, 65.8.248.74"
-20bet.com/es_ar,NXDOMAIN,Sí,N/A
+20bet.com/es_ar,NXDOMAIN,Sí,
 bc.game,NOERROR,No,"104.18.29.120, 104.18.28.120"
-casino33.co,SERVFAIL,Sí,N/A
+casino33.co,SERVFAIL,Sí,
 megapari.com,NOERROR,No,83.147.204.197
 lwin.com,NOERROR,No,199.59.243.228
 librefutboltv.net,NOERROR,No,72.52.178.23
-libre.futbol,NOERROR,No,N/A
+libre.futbol,NOERROR,No,
 futbollibrehd.net,NOERROR,No,72.52.178.23
 futbollibretv.fr,NOERROR,No,31.214.178.55
-futbollibre.pe,NXDOMAIN,Sí,N/A
 futbollibre.nu,NOERROR,No,"172.67.209.77, 104.21.74.253"
-futbollibretv.ar,NXDOMAIN,Sí,N/A
-futbollibretv.pe,NXDOMAIN,Sí,N/A
 futbollibre.plus,NOERROR,No,74.63.241.21
 futbollibreonline.pe,NOERROR,No,66.29.138.144
 futbol-libre.pe,NOERROR,No,199.59.243.228
-futbollibre.re,NXDOMAIN,Sí,N/A
 futbollibre.app,NOERROR,No,72.52.178.23
-tvfutbolibre.com,NXDOMAIN,Sí,N/A
 futbolibrelat.com,NOERROR,No,72.52.178.23
-futbollibretvhd.pe,NOERROR,No,N/A
+futbollibretvhd.pe,NOERROR,No,
 futbol-libre.me,NOERROR,No,72.52.178.23
 futbollibretv.futbol,NOERROR,No,199.59.243.228
 futbollibrestv.com,NOERROR,No,72.52.178.23
-futbol-libre.club,NXDOMAIN,Sí,N/A
 futbollibreperu.net,NOERROR,No,103.224.182.214
-librefutboltv.futbol,NXDOMAIN,Sí,N/A
 livefutbollibre.com,NOERROR,No,50.28.105.183
-futbol-libre.ar,NXDOMAIN,Sí,N/A
 futbollibre.kim,NOERROR,No,"104.21.16.146, 172.67.213.62"
 futbollibre.one,NOERROR,No,192.64.119.139
-futbollibre.pl,NXDOMAIN,Sí,N/A
 futbollibrefhd.com,NOERROR,No,103.224.212.213
 futbollibrehd.cl,NOERROR,No,"104.21.10.223, 172.67.146.208"
 futbollibrehd.futbol,NOERROR,No,"104.21.38.22, 172.67.218.8"
 futbollibres.pe,NOERROR,No,"172.67.221.139, 104.21.25.10"
 futbollibretv.io,NOERROR,No,72.52.178.23
-futbollibretv.nu,NXDOMAIN,Sí,N/A
 futbollibretvs.com,NOERROR,No,"104.21.68.100, 172.67.193.228"
 librefutbol.futbol,NOERROR,No,72.52.178.23
 librefutbolhd.pe,NOERROR,No,"172.67.172.165, 104.21.55.201"
 librefutbol-tv.com,NOERROR,No,199.59.243.228
-librefutboltv.pe,NXDOMAIN,Sí,N/A
-futbollibrehd.pe,NXDOMAIN,Sí,N/A
 librefutbol.me,NOERROR,No,"172.67.205.119, 104.21.52.239"
 librefutboltvhd.com,NOERROR,No,"172.67.172.211, 104.21.47.220"
 futbollibretv.tv,NOERROR,No,72.52.178.23
 futbollibre.homes,NOERROR,No,74.63.241.26
-futbolenvivo.com.ar,NXDOMAIN,Sí,N/A
-futbollibretvonline.pe,SERVFAIL,Sí,N/A
+futbollibretvonline.pe,SERVFAIL,Sí,
 megadeportestv2.com,NOERROR,No,72.52.178.23
 megadeportestv.live,NOERROR,No,72.52.178.23
 megadeportestv.org,NOERROR,No,"172.233.219.123, 172.233.219.49, 172.233.219.78"
@@ -4174,46 +3711,27 @@ tv-libre.com,NOERROR,No,69.16.230.165
 cxtvenvivo.com,NOERROR,No,"104.21.32.1, 104.21.64.1, 104.21.96.1, 104.21.16.1, 104.21.80.1, 104.21.48.1, 104.21.112.1"
 tarjetarojaenvivo.nl,NOERROR,No,"104.21.32.1, 104.21.48.1, 104.21.112.1, 104.21.64.1, 104.21.16.1, 104.21.80.1, 104.21.96.1"
 pelota-libre.com,NOERROR,No,69.16.230.165
-deportesvhd.com,NXDOMAIN,Sí,N/A
 rojadirectatvhd.com,NOERROR,No,"104.21.80.1, 104.21.32.1, 104.21.112.1, 104.21.64.1, 104.21.96.1, 104.21.48.1, 104.21.16.1"
 rojadirectenvivo.me,NOERROR,No,"104.21.64.1, 104.21.48.1, 104.21.16.1, 104.21.112.1, 104.21.96.1, 104.21.32.1, 104.21.80.1"
 rojadirecta2.org,NOERROR,No,103.224.212.217
 deporte-libre.org,NOERROR,No,"104.21.46.202, 172.67.141.174"
 deportestvhd2.com,NOERROR,No,72.52.178.23
 tele-libre.com,NOERROR,No,"172.67.147.21, 104.21.28.183"
-\vww.redstarcasino.com.ar/casino,NXDOMAIN,Sí,N/A
-odinplay.net/jugadores,NXDOMAIN,Sí,N/A
-dreamslatam.io/games,NXDOMAIN,Sí,N/A
 betonlineok.com,NOERROR,No,15.197.212.58
 viponlineok.com,NOERROR,No,179.43.119.166
-reydecorazonesok.com,NXDOMAIN,Sí,N/A
-goldenroyaloficial.com,NXDOMAIN,Sí,N/A
-magesticluh.com,NXDOMAIN,Sí,N/A
 Ixslot.com,NOERROR,No,64.32.14.141
-ice-casino34.com/es,NXDOMAIN,Sí,N/A
-wazamha.com,NXDOMAIN,Sí,N/A
+ice-casino34.com/es,NXDOMAIN,Sí,
 vegas-365.vip,NOERROR,No,"172.67.203.253, 104.21.77.31"
-lhetplay.com,NXDOMAIN,Sí,N/A
 www.regalamonedas.com,NOERROR,No,"104.21.12.86, 172.67.131.244"
-hc.game,NXDOMAIN,Sí,N/A
-duelhits.com,NXDOMAIN,Sí,N/A
 w9.vnm999.com,NOERROR,No,"104.21.64.1, 104.21.96.1, 104.21.16.1, 104.21.32.1, 104.21.112.1, 104.21.48.1, 104.21.80.1"
 21casino.com,NOERROR,No,"13.35.116.31, 13.35.116.73, 13.35.116.13, 13.35.116.3"
 www.apuestashouse.com,NOERROR,No,"104.21.47.209, 172.67.172.170"
-sol.casino/es,NXDOMAIN,Sí,N/A
-22het-ar.com,NXDOMAIN,Sí,N/A
 888casino.com,NOERROR,No,"18.64.174.39, 18.64.174.111, 18.64.174.95, 18.64.174.96"
 playzee.com,NOERROR,No,"13.35.116.31, 13.35.116.73, 13.35.116.3, 13.35.116.13"
-Ivhet.com,NXDOMAIN,Sí,N/A
-celuapuestas.pro,NOERROR,No,N/A
-www.ganamos.net/home,NXDOMAIN,Sí,N/A
+celuapuestas.pro,NOERROR,No,
 micasino.com,NOERROR,No,34.149.24.26
 www.swiftcasino.es,NOERROR,No,"108.165.216.164, 108.165.216.92"
-https;//casino2eta.ctób,NXDOMAIN,Sí,N/A
-https;//bet30.es,NXDOMAIN,Sí,N/A
-leg2o.casino,NXDOMAIN,Sí,N/A
 nationalcasino.com,NOERROR,No,"104.26.1.107, 172.67.69.251, 104.26.0.107"
-www.bitstar2m3.com,NXDOMAIN,Sí,N/A
 playgrand.com,NOERROR,No,"13.35.116.13, 13.35.116.31, 13.35.116.73, 13.35.116.3"
 clubriches.com,NOERROR,No,"172.66.42.251, 172.66.41.5"
 vulkanvegas.com,NOERROR,No,14.102.228.17
@@ -4222,15 +3740,10 @@ mr.bet,NOERROR,No,"172.67.24.15, 104.22.5.204, 104.22.4.204"
 riobet.com,NOERROR,No,94.103.81.251
 kingbillycasino.com,NOERROR,No,"194.152.44.21, 194.152.44.235"
 europacasino.com,NOERROR,No,"23.61.251.141, 23.61.251.138"
-formnejack.com,NXDOMAIN,Sí,N/A
-melbet-ar.com/es,NXDOMAIN,Sí,N/A
 cloudbet.com,NOERROR,No,"104.22.48.165, 172.67.27.172, 104.22.49.165"
 betfury.com,NOERROR,No,"104.18.18.20, 104.18.19.20"
-ekorro.Hve,NXDOMAIN,Sí,N/A
 casinofox.ar,NOERROR,No,147.79.79.96
-cra2yf0x.com,NXDOMAIN,Sí,N/A
 quickwin.com,NOERROR,No,185.207.196.125
-powbetcom,SERVFAIL,Sí,N/A
 mostbet.com,NOERROR,No,"3.74.110.143, 52.58.247.182, 3.73.215.18"
 nomini.com,NOERROR,No,185.207.196.233
 librabet.com,NOERROR,No,185.207.199.146
@@ -4243,7 +3756,6 @@ bizzocasino.com,NOERROR,No,"172.67.72.30, 104.26.0.13, 104.26.1.13"
 casinia.com,NOERROR,No,185.207.198.201
 betcoin.pro,NOERROR,No,"13.226.52.10, 13.226.52.96, 13.226.52.94, 13.226.52.57"
 cryptoleo.com,NOERROR,No,"172.67.43.195, 104.22.58.231, 104.22.59.231"
-www.playoro.casino/en,NXDOMAIN,Sí,N/A
 www.betfair.com,NOERROR,No,"104.19.153.16, 104.19.154.16"
 7bitcasino.com,NOERROR,No,45.205.0.5
 gate777.com,NOERROR,No,"13.35.116.31, 13.35.116.73, 13.35.116.13, 13.35.116.3"
@@ -4261,63 +3773,39 @@ www.lekkerbets.co.za,NOERROR,No,45.60.247.194
 ninlay.com,NOERROR,No,185.207.197.181
 milyar.com,NOERROR,No,"3.166.152.98, 3.166.152.24, 3.166.152.126, 3.166.152.71"
 viperwin.com,NOERROR,No,185.207.199.85
-luckyhandcasino.com,NOERROR,No,N/A
-www.spinroIl.live/ru,NXDOMAIN,Sí,N/A
+luckyhandcasino.com,NOERROR,No,
 trinocasino.com,NOERROR,No,"104.21.19.16, 172.67.184.115"
-www.casimba.com/en,NXDOMAIN,Sí,N/A
-www.slot.com/es,NXDOMAIN,Sí,N/A
 tombriches.com,NOERROR,No,"104.21.32.1, 104.21.48.1, 104.21.112.1, 104.21.96.1, 104.21.16.1, 104.21.64.1, 104.21.80.1"
 herake.com,NOERROR,No,104.24.14.93
 reelfortune.com,NOERROR,No,"172.67.69.119, 104.26.6.204, 104.26.7.204"
-casino2eta-ar.com,NXDOMAIN,Sí,N/A
-www.monkeytilt.com/en-ca,NXDOMAIN,Sí,N/A
 coinbets777.com,NOERROR,No,"104.21.112.1, 104.21.48.1, 104.21.16.1, 104.21.32.1, 104.21.80.1, 104.21.96.1, 104.21.64.1"
-spinrollz.com/en,NXDOMAIN,Sí,N/A
 monixbet.com,NOERROR,No,"104.21.112.1, 104.21.48.1, 104.21.64.1, 104.21.80.1, 104.21.16.1, 104.21.96.1, 104.21.32.1"
-playio.com/en,NXDOMAIN,Sí,N/A
 bitcasino.io,NOERROR,No,"104.16.100.13, 104.16.101.13"
-www.casinotrope2.com/es,NXDOMAIN,Sí,N/A
 www.powerbet777.com,NOERROR,No,"104.21.64.1, 104.21.80.1, 104.21.112.1, 104.21.32.1, 104.21.96.1, 104.21.48.1, 104.21.16.1"
-sirwin.com/es,NXDOMAIN,Sí,N/A
-anarchycasino.com/en/home,NXDOMAIN,Sí,N/A
-rizzcasino.com/en/home,NXDOMAIN,Sí,N/A
 angliabet.com,NOERROR,No,162.0.217.214
 casinonight.com,NOERROR,No,"104.18.11.11, 104.18.10.11"
 www.kingsofsport.com,NOERROR,No,"104.26.4.177, 104.26.5.177, 172.67.70.143"
-www.yummygame.io,SERVFAIL,Sí,N/A
+www.yummygame.io,SERVFAIL,Sí,
 playmoola.com,NOERROR,No,"104.21.66.253, 172.67.210.171"
 www.slotheist.com,NOERROR,No,15.222.159.163
 x7casino.com,NOERROR,No,"104.18.33.66, 172.64.154.190"
 vikingspin.com,NOERROR,No,"104.21.16.1, 104.21.80.1, 104.21.112.1, 104.21.64.1, 104.21.96.1, 104.21.32.1, 104.21.48.1"
 nitrospins.com,NOERROR,No,67.220.95.7
-slotsvil.com/es,NXDOMAIN,Sí,N/A
 lp.playoro.com,NOERROR,No,147.78.140.115
-bdmbetcom,SERVFAIL,Sí,N/A
-lgocasinol3.com,NXDOMAIN,Sí,N/A
-wa2bee.casino,NXDOMAIN,Sí,N/A
-airbetio,SERVFAIL,Sí,N/A
 www.betiro.com,NOERROR,No,"172.64.147.151, 104.18.40.105"
 promo.eternalslots.com,NOERROR,No,"104.21.6.81, 172.67.134.160"
-kingmaker.com/en,NXDOMAIN,Sí,N/A
 www.bombastic.com,NOERROR,No,"104.26.0.219, 104.26.1.219, 172.67.71.194"
 www.coinkings.io,NOERROR,No,"104.18.43.98, 172.64.144.158"
-hugewin.com/es,NXDOMAIN,Sí,N/A
 betfree.com,NOERROR,No,"172.67.202.38, 104.21.69.6"
-www.joyfulbet.io,NOERROR,No,N/A
+www.joyfulbet.io,NOERROR,No,
 dailyspins.com,NOERROR,No,"104.26.5.5, 172.67.70.147, 104.26.4.5"
-slotexo.com/en,NXDOMAIN,Sí,N/A
-royalgame.com/en,NXDOMAIN,Sí,N/A
 casino.8xwins.com,NOERROR,No,"104.17.224.218, 104.17.223.218, 104.17.220.218, 104.17.222.218, 104.17.221.218"
-zeuswin.com/en,NXDOMAIN,Sí,N/A
-www.betbord.biz/en,NXDOMAIN,Sí,N/A
 www.stakeprix.com,NOERROR,No,"172.67.38.47, 104.22.14.225, 104.22.15.225"
 wikiluck.com,NOERROR,No,"93.152.234.175, 93.152.234.177, 93.152.234.176"
-lp.betglobal.com,SERVFAIL,Sí,N/A
+lp.betglobal.com,SERVFAIL,Sí,
 www.bikinislots.com,NOERROR,No,"13.35.116.15, 13.35.116.116, 13.35.116.51, 13.35.116.55"
 dude2.bet,NOERROR,No,"172.67.164.108, 104.21.49.149"
-yourwin24.com/online-casino,NXDOMAIN,Sí,N/A
 www.voybet.com,NOERROR,No,45.58.159.42
-www.spinland.bet/es,NXDOMAIN,Sí,N/A
 luckyhour.com,NOERROR,No,188.253.18.145
 www.gospin.io,NOERROR,No,"167.71.141.192, 104.194.140.6"
 www.kingamo.com,NOERROR,No,"104.194.140.6, 167.71.141.192"
@@ -4326,177 +3814,73 @@ www.pumacasino.io,NOERROR,No,"167.71.141.192, 104.194.140.6"
 www.rocketwin.io,NOERROR,No,"167.71.141.192, 104.194.140.6"
 www.spinspace.io,NOERROR,No,"104.194.140.6, 167.71.141.192"
 www.wishcasino.io,NOERROR,No,"104.194.140.6, 167.71.141.192"
-novajackpot.com/en,NXDOMAIN,Sí,N/A
-www.madmsh.com,NXDOMAIN,Sí,N/A
-ninewin.com16,NXDOMAIN,Sí,N/A
-www.merHncasino.com/es,NXDOMAIN,Sí,N/A
 gamblezen.com,NOERROR,No,"172.67.195.125, 104.21.76.131"
-flipwager.com/en/home,NXDOMAIN,Sí,N/A
-www.ethplay.io/es,NXDOMAIN,Sí,N/A
 cuscocasino.com,NOERROR,No,"104.21.13.247, 172.67.133.140"
-www.caspbetcom,NXDOMAIN,Sí,N/A
 www.nags.bet,NOERROR,No,45.223.174.247
 s01.amerio.bet,NOERROR,No,"104.26.6.92, 104.26.7.92, 172.67.70.173"
-onHne.racecards.bet,NXDOMAIN,Sí,N/A
 america777.com,NOERROR,No,135.181.253.128
-www.scarlettcasino.com/es,NXDOMAIN,Sí,N/A
 mix4bet.com,NOERROR,No,"104.21.6.183, 172.67.155.43"
-neonixcasino.com/en,NXDOMAIN,Sí,N/A
 eurobet.pro,NOERROR,No,"104.21.4.33, 172.67.131.154"
 www.bubblesbet.com,NOERROR,No,13.107.246.40
 www.30bet.com,NOERROR,No,200.25.69.94
 zumospin.com,NOERROR,No,"104.26.0.67, 172.67.73.235, 104.26.1.67"
-delofocasino.com,NXDOMAIN,Sí,N/A
 www.winsly.com,NOERROR,No,"104.21.1.90, 172.67.128.244"
 bitz8.vip,NOERROR,No,"172.67.222.52, 104.21.54.13"
-boomerang-bet.com/en/game,NXDOMAIN,Sí,N/A
 wintopia.com,NOERROR,No,"104.21.12.53, 172.67.193.174"
-gamegfam.com,NXDOMAIN,Sí,N/A
-fainbet.com,NXDOMAIN,Sí,N/A
-fafe.bet/casino/home,NXDOMAIN,Sí,N/A
 www.vegaslegacy.com,NOERROR,No,"172.66.40.195, 172.66.43.61"
-date.casino/es,NXDOMAIN,Sí,N/A
-cfyptomsh.com/en,NXDOMAIN,Sí,N/A
-winnita.com/it,NXDOMAIN,Sí,N/A
-zeusglofy.com,NXDOMAIN,Sí,N/A
-www.feddice.com,NXDOMAIN,Sí,N/A
+www.feddice.com,NXDOMAIN,Sí,
 metatokens.games,NOERROR,No,"172.67.68.150, 104.26.10.136, 104.26.11.136"
-xspin.io/en,NXDOMAIN,Sí,N/A
-www.hatbet56.com/tf,NXDOMAIN,Sí,N/A
-donbet.com/en,NXDOMAIN,Sí,N/A
-www.cfyptowins.com,NXDOMAIN,Sí,N/A
-www.supefkasino.com/fi-fi,NXDOMAIN,Sí,N/A
-www.feelsof)oy.io/en,NXDOMAIN,Sí,N/A
-winolotcom/es,SERVFAIL,Sí,N/A
-wagefinox.com,NXDOMAIN,Sí,N/A
-https;//www.goldengenie.com/es,NXDOMAIN,Sí,N/A
 monro.casino,NOERROR,No,"45.85.118.2, 45.12.31.254"
 play.casinovibes.com,NOERROR,No,200.25.69.94
 stage.mrocasino.com,NOERROR,No,"104.21.30.91, 172.67.172.178"
-miucasino.com/es,NXDOMAIN,Sí,N/A
 awrora.casino,NOERROR,No,88.208.22.151
 bet2fun9.Online,NOERROR,No,199.59.243.228
 toshi.bet,NOERROR,No,"104.26.0.120, 172.67.71.217, 104.26.1.120"
 goldmatic.xyz,NOERROR,No,"13.248.169.48, 76.223.54.146"
-jackp0tfren2y.com/en,NXDOMAIN,Sí,N/A
-unllmcasino.club,NXDOMAIN,Sí,N/A
-uslotul60.online/es,NXDOMAIN,Sí,N/A
 wagabet.com,NOERROR,No,"104.21.30.217, 172.67.173.243"
 www.seabet.io,NOERROR,No,107.154.195.19
 nordscasino.com,NOERROR,No,"172.67.166.166, 104.21.16.58"
-www.galaxyspins.com/es,NXDOMAIN,Sí,N/A
 www.swapcasino.com,NOERROR,No,199.59.243.228
 stakewin.io,NOERROR,No,"172.67.73.157, 104.26.6.212, 104.26.7.212"
 houseofspins.com,NOERROR,No,"104.21.51.205, 172.67.185.225"
 non-gamstop.co,NOERROR,No,"104.21.8.90, 172.67.130.103"
-kirgo.com/en,NXDOMAIN,Sí,N/A
 cryptocasino.com,NOERROR,No,"104.18.35.170, 172.64.152.86"
 www.moonwin.com,NOERROR,No,154.218.15.1
-vegascoinl.casino/en,NXDOMAIN,Sí,N/A
 betspino.com,NOERROR,No,204.93.210.17
 inmerion.com,NOERROR,No,"172.66.43.195, 172.66.40.61"
-www.m88.io,NOERROR,No,N/A
+www.m88.io,NOERROR,No,
 b7casino.com,NOERROR,No,"172.67.68.205, 104.26.8.149, 104.26.9.149"
-megapañ-atgentina.com,NXDOMAIN,Sí,N/A
 www.stupidcasino.com,NOERROR,No,"104.21.80.1, 104.21.96.1, 104.21.32.1, 104.21.48.1, 104.21.112.1, 104.21.16.1, 104.21.64.1"
-www.winll.com,NXDOMAIN,Sí,N/A
 luckyboycasino.com,NOERROR,No,"104.21.35.85, 172.67.216.55"
-www.hallabet.com/en,NXDOMAIN,Sí,N/A
 www.spinbet.com,NOERROR,No,"104.18.2.114, 104.18.3.114"
 www.luckyjungle.com,NOERROR,No,"94.156.10.9, 94.156.10.10, 94.156.10.6, 94.156.10.5, 94.156.10.4, 94.156.10.3, 94.156.10.7, 94.156.10.1, 94.156.10.2, 94.156.10.8"
 www.facasino.com,NOERROR,No,52.20.84.62
-www.betcomets.com,NXDOMAIN,Sí,N/A
 onedun.com,NOERROR,No,"104.21.48.1, 104.21.32.1, 104.21.16.1, 104.21.64.1, 104.21.80.1, 104.21.96.1, 104.21.112.1"
 www.vS.game,NOERROR,No,91.195.240.19
 lwjlc.com,NOERROR,No,38.38.165.228
-www.hallabet.shop/prematch,NXDOMAIN,Sí,N/A
-betglobal.com/es/sports,NXDOMAIN,Sí,N/A
-dudell.bet,NXDOMAIN,Sí,N/A
-www.casinovibes.com/en/welcome,NXDOMAIN,Sí,N/A
 vikingo-play-net.club,NOERROR,No,"172.67.131.65, 104.21.10.66"
 casinofox-bet.com,NOERROR,No,"172.67.128.181, 104.21.1.61"
-www.casino2eus.club,NXDOMAIN,Sí,N/A
-casino2eus.io,NXDOMAIN,Sí,N/A
 superentrada.com.ar,NOERROR,No,145.223.124.150
-lwin.com.ar,NXDOMAIN,Sí,N/A
-lwin-online-ar.com,NXDOMAIN,Sí,N/A
-lxbet.mx/252.https://ar.lxbet.com/es,NXDOMAIN,Sí,N/A
-jugaygana.online,SERVFAIL,Sí,N/A
-royaldeluxe.bet/index.php?width=1,NXDOMAIN,Sí,N/A
+jugaygana.online,SERVFAIL,Sí,
 casino-zeus.ola.click,NOERROR,No,"13.226.52.110, 13.226.52.115, 13.226.52.90, 13.226.52.6"
 www.casinozeus.club,NOERROR,No,"65.8.248.47, 65.8.248.12, 65.8.248.41, 65.8.248.14"
-coldgame.bet/casino.php,NXDOMAIN,Sí,N/A
-pinkgame.net,SERVFAIL,Sí,N/A
-pinkgame.net/sports.php,NXDOMAIN,Sí,N/A
-bet91.pro/login,NXDOMAIN,Sí,N/A
+pinkgame.net,SERVFAIL,Sí,
 www.bet30.club,NOERROR,No,"18.239.225.8, 18.239.225.99, 18.239.225.56, 18.239.225.47"
-www.kingcasino.com/es/all-games,NXDOMAIN,Sí,N/A
-gg.bet/es,NXDOMAIN,Sí,N/A
-dodoscruzados.vip/jugadores/index.php,NXDOMAIN,Sí,N/A
-jugaencasa.co/es,NXDOMAIN,Sí,N/A
-www.casino.com/ar/juegos-de-casino,NXDOMAIN,Sí,N/A
-templodeslots.es/juego/juega-gratis-demo-diamond-bet-roulette,NXDOMAIN,Sí,N/A
 www.redcasino.com,NOERROR,No,"172.67.165.65, 104.21.57.175"
 www.cdinastyok.com,NOERROR,No,34.149.87.45
-redblackline.net/home,NXDOMAIN,Sí,N/A
-www.bodog.com/es/casino,NXDOMAIN,Sí,N/A
-dice.goldenevegas.be/en/casino,NXDOMAIN,Sí,N/A
-www.instagram.com/casinozeus351,NXDOMAIN,Sí,N/A
-www.instagram.com/casinozeus_oficial1,NXDOMAIN,Sí,N/A
-www.instagram.com/casinolaindia_,NXDOMAIN,Sí,N/A
-www.instagram.com/casinoganador23,NXDOMAIN,Sí,N/A
-www.instagram.com/_thiagobarcos_10,NXDOMAIN,Sí,N/A
-www.facebook.com/cristian.ibanez.503092,NXDOMAIN,Sí,N/A
-www.facebook.com/groups/3046145052304903,NXDOMAIN,Sí,N/A
-www.facebook.com/profile.php?id=100006322236347,NXDOMAIN,Sí,N/A
-www.facebook.com/casinoonline.mza,NXDOMAIN,Sí,N/A
-www.facebook.com/alejandraandrealam,NXDOMAIN,Sí,N/A
-www.facebook.com/groups/813819025983549,NXDOMAIN,Sí,N/A
-www.facebook.com/profile.php?id=100095680055047&sk=about,NXDOMAIN,Sí,N/A
-www.facebook.com/profile.php?id=10007347653207,NXDOMAIN,Sí,N/A
-www.facebook.com/profile.php?id=100012539559937,NXDOMAIN,Sí,N/A
-www.instagram.com/casino.red.scaloneta,NXDOMAIN,Sí,N/A
-www.instagram.com/ganaencasa.mendoza,NXDOMAIN,Sí,N/A
-www.instagram.com/casinomzaya,NXDOMAIN,Sí,N/A
-www.instagram.com/mendoza_casino_online,NXDOMAIN,Sí,N/A
-www.instagram.com/casinoonline.jugalo.net.mza,NXDOMAIN,Sí,N/A
-www.instagram.com/onlinemzacasino,NXDOMAIN,Sí,N/A
-www.instagram.com/casino_malvek_mendoza,NXDOMAIN,Sí,N/A
-www.instagram.com/casino.online.mendoza,NXDOMAIN,Sí,N/A
-www.instagram.com/casino_red_scaloneta_,NXDOMAIN,Sí,N/A
-www.instagram.com/redscaloneta,NXDOMAIN,Sí,N/A
-www.instagram.com/red_scaloneta_casino,NXDOMAIN,Sí,N/A
-www.instagram.com/red.scaloneta6,NXDOMAIN,Sí,N/A
-www.instagram.com/casino_redscaloneta,NXDOMAIN,Sí,N/A
-www.instagram.com/red_scaloneta_,NXDOMAIN,Sí,N/A
-www.instagram.com/redscaloneta_casino_,NXDOMAIN,Sí,N/A
-www.instagram.com/mili_redscaloneta,NXDOMAIN,Sí,N/A
-www.instagram.com/ok_redscaloneta,NXDOMAIN,Sí,N/A
-www.instagram.com/red_scaloneta.777,NXDOMAIN,Sí,N/A
-www.instagram.com/casino.redscalonetaa,NXDOMAIN,Sí,N/A
-www.instagram.com/red_scaloneta.1,NXDOMAIN,Sí,N/A
-www.instagram.com/red_scaloneta9,NXDOMAIN,Sí,N/A
-www.instagram.com/red.scaloneta_,NXDOMAIN,Sí,N/A
-www.instagram.com/casino_red_scaloneta.24,NXDOMAIN,Sí,N/A
-www.instagram.com/casino.redscaloneta,NXDOMAIN,Sí,N/A
-www.instagram.com/casino.redscaloneta98,NXDOMAIN,Sí,N/A
-www.instagram.com/red.scaloneta2024,NXDOMAIN,Sí,N/A
-www.instagram.com/red_scaloneta.24,NXDOMAIN,Sí,N/A
 www.easy-moneyoficial.com,NOERROR,No,"104.21.48.1, 104.21.32.1, 104.21.96.1, 104.21.64.1, 104.21.112.1, 104.21.80.1, 104.21.16.1"
 www.casinozeus.club,NOERROR,No,"65.8.248.12, 65.8.248.41, 65.8.248.14, 65.8.248.47"
 www.betwinenjoyoficial.com,NOERROR,No,15.197.172.60
 www.clubpalaceok.com,NOERROR,No,15.197.212.58
-www.betonlineoluck.comaria-c.vercel.appgrupo7-14.vercel.apparia-luc.vercel.app/ganamos.net,NXDOMAIN,Sí,N/A
 azarlatino.com,NOERROR,No,185.148.106.189
-coroyale.com,NXDOMAIN,Sí,N/A
 www.1xbet.com,NOERROR,No,"104.18.41.64, 172.64.146.192"
-www.betwinner1.com,NXDOMAIN,Sí,N/A
+www.betwinner1.com,NXDOMAIN,Sí,
 www.bc.game,NOERROR,No,"104.18.28.120, 104.18.29.120"
 www.gamdom.com,NOERROR,No,"151.101.195.52, 151.101.131.52, 151.101.67.52, 151.101.3.52"
 www.megapari.com,NOERROR,No,83.147.204.197
 www.trustdice.win,NOERROR,No,"104.22.8.204, 172.67.23.157, 104.22.9.204"
 www.22bet.com,NOERROR,No,46.32.183.88
-www.megafaraon.co,NOERROR,No,N/A
+www.megafaraon.co,NOERROR,No,
 www.ggpoker.com,NOERROR,No,"104.18.40.165, 172.64.147.91"
 www.bitstarz.com,NOERROR,No,5.10.244.24
 www.888poker.com,NOERROR,No,"18.64.174.78, 18.64.174.22, 18.64.174.68, 18.64.174.18"
@@ -4509,20 +3893,16 @@ www.williamhill.es,NOERROR,No,"13.249.98.23, 13.249.98.125, 13.249.98.50, 13.249
 www.888sport.es,NOERROR,No,"3.166.181.52, 3.166.181.43, 3.166.181.38, 3.166.181.61"
 www.gate777.com,NOERROR,No,"13.35.116.31, 13.35.116.13, 13.35.116.3, 13.35.116.73"
 www.cocoacasino.com,NOERROR,No,"77.74.228.5, 77.74.228.7, 77.74.228.8, 77.74.228.6"
-www.megafaraon.com,NXDOMAIN,Sí,N/A
 www.slottojam11.com,NOERROR,No,185.178.209.227
 www.nationalcasino.com,NOERROR,No,"172.67.69.251, 104.26.0.107, 104.26.1.107"
 www.bizzocasino.com,NOERROR,No,"172.67.72.30, 104.26.0.13, 104.26.1.13"
 www.betonred.com,NOERROR,No,"104.22.64.68, 104.22.65.68, 172.67.41.129"
 www.wazamba.com,NOERROR,No,185.207.197.215
-www.melbet-ar.com,NXDOMAIN,Sí,N/A
-www.jvspin286778.top,NXDOMAIN,Sí,N/A
 www.casigo.com,NOERROR,No,"13.35.116.13, 13.35.116.3, 13.35.116.73, 13.35.116.31"
 www.win.city,NOERROR,No,"172.67.176.156, 104.21.83.134"
 www.sol.casino,NOERROR,No,"45.85.118.5, 45.12.31.251"
 www.betswap.gg,NOERROR,No,"104.18.9.170, 104.18.8.170"
 www.jackbit.com,NOERROR,No,"104.21.96.1, 104.21.64.1, 104.21.80.1, 104.21.112.1, 104.21.16.1, 104.21.48.1, 104.21.32.1"
-www.paripesa.xyz,NXDOMAIN,Sí,N/A
 www.shangrila.com,NOERROR,No,"172.66.40.232, 172.66.43.24"
 www.cloudbet.com,NOERROR,No,"172.67.27.172, 104.22.49.165, 104.22.48.165"
 www.casinomagic.com.ar,NOERROR,No,198.96.95.85
@@ -4535,16 +3915,14 @@ www.admiralbet.es,NOERROR,No,94.136.112.210
 www.lokicasino.com,NOERROR,No,156.225.72.3
 www.energycasino.com,NOERROR,No,34.96.91.230
 www.casinocasino.com,NOERROR,No,45.60.192.83
-www.winuniquecasino-real.com,NXDOMAIN,Sí,N/A
 www.rtbet.com,NOERROR,No,185.207.197.121
 www.slotspalace.com,NOERROR,No,185.207.199.231
 www.bdmbet.com,NOERROR,No,"104.22.25.246, 172.67.13.108, 104.22.24.246"
 www.ninecasino.com,NOERROR,No,"104.22.15.198, 172.67.39.215, 104.22.14.198"
-www.spinrollz.com,NXDOMAIN,Sí,N/A
 www.pribet.com,NOERROR,No,"93.152.234.108, 93.152.234.107, 93.152.234.106"
 www.thrillsy.com,NOERROR,No,"93.152.234.167, 93.152.234.168, 93.152.234.166"
 www.casinado.com,NOERROR,No,185.207.198.30
-www.silverplay013.com,SERVFAIL,Sí,N/A
+www.silverplay013.com,SERVFAIL,Sí,
 www.luckykarmacasino.com,NOERROR,No,137.184.206.157
 www.caibo.fun,NOERROR,No,"185.18.184.1, 185.18.184.2"
 www.ditobet.com,NOERROR,No,185.162.228.2
@@ -4552,9 +3930,8 @@ www.eldoah.io,NOERROR,No,5.10.247.228
 www.k8.io,NOERROR,No,"104.18.24.55, 104.18.25.55"
 www.mrrex.com,NOERROR,No,45.60.247.194
 www.quickwin.com,NOERROR,No,185.207.196.125
-www.luckylanespins.com,UNKNOWN,No,N/A
+www.luckylanespins.com,UNKNOWN,No,
 www.doradobet.com,NOERROR,No,"104.18.193.230, 104.18.192.230"
-www.bettycasino.space,NXDOMAIN,Sí,N/A
 www.kwiff.com,NOERROR,No,"65.8.248.125, 65.8.248.32, 65.8.248.57, 65.8.248.112"
 casinozeus.io,NOERROR,No,"104.21.96.1, 104.21.80.1, 104.21.48.1, 104.21.64.1, 104.21.16.1, 104.21.112.1, 104.21.32.1"
 sectorbet.co,NOERROR,No,147.93.64.135
@@ -4562,56 +3939,50 @@ bet30.es,NOERROR,No,199.59.243.228
 vikingocasino.com,NOERROR,No,"104.21.96.1, 104.21.80.1, 104.21.112.1, 104.21.32.1, 104.21.48.1, 104.21.64.1, 104.21.16.1"
 www.horuscasino.com,NOERROR,No,"172.67.40.72, 104.22.27.137, 104.22.26.137"
 casinohorus.bet,NOERROR,No,103.224.212.213
-ganamos.net/home,NXDOMAIN,Sí,N/A
 m.casinoclubonline.bet.ar,NOERROR,No,"104.26.15.55, 172.67.71.237, 104.26.14.55"
 redapuestoenvivo.com,NOERROR,No,20.105.216.24
 1xslot.com,NOERROR,No,83.147.205.230
 www.crazyfox.com,NOERROR,No,156.225.72.4
-www.kingcasino.com/es,NXDOMAIN,Sí,N/A
 konabet.net,NOERROR,No,"104.21.58.18, 172.67.197.54"
 casinotiger-club.com,NOERROR,No,"104.21.48.1, 104.21.16.1, 104.21.96.1, 104.21.32.1, 104.21.64.1, 104.21.80.1, 104.21.112.1"
-siempreganaok.com,NXDOMAIN,Sí,N/A
 24live.pro,NOERROR,No,103.224.212.216
-www.cleopatrabet.co,SERVFAIL,Sí,N/A
-Saori.bet,SERVFAIL,Sí,N/A
+www.cleopatrabet.co,SERVFAIL,Sí,
+Saori.bet,SERVFAIL,Sí,
 www.camelbet.vip,NOERROR,No,199.59.243.228
-vegas-365.vip/login.php,NXDOMAIN,Sí,N/A
 www.casinozeta.club,NOERROR,No,"65.8.248.87, 65.8.248.61, 65.8.248.83, 65.8.248.74"
 el-patron.net,NOERROR,No,192.124.249.15
-linktr.ee/casinoclubar,NXDOMAIN,Sí,N/A
 apuestaya.net,NOERROR,No,"34.224.232.17, 54.165.16.221, 3.218.95.10"
 www.magiplay.club,NOERROR,No,103.224.212.212
 cocogames.bet,NOERROR,No,"191.96.70.29, 51.159.103.102, 91.92.137.71, 191.96.70.25, 88.80.148.182, 88.80.148.41, 88.80.145.200, 51.15.19.22, 181.215.183.62, 190.2.145.12, 185.141.63.119, 88.80.148.192, 163.172.251.246, 88.80.147.166, 51.15.19.142, 190.2.145.13, 51.15.19.153, 181.215.183.12"
-depobet.net/sports,NXDOMAIN,Sí,N/A
 www.fortubet.club,NOERROR,No,69.16.230.165
 casino.netbet.com,NOERROR,No,"104.16.96.170, 104.19.223.199"
 www.playgrand.com,NOERROR,No,"13.35.116.31, 13.35.116.13, 13.35.116.73, 13.35.116.3"
-megapari.com/es,NXDOMAIN,Sí,N/A
+megapari.com/es,NXDOMAIN,Sí,
 betkwiff.com,NOERROR,No,"3.166.181.74, 3.166.181.13, 3.166.181.18, 3.166.181.4"
 www.21casino.com,NOERROR,No,"13.35.116.13, 13.35.116.73, 13.35.116.3, 13.35.116.31"
-jugando365.com,NXDOMAIN,Sí,N/A
-www.trebol.vip/casino,NXDOMAIN,Sí,N/A
+jugando365.com,NXDOMAIN,Sí,
+www.trebol.vip/casino,NXDOMAIN,Sí,
 casinozeus.vip,NOERROR,No,"76.223.85.236, 13.248.200.37"
-www.asesdelnorte.com/jugadores/index.php,NXDOMAIN,Sí,N/A
-www.goodluck.de/es,NXDOMAIN,Sí,N/A
+www.asesdelnorte.com/jugadores/index.php,NXDOMAIN,Sí,
+www.goodluck.de/es,NXDOMAIN,Sí,
 faraonbet.net,NOERROR,No,103.224.212.212
 www.ganamos.net,NOERROR,No,"104.22.28.165, 172.67.5.31, 104.22.29.165"
-richestdiamond.com.ar,NXDOMAIN,Sí,N/A
-mystake.com/es,NXDOMAIN,Sí,N/A
+richestdiamond.com.ar,NXDOMAIN,Sí,
+mystake.com/es,NXDOMAIN,Sí,
 cvagaming.com,NOERROR,No,148.113.162.103
-odinplay.net/jugadores/index.php,NXDOMAIN,Sí,N/A
-multijuegos.vip,NXDOMAIN,Sí,N/A
-megafaraon.co/#,NXDOMAIN,Sí,N/A
+odinplay.net/jugadores/index.php,NXDOMAIN,Sí,
+multijuegos.vip,NXDOMAIN,Sí,
+megafaraon.co/#,NXDOMAIN,Sí,
 www.ajugar.pro,NOERROR,No,"172.67.71.84, 104.26.15.212, 104.26.14.212"
-es.casino.guru/cairo-casino-jugar-gratis,NXDOMAIN,Sí,N/A
-betgain.bet,NXDOMAIN,Sí,N/A
-www.grancasino.vip,NXDOMAIN,Sí,N/A
-convergame.net,SERVFAIL,Sí,N/A
+es.casino.guru/cairo-casino-jugar-gratis,NXDOMAIN,Sí,
+betgain.bet,NXDOMAIN,Sí,
+www.grancasino.vip,NXDOMAIN,Sí,
+convergame.net,SERVFAIL,Sí,
 www.voyjugando.com,NOERROR,No,192.124.249.39
-www.casino33.co,SERVFAIL,Sí,N/A
+www.casino33.co,SERVFAIL,Sí,
 lascaloneta.com,NOERROR,No,"76.223.67.189, 13.248.213.45"
 regalamonedas.com,NOERROR,No,"172.67.131.244, 104.21.12.86"
 cashroyalok.com,NOERROR,No,15.197.212.58
 betonline-ok.com,NOERROR,No,200.58.119.215
-www.telefichas.com,NXDOMAIN,Sí,N/A
-diegoarmandobet.com,NXDOMAIN,Sí,N/A
+www.telefichas.com,NXDOMAIN,Sí,
+diegoarmandobet.com,NXDOMAIN,Sí,

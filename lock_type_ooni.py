@@ -23,7 +23,7 @@ def escribir_tipo_de_bloqueo_csv(archivo_salida: str, datos: list, modo: str):
         print(f"Datos guardados en {archivo_salida}")
     else:
         print("No hay datos para guardar.")
-        
+ 
 
 def save_to_csv(data: list, label: str, output_folder: str = "csv_output") -> None:
     if not data:

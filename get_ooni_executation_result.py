@@ -45,8 +45,8 @@ def save_to_csv(data: list, label: str, output_folder: str = "csv_output") -> No
 def extraer_datos_de_todas_las_listas_ejecutadas() -> None:
     query = "https://api.ooni.org/api/v1/measurements"
     ooni_run_link_id = 10158
-    start_date = date(2025, 4, 15)
-    end_date = date(2025, 5, 3)
+    start_date = date(2025, 4, 14)
+    end_date = date(2025, 5, 17)
 
     current_date = start_date
     
