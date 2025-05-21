@@ -1,55 +1,57 @@
 import os
 import pandas as pd
-import csv
-
-def save_to_csv(data: list, label: str, output_folder: str = "csv_output") -> None:
-    if not data:
-        print("No hay datos para guardar.")
-        return
-
-    os.makedirs(output_folder, exist_ok=True)
-    file_name = f"{output_folder}/{label}.csv"
-    headers = list(data[0].keys())
-    write_header = not os.path.exists(file_name)
-
-    with open(file_name, mode="a", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=headers)
-        if write_header:
-            writer.writeheader()
-        for row in data:
-            writer.writerow(row)
-
-    print(f"Archivo guardado: {file_name}")
-
 
 def mesh(directory: str) -> None:
     csv_files = [os.path.join(directory, f) for f in os.listdir(directory) if f.endswith('.csv')]
-    dataframes = [pd.read_csv(file) for file in csv_files]
 
-    common_inputs = set(dataframes[0]['input'])
-    for df in dataframes[1:]:
-        common_inputs &= set(df['input'])
+    if not csv_files:
+        print("No se encontraron archivos CSV en el directorio.")
+        return
 
-    result_df = pd.DataFrame(common_inputs, columns=["input"])
-    save_to_csv(result_df.to_dict(orient="records"), label="pages_no_longer_exist", output_folder="csv_output/pages_no_longer_exist")
-
-
-def delete_url(directory: str, reference_file_path: str) -> None:
-    reference_df = pd.read_csv(reference_file_path)
-    reference_input = reference_df["input"]
-    csv_files = [os.path.join(directory, f) for f in os.listdir(directory) if f.endswith('.csv')]
-
+    dataframes = []
     for file in csv_files:
-        if os.path.abspath(file) == os.path.abspath(reference_file_path):
-            continue
+        df = pd.read_csv(file)
+        if 'input' not in df.columns or 'accessible' not in df.columns:
+            print(f"El archivo {file} no contiene las columnas necesarias.")
+            return
+        dataframes.append(df)
 
-        current_df = pd.read_csv(file)
-        filtered_df = current_df[~current_df['input'].isin(reference_input)]
+    # Encontrar inputs comunes a todos los CSV
+    common_inputs = set(dataframes[0]['input'].dropna())
+    for df in dataframes[1:]:
+        common_inputs &= set(df['input'].dropna())
 
-        if not filtered_df.equals(current_df):
-            filtered_df.to_csv(file, index=False)
+    if not common_inputs:
+        print("No hay 'input' comunes entre todos los archivos.")
+        return
 
+    # Función para saber si accessible es False (booleano o string 'false')
+    def is_accessible_false(value):
+        if pd.isna(value):
+            return False
+        if isinstance(value, bool):
+            return value is False
+        return str(value).strip().lower() == 'false'
+
+    inputs_to_update = set()
+    for inp in common_inputs:
+        # Revisar que en todos los CSV, para este input, accessible sea False
+        if all(
+            df.loc[df['input'] == inp, 'accessible'].apply(is_accessible_false).all()
+            for df in dataframes
+        ):
+            inputs_to_update.add(inp)
+
+    if not inputs_to_update:
+        print("No hay inputs comunes con 'accessible' = False en todos los CSV.")
+        return
+
+    # Actualizar los CSV originales
+    for path, df in zip(csv_files, dataframes):
+        mask = df['input'].isin(inputs_to_update)
+        df.loc[mask & df['accessible'].apply(is_accessible_false), 'accessible'] = 'NOACCESIBLEPORMETODO'
+        df.to_csv(path, index=False)
+        print(f"Archivo actualizado: {path}")
 
 # Ejecutar
-mesh("vpn")
-delete_url("vpn", "csv_output/pages_no_longer_exist/pages_no_longer_exist.csv")
+mesh("csv_output/vpn")
