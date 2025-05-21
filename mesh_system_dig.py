@@ -22,49 +22,40 @@ def save_to_csv(data: list, label: str, output_folder: str = "csv_output") -> No
     print(f"Archivo guardado: {file_name}")
 
 
-def mesh_digs(directory: str) -> None:
-    csv_files = [os.path.join(directory, f) for f in os.listdir(directory) if f.endswith('.csv')]
-    dataframes = [pd.read_csv(file) for file in csv_files]
 
-    # Intersección de dominios
-    common_domains = set(dataframes[0]["Dominio"].str.strip())
-    for df in dataframes[1:]:
-        common_domains &= set(df["Dominio"].str.strip())
-
-    # Filtrar solo los que están bloqueados en TODOS los archivos
-    blocked_domains = []
-    for domain in common_domains:
-        blocked_in_all = all(
-            df[df["Dominio"].str.strip() == domain]["Bloqueado"].str.strip().str.lower().eq("sí").any()
-            for df in dataframes
-        )
-        if blocked_in_all:
-            blocked_domains.append(domain)
-
-    # Guardar los dominios bloqueados comunes con sus datos
-    result_rows = []
-    for df in dataframes:
-        result_rows.extend(df[df["Dominio"].str.strip().isin(blocked_domains)].to_dict(orient="records"))
-        break  # Solo necesitamos una muestra de datos para guardar (son iguales en todos)
-
-    save_to_csv(result_rows, label="digs_no_long_exist", output_folder="csv_output/digs_no_long_exist")
-
-
-def delete_domains(directory: str, reference_file_path: str) -> None:
-    reference_df = pd.read_csv(reference_file_path)
-    reference_domains = reference_df["Dominio"].str.strip()
+def mesh(directory: str) -> None:
     csv_files = [os.path.join(directory, f) for f in os.listdir(directory) if f.endswith('.csv')]
 
+    if not csv_files:
+        print("No se encontraron archivos CSV en el directorio.")
+        return
+
+    dataframes = []
     for file in csv_files:
-        if os.path.abspath(file) == os.path.abspath(reference_file_path):
-            continue
+        df = pd.read_csv(file)
+        if 'input' not in df.columns or 'accessible' not in df.columns:
+            print(f"El archivo {file} no contiene las columnas necesarias.")
+            return
+        dataframes.append(df)
 
-        current_df = pd.read_csv(file)
-        filtered_df = current_df[~current_df["Dominio"].str.strip().isin(reference_domains)]
+    common_inputs = set(dataframes[0]['input'].dropna())
+    for df in dataframes[1:]:
+        common_inputs &= set(df['input'].dropna())
 
-        if not filtered_df.equals(current_df):
-            filtered_df.to_csv(file, index=False)
+    if not common_inputs:
+        print("No hay 'input' comunes entre todos los archivos.")
+        return
+
+    common_data = [{'input': url} for url in sorted(common_inputs)]
+    save_to_csv(common_data, label="pages_no_longer_exist", output_folder="csv_output/pages_vpn_no_longer_exist")
+
+    # Modificar los CSV originales
+    for path, df in zip(csv_files, dataframes):
+        mask = df['input'].isin(common_inputs)
+        df['accessible'] = df['accessible'].astype('object')
+        df.loc[mask, 'accessible'] = 'NOACCESIBLEPORMETODO'
+        df.to_csv(path, index=False)
+        print(f"Archivo actualizado: {path}")
 
 # Ejecutar
-mesh_digs("csv_output/digs")
-delete_domains("csv_output/digs", "csv_output/digs_no_long_exist/digs_no_long_exist.csv")
+mesh("csv_output/vpn")
