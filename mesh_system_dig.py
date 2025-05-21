@@ -21,41 +21,47 @@ def save_to_csv(data: list, label: str, output_folder: str = "csv_output") -> No
 
     print(f"Archivo guardado: {file_name}")
 
-
-
-def mesh(directory: str) -> None:
+def mesh_digs(directory: str) -> None:
     csv_files = [os.path.join(directory, f) for f in os.listdir(directory) if f.endswith('.csv')]
-
     if not csv_files:
         print("No se encontraron archivos CSV en el directorio.")
         return
 
-    dataframes = []
-    for file in csv_files:
-        df = pd.read_csv(file)
-        if 'input' not in df.columns or 'accessible' not in df.columns:
-            print(f"El archivo {file} no contiene las columnas necesarias.")
-            return
-        dataframes.append(df)
+    dataframes = [pd.read_csv(file) for file in csv_files]
 
-    common_inputs = set(dataframes[0]['input'].dropna())
+    # Intersección de dominios en todos los CSV
+    common_domains = set(dataframes[0]["Dominio"].str.strip())
     for df in dataframes[1:]:
-        common_inputs &= set(df['input'].dropna())
+        common_domains &= set(df["Dominio"].str.strip())
 
-    if not common_inputs:
-        print("No hay 'input' comunes entre todos los archivos.")
+    # Filtrar solo dominios bloqueados en TODOS los archivos
+    blocked_domains = []
+    for domain in common_domains:
+        blocked_in_all = all(
+            (df_domain := df[df["Dominio"].str.strip() == domain])["Bloqueado"].eq("Sí").any()
+            for df in dataframes
+        )
+        if blocked_in_all:
+            blocked_domains.append(domain)
+
+
+    if not blocked_domains:
+        print("No hay dominios bloqueados comunes en todos los archivos.")
         return
 
-    common_data = [{'input': url} for url in sorted(common_inputs)]
-    save_to_csv(common_data, label="pages_no_longer_exist", output_folder="csv_output/pages_vpn_no_longer_exist")
 
-    # Modificar los CSV originales
-    for path, df in zip(csv_files, dataframes):
-        mask = df['input'].isin(common_inputs)
-        df['accessible'] = df['accessible'].astype('object')
-        df.loc[mask, 'accessible'] = 'NOACCESIBLEPORMETODO'
-        df.to_csv(path, index=False)
-        print(f"Archivo actualizado: {path}")
+    df_first = dataframes[0]
+    result_rows = df_first[
+        (df_first["Dominio"].str.strip().isin(blocked_domains)) &
+        (df_first["Bloqueado"] == "Sí")
+    ].to_dict(orient="records")
+
+    save_to_csv(result_rows, label="digs_no_long_exist", output_folder="csv_output/digs_no_long_exist")
+    for file, df in zip(csv_files, dataframes):
+        mask = (df["Dominio"].str.strip().isin(blocked_domains)) & (df["Bloqueado"] == "Sí")
+        df.loc[mask, "Bloqueado"] = "NOACCESIBLEPORMETODO"
+        df.to_csv(file, index=False)
+        print(f"Archivo actualizado: {file}")
 
 # Ejecutar
-mesh("csv_output/vpn")
+mesh_digs("test")
