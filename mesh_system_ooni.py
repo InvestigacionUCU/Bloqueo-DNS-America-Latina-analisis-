@@ -51,5 +51,5 @@ def delete_url(directory: str, reference_file_path: str) -> None:
 
 
 # Ejecutar
-mesh("csv_output/lists")
-delete_url("csv_output/lists", "csv_output/pages_no_longer_exist/pages_no_longer_exist.csv")
+mesh("vpn")
+delete_url("vpn", "csv_output/pages_no_longer_exist/pages_no_longer_exist.csv")

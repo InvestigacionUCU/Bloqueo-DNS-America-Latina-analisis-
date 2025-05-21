@@ -5,11 +5,11 @@ df1 = pd.read_csv("csv_output/clasification/categorizated_manual_list.csv")
 df1.columns = df1.columns.str.strip()
 
 # Leer archivo 2: Estado DNS (Dominio, Status, Bloqueado)
-df2 = pd.read_csv("csv_output/digs/Uruguay.csv")
+df2 = pd.read_csv("csv_output/digs/Cuba.csv")
 df2.columns = df2.columns.str.strip()
 
 # Leer archivo 3: Fallos DNS/HTTP/accessible
-df3 = pd.read_csv("csv_output/lists/uruguay_movistar.csv")
+df3 = pd.read_csv("vpn/cuba_vpn.csv")
 df3.columns = df3.columns.str.strip()
 
 # Normalizar dominios
@@ -36,12 +36,6 @@ mapa_estado = df2.set_index("Dominio")[["Status", "Bloqueado"]].to_dict(orient="
 # Agregar columnas al df1
 df1["dns_experiment_failure(OONI)"] = df1["dominio"].map(lambda x: mapa_fallas.get(x, {}).get("dns_experiment_failure", ""))
 df1["http_experiment_failure(OONI)"] = df1["dominio"].map(lambda x: mapa_fallas.get(x, {}).get("http_experiment_failure", ""))
-
-# Reemplazar vacíos por "NOERROR"
-
-df1["dns_experiment_failure(OONI)"] = df1["dns_experiment_failure(OONI)"].fillna("NOERROR").replace("", "NOERROR")
-df1["http_experiment_failure(OONI)"] = df1["http_experiment_failure(OONI)"].fillna("NOERROR").replace("", "NOERROR")
-
 
 df1["accessible(OONI)"] = df1["dominio"].map(lambda x: mapa_fallas.get(x, {}).get("accessible", ""))
 
@@ -78,8 +72,8 @@ df1[[
     "resolver_ip(OONI)",
     "deduccion primaria",
     "deduccion secundaria"
-]].to_csv("uruguay_movistar.csv", index=False)
+]].to_csv("cuba_vpn_result.csv", index=False)
 
 
-df = pd.read_csv('argentina.csv')
-df.to_excel('argentina.xlsx', index=False)
+df = pd.read_csv('cuba_vpn_result.csv')
+df.to_excel('cuba_vpn.xlsx', index=False)
