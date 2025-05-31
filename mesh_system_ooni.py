@@ -54,4 +54,4 @@ def mesh(directory: str) -> None:
         print(f"Archivo actualizado: {path}")
 
 # Ejecutar
-mesh("csv_output/vpn")
+mesh("csv_output/locales")
