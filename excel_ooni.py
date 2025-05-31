@@ -1,12 +1,12 @@
 import pandas as pd
 
-file = "venezuela_vpn"
+file = "argentina3"
 def normalizar_url(url):
     if pd.isna(url):
         return ''
     return url.replace('http://', '').replace('https://', '').strip().rstrip('/')
 
-csv1 = pd.read_csv(f'csv_output/vpn/{file}.csv')
+csv1 = pd.read_csv(f'csv_output/locales/{file}.csv')
 csv2 = pd.read_csv('csv_output/clasification/categorizated_manual_list.csv')
 
 # Normalizar y preparar CSV 1
@@ -25,4 +25,4 @@ merged = pd.merge(csv1_filtered, csv2_filtered, how='left', on='dominio')
 merged.drop_duplicates(subset='dominio', inplace=True)
 
 # Exportar a Excel
-merged.to_excel(f'{file}.xlsx', index=False)
+merged.to_excel(f'excel/locales/{file}.xlsx', index=False)
