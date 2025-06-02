@@ -1,4 +1,5 @@
 import pandas as pd
+from urllib.parse import urlparse
 
 file = "Venezuela"
 
@@ -6,7 +7,20 @@ file = "Venezuela"
 def normalizar_url(url):
     if pd.isna(url):
         return ''
-    return url.replace('http://', '').replace('https://', '').strip().rstrip('/')
+    
+    # Eliminar http, https, www
+    url = url.replace('http://', '').replace('https://', '').replace('www.', '').strip()
+    
+    # Asegurarse de tener un esquema para urlparse
+    if not url.startswith(('http://', 'https://')):
+        url = 'http://' + url
+    
+    try:
+        dominio = urlparse(url).netloc  # solo dominio base
+    except Exception:
+        dominio = url
+
+    return dominio.lower().strip()
 
 # Cargar los archivos CSV
 csv1 = pd.read_csv(f'csv_output/digs/{file}.csv')
