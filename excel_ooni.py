@@ -2,23 +2,13 @@ import pandas as pd
 from urllib.parse import urlparse
 
 file = "argentina3"
+
 def normalizar_url(url):
     if pd.isna(url):
         return ''
-    
-    # Eliminar http, https, www
-    url = url.replace('http://', '').replace('https://', '').replace('www.', '').strip()
-    
-    # Asegurarse de tener un esquema para urlparse
-    if not url.startswith(('http://', 'https://')):
-        url = 'http://' + url
-    
-    try:
-        dominio = urlparse(url).netloc  # solo dominio base
-    except Exception:
-        dominio = url
-
-    return dominio.lower().strip()
+    url = url.replace('http://', '').replace('https://', '')
+    url = url.replace('www.', '').strip().rstrip('/')
+    return url
 
 csv1 = pd.read_csv(f'csv_output/locales/{file}.csv')
 csv2 = pd.read_csv('csv_output/clasification/categorizated_manual_list.csv')
