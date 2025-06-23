@@ -1,7 +1,7 @@
 import pandas as pd
 from urllib.parse import urlparse
 
-file = "venezuela"
+file = "argentina3"
 
 # Función para extraer el dominio base (ej: www.facebook.com → facebook.com)
 def extraer_dominio_base(url):
