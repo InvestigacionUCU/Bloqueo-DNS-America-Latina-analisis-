@@ -1,7 +1,7 @@
 import pandas as pd
 from urllib.parse import urlparse
 
-file = "argentina3"
+file = "venezuela_vpn"
 
 # Función para extraer el dominio base (ej: www.facebook.com → facebook.com)
 def extraer_dominio_base(url):
@@ -22,8 +22,8 @@ def extraer_dominio_base(url):
         return ''
 
 # Leer CSVs
-csv1 = pd.read_csv(f'csv_output/pruebas/locales/{file}.csv')
-csv2 = pd.read_csv('csv_output/clasification/manual.csv')
+csv1 = pd.read_csv(f'csv_output/pruebas/vpn/{file}.csv')
+csv2 = pd.read_csv('csv_output/clasification/manual_vpn.csv')
 
 # Normalizar y agregar columnas
 csv1['input_normalizado'] = csv1['input'].str.replace('https://', '', regex=False)\
@@ -55,7 +55,7 @@ merged['deduccion'] = merged['deduccion'].fillna('NO_CLASIFICADO')
 merged = merged.drop_duplicates(subset='input_normalizado', keep='first')
 
 # Exportar a Excel
-merged.to_excel(f'excel/por manual/local/{file}.xlsx', index=False)
+merged.to_excel(f'excel/por manual/vpn/{file}.xlsx', index=False)
 
 # Vista previa
 print(merged[['input_normalizado', 'dominio_base', 'deduccion']].head())
