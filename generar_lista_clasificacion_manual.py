@@ -39,4 +39,4 @@ def juntar_inputs_sin_repetidos(directorio):
     df_resultado.to_csv('inputs_unificados.csv', index=False)
     print("Archivo 'inputs_unificados.csv' creado con éxito.")
     
-juntar_inputs_sin_repetidos('nuevo')
+juntar_inputs_sin_repetidos('csv_output/pruebas/vpn')
