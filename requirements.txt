@@ -3,3 +3,6 @@ requests
 beautifulsoup4
 urllib3
 openpyxl
+openai
+csv
+BeautifulSoup
