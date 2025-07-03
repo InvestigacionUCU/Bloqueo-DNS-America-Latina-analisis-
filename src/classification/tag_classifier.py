@@ -125,4 +125,8 @@ def main(tags_csv, archivo_input, archivo_output):
             save_csv(clasification, url, archivo_output)
                 
                 
-main('csv_output/tags.csv', 'csv_output/clasification/list_pre_clasification_manual.csv', 'csv_output/clasification/categorizated_manual_list.csv')
+main(
+    'csv_output/tags.csv',
+    'csv_output/clasification/list_pre_clasification_manual.csv',
+    'csv_output/clasification/categorizated_manual_list.csv'
+)
